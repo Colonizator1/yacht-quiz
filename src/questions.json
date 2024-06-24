@@ -1,0 +1,209 @@
+[
+  {
+    "text": "Co oznacza taki znak przed wejściem do kanału? / Что означает такой знак перед входом в канал?",
+    "image": "q1.png",
+    "answers": [
+      { "text": "uwaga na fale wytwarzane przez motorówki / следите за волнами, создаваемыми моторными лодками", "correct": false },
+      { "text": "zakaz wytwarzania fali / запрет создания волн", "correct": true },
+      { "text": "miejsce o niebezpiecznym zafalowaniu / место с небезопасным волнением", "correct": false }
+    ]
+  },
+  {
+    "text": "Co musi zrobić sternik jachtu, kiedy na kursie zauważy poniższe znaki? / Что должен сделать рулевой яхты, когда заметит на курсе знаки ниже?",
+    "image": "q2.png",
+    "answers": [
+      { "text": "przepuścić jednostki motorowe płynące z naprzeciwka / пропустить моторные судна, идущие с противоположной стороны", "correct": false },
+      { "text": "nie przekraczać skrajni zaznaczonej białymi kolorami / не пересекать границы, отмеченные белым цветом", "correct": true },
+      { "text": "przekraczać skrajnie zaznaczona czerwonymi kolorami / пересекать границы, отмеченные красным цветом", "correct": false }
+    ]
+  },
+  {
+    "text": "Na drodze wodnej pod mostem sternik zauważył poniższy znak. Co on oznacza? / На водном пути под мостом рулевой заметил знак ниже. Что означает этот знак?",
+    "image": "q3.png",
+    "answers": [
+      { "text": "można płynąc tylko w jednym kierunku i od strony znaku / можно идти только одним направлением и со стороны знака", "correct": false },
+      { "text": "utrudnienia na torze wodnym / сложный водный путь", "correct": false },
+      { "text": "zalecane przejście w obydwu kierunkach / рекомендуется проход в обоих направлениях", "correct": true }
+    ]
+  },
+  {
+    "text": "Gdzie sternik musi zacumować jacht jeśli płynie w kierunku poniższego znaku? / Где рулевой должен пришвартоваться, если идет в направлении знака ниже?",
+    "image": "q4.png",
+    "answers": [
+      { "text": "w dowolnym miejscu, znak oznacza miejsce postojowe / в любом месте, знак означает место стоянки", "correct": false },
+      { "text": "nie wolno parkować z prawej strony znaku / нельзя швартовать с правой стороны знака", "correct": false },
+      { "text": "wolno parkować od znaku w kierunku prawej strony / можно швартоваться с правой стороны от знака", "correct": true }
+    ]
+  },
+  {
+    "text": "Od której strony należy omijać poniższy znak kardynalny? / С какой стороны следует обойти кардинальный знак внизу?",
+    "image": null,
+    "answers": [
+      { "text": "znak omijamy od północy / знак обойти с севера", "correct": true },
+      { "text": "informuje nas o niebezpieczeństwach znajdujących się od północnej strony, znak omijamy od południa / информирует нас об опасности с севера, знак обойти c юга", "correct": false },
+      { "text": "zawsze omijamy prawa burta / всегда обходим правым бортом", "correct": false }
+    ]
+  },
+  {
+    "text": "Kto odpowiada za bezpieczeństwo jachtu i załogi? / Кто отвечает за безопасность яхты и команды?",
+    "image": null,
+    "answers": [
+      { "text": "każdy odpowiada za siebie / каждый отвечает за себя", "correct": false },
+      { "text": "kierownik statku czyli osoba, która jest kapitanem na jachcie / управляющий кораблём - человек, который является капитаном яхты", "correct": true },
+      { "text": "tylko i wyłącznie właściciel jachtu, nawet jeśli nie jest kapitanem jachtu / только хозяин яхты, даже если он не является капитаном яхты", "correct": false }
+    ]
+  },
+  {
+    "text": "Jacht płynący pod żaglami i na silniku jest uważany za: / Яхта, идущая под парусами и на моторе считается:",
+    "image": null,
+    "answers": [
+      { "text": "statek żaglowy / судном парусным", "correct": false },
+      { "text": "statek mechaniczny / судном моторным", "correct": true },
+      { "text": "statek mechaniczny tylko wtedy gdy silnik pracuje na biegu / судном моторным, но только когда двигатель работает на передаче", "correct": false }
+    ]
+  },
+  {
+    "text": "Czy statek, który ciągnie za sobą kotwice jest statkiem w drodze? / Является ли судно, сорвавшее якорь, судном на ходу?",
+    "image": null,
+    "answers": [
+      { "text": "tak / да", "correct": true },
+      { "text": "nie / нет", "correct": false },
+      { "text": "jeśli nie ma uruchomionego silnika lub postawionych żagli nie jest statkiem w drodze / если нет включённого двигателя или поставленных парусов, судно не является судном на ходу", "correct": false }
+    ]
+  },
+  {
+    "text": "Liny olinowania stałego na jachcie typu slup, to: / Элементы стоячего такелажа на яхте типа шлюп, это:",
+    "image": null,
+    "answers": [
+      { "text": "sztag, wanty, fały / штаг, ванты, фалы", "correct": false },
+      { "text": "achtersztag, wanty, sztag / ахтерштаг, ванты, штаг", "correct": true },
+      { "text": "kontrafał, achtersztag, fal płatwy mieczowej / нирал, ахтерштаг, фал шверта", "correct": false }
+    ]
+  },
+  {
+    "text": "Na kursie bejdewind za mocno wybrany fok i poluzowany grot powoduje: / На курсе бейдевинд сильно выбранный передний парус и потравленный грот вызывают:",
+    "image": null,
+    "answers": [
+      { "text": "wzrost zawietrzności jachtu / увеличение подветренности (яхта уваливается)", "correct": true },
+      { "text": "wzrost nawietrzności jachtu / увеличение наветренности (яхта приводится)", "correct": false },
+      { "text": "nie ma znaczenia na zawietrzność i nawietrzność jachtu / нет значения в подветренной и наветренной стороне яхты", "correct": false }
+    ]
+  },
+  {
+    "text": "Przy prawidłowo wybranych żaglach na jakim kursie występuje największa silą przechylająca? / При правильно поставленных парусах, на каком курсе возникает наибольшая сила крена?",
+    "image": null,
+    "answers": [
+      { "text": "baksztag / бакштаг", "correct": false },
+      { "text": "fordewind / фордевинд", "correct": false },
+      { "text": "pełny bejdewind / бейдевинд", "correct": true }
+    ]
+  },
+  {
+    "text": "Który kurs jest ostrzejszy a który pełniejszy? / Какой курс является острее, а какой полнее?",
+    "image": null,
+    "answers": [
+      { "text": "półwiatr jest ostrzejszy a bejdewind pełniejszy / галфвинд является острее, а бейдевинд полнее", "correct": false },
+      { "text": "baksztag jest ostrzejszy a półwiatr pełniejszy / бакштаг является острее, а галфвинд полнее", "correct": false },
+      { "text": "baksztag jest ostrzejszy a fordewind pełniejszy / бакштаг является острее, а фордевинд полнее", "correct": true }
+    ]
+  },
+  {
+    "text": "Kiedy jacht płynie prawym halsem? / Когда яхта идёт правым галсом?",
+    "image": null,
+    "answers": [
+      { "text": "wiatr wieje w lewa burtę / ветер дует в левый борт", "correct": false },
+      { "text": "wiatr wieje w prawa burtę / ветер дует в правый борт", "correct": true },
+      { "text": "grot pracuje na lewej burcie, a fok na prawej / грот работает на левом борту, а передний парус на правом", "correct": false }
+    ]
+  },
+  {
+    "text": "Na kursie bejdewind, w trakcie silnego podmuchu wiatru, jacht nadmiernie się przechylił. Co musi zrobić sternik aby przeciwdziałać przechyłowi? / На курсе бейдевинд, при сильном порыве ветра яхту чрезмерно накренило. Что должен сделать рулевой, чтобы противодействовать крену?",
+    "image": null,
+    "answers": [
+      { "text": "zluzować żagle, wyostrzyć, balastować na burcie nawietrznej / травить паруса, привестись, откренять на наветренном борте", "correct": true },
+      { "text": "odpaść do półwiatr i balastować / увалиться до галфинда, откренять", "correct": false },
+      { "text": "nic nie robić i przeczekać podmuch wiatru / ничего не делать и переждать порыв ветра", "correct": false }
+    ]
+  },
+  {
+    "text": "Refowanie żagli powoduje: / Рифление парусов вызывает:",
+    "image": null,
+    "answers": [
+      { "text": "zwiększenie nawietrzności jachtu / увеличение наветренности яхты", "correct": false },
+      { "text": "obniżenie środka i zmniejszenie powierzchni ożaglowania / занижение центра тяжести и уменьшение площади паруса", "correct": true },
+      { "text": "tylko zmniejszenie powierzchni ożaglowania / только уменьшение площади паруса", "correct": false }
+    ]
+  },
+  {
+    "text": "Wiatr pozorny osiąga największe i najmniejsze wartości na kursach: / Вымпельный ветер достигает наибольшего и наименьшего значения на курсах:",
+    "image": null,
+    "answers": [
+      { "text": "największe – bejdewind, najmniejsze – fordewind / наибольшее - бейдевинд, наименьшее - фордевинд", "correct": true },
+      { "text": "największe – półwiatr, najmniejsze – baksztag / наибольшее - галфвинд, наименьшее - бакштаг", "correct": false },
+      { "text": "największe – bejdewind, najmniejsze – baksztag / наибольшее - бейдевинд, наименьшее - бакштаг", "correct": false }
+    ]
+  },
+  {
+    "text": "Na poruszającym się jachcie wiatr pozorny wieje prostopadle do diametralnej jachtu. Czy w takim przypadku wiatr rzeczywisty w stosunku do wiatru pozornego wieje z kierunku zbliżonego do: / На движушейся яхте, вымпельный ветер дует перпендикуляно диаметральной плоскости яхты. В таком случае, ветер истинный относительно ветра вымпельного дует в направлении ближе к:",
+    "image": null,
+    "answers": [
+      { "text": "bejdewindowego / бейдевинду", "correct": false },
+      { "text": "baksztagowego / бакштагу", "correct": true },
+      { "text": "nie zmienia kierunku / не меняет направления", "correct": false }
+    ]
+  },
+  {
+    "text": "Silą trzymania kotwicy zależy od: / Сила держания якоря зависит от:",
+    "image": null,
+    "answers": [
+      { "text": "rodzaju kotwicy, rodzaju dna, kata jaki tworzy opuszczony łańcuch kotwiczny z trzonem kotwicy / типа якоря, типа дна, угла, сформированным наклоном якорной цепи", "correct": true },
+      { "text": "głębokości akwenu, rodzaju kotwicy, zanurzenia jachtu / глубины водного пространства, типа якоря, дрейфа яхты", "correct": false },
+      { "text": "od długości wydanego łańcucha kotwicznego, który powinien być nie krótszy niż miedzy 3 i nie dłuższy niż 5 głębokości w miejscu kotwiczenia / от длины отданной якорной цепи, которая должна быть не короче 3 и не больше 5 глубин акватории в месте якорной стоянки", "correct": false }
+    ]
+  },
+  {
+    "text": "Jacht płynący z morza do portu w Gdyni, zbliżył się do przedstawionego niżej znaku nawigacyjnego ustawionego przed wejściem do portu. Co musi zrobić sternik? / Яхта, идущая с моря в порт Гдыни приблежается до представленного ниже навигационного знака, установленного перед входом в порт. Что должен сделать рулевой?",
+    "image": "q19.png",
+    "answers": [
+      { "text": "minąć znak lewa burta / пройти знак левым бортом", "correct": false },
+      { "text": "minąć znak prawa burta / пройти знак правым бортом", "correct": true },
+      { "text": "trzymać się w bezpiecznej odległości od znaku / держаться на безопасном расстоянии от знака", "correct": false }
+    ]
+  },
+  {
+    "text": "Jacht płynący z prądem rzeki zbliża się do przedstawionych niżej znaków nawigacyjnych ustawionych na brzegu. Co musi zrobić sternik? / Яхта, идущая по течению реки, сближается с предоставленными ниже навигационными знаками, установленными на берегу. Что должен сделать рулевой?",
+    "image": "q20.png",
+    "answers": [
+      { "text": "skierować się w stronę lewego brzegu / направить судно в сторону левого берега", "correct": false },
+      { "text": "trzymać się w bezpiecznej odległości od znaku / держаться в безопасном расстоянии от знака", "correct": false },
+      { "text": "trzymać się prawego brzegu / держаться правого берега", "correct": true }
+    ]
+  },
+  {
+    "text": "Nadmiernie wybrane żagle na kursie pełny baksztag powodują: / Излишне выбранные паруса на курсе полный бакштаг приведут к:",
+    "image": null,
+    "answers": [
+      { "text": "wzrost prędkości jachtu i siły przechylającej / увеличению скорости яхты и опрокидывающей силы", "correct": false },
+      { "text": "zmniejszenie prędkości jachtu / уменьшению скорости яхты", "correct": true },
+      { "text": "wzrost prędkości jachtu / увеличению скорости яхты", "correct": false }
+    ]
+  },
+  {
+    "text": "Co robimy z żaglami przy odpadaniu i ostrzeniu aby zapewnić prawidłowa prace? / Что мы делаем с парусами при уваливании и приведении для обеспечения правильной работы?",
+    "image": "q22.png",
+    "answers": [
+      { "text": "przy odpadaniu luzujemy, przy ostrzeniu wybieramy / при уваливании травим, при приведении выбираем", "correct": true },
+      { "text": "przy odpadaniu wybieramy, przy ostrzeniu luzujemy / при уваливании выбираем, при приведении травим", "correct": false },
+      { "text": "luzujemy i wybieramy tylko ze względu na się wiatru a nie przy ostrzeniu lub odpadaniu / травим и выбираем только из-за силы ветра,а не при приведении или уваливании", "correct": false }
+    ]
+  },
+  {
+    "text": "Co oznacza ostrzenie i odpadanie jachtu? / Что означает 'привестись' и 'увалиться'?",
+    "image": "q23.png",
+    "answers": [
+      { "text": "kiedy jacht ostrzy to zbliża się, a kiedy odpada to oddala się do kierunku wiejącego wiatru / когда яхта приводится, она идёт в сторону ветра, когда уваливается, то отдаляется от дующего ветра", "correct": true },
+      { "text": "kiedy jacht ostrzy to przechodzi na kursy pełne, a kiedy odpada wraca na kursy ostre / когда яхта приводится, то идёт на полном курсе, а когда уваливается - возвращается на острый курс", "correct": false },
+      { "text": "termin dotyczy tylko jachtów morskich / термины касаются только морских яхт", "correct": false }
+    ]
+  }
+]

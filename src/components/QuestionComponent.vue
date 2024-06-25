@@ -12,6 +12,7 @@
         :style="{
           backgroundColor:
             selectedAnswer === answer ? (answer.correct ? 'green' : 'red') : '',
+          color: selectedAnswer === answer ? 'white' : 'black',
         }"
       >
         {{ answer.text }}

@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "text": "Co oznacza taki znak przed wejściem do kanału? / Что означает такой знак перед входом в канал?",
     "image": "q1.png",
     "answers": [
@@ -9,6 +10,7 @@
     ]
   },
   {
+    "id": 2,
     "text": "Co musi zrobić sternik jachtu, kiedy na kursie zauważy poniższe znaki? / Что должен сделать рулевой яхты, когда заметит на курсе знаки ниже?",
     "image": "q2.png",
     "answers": [
@@ -18,6 +20,7 @@
     ]
   },
   {
+    "id": 3,
     "text": "Na drodze wodnej pod mostem sternik zauważył poniższy znak. Co on oznacza? / На водном пути под мостом рулевой заметил знак ниже. Что означает этот знак?",
     "image": "q3.png",
     "answers": [
@@ -27,6 +30,7 @@
     ]
   },
   {
+    "id": 4,
     "text": "Gdzie sternik musi zacumować jacht jeśli płynie w kierunku poniższego znaku? / Где рулевой должен пришвартоваться, если идет в направлении знака ниже?",
     "image": "q4.png",
     "answers": [
@@ -36,6 +40,7 @@
     ]
   },
   {
+    "id": 5,
     "text": "Od której strony należy omijać poniższy znak kardynalny? / С какой стороны следует обойти кардинальный знак внизу?",
     "image": null,
     "answers": [
@@ -45,6 +50,7 @@
     ]
   },
   {
+    "id": 6,
     "text": "Kto odpowiada za bezpieczeństwo jachtu i załogi? / Кто отвечает за безопасность яхты и команды?",
     "image": null,
     "answers": [
@@ -54,6 +60,7 @@
     ]
   },
   {
+    "id": 7,
     "text": "Jacht płynący pod żaglami i na silniku jest uważany za: / Яхта, идущая под парусами и на моторе считается:",
     "image": null,
     "answers": [
@@ -63,6 +70,7 @@
     ]
   },
   {
+    "id": 8,
     "text": "Czy statek, który ciągnie za sobą kotwice jest statkiem w drodze? / Является ли судно, сорвавшее якорь, судном на ходу?",
     "image": null,
     "answers": [
@@ -72,6 +80,7 @@
     ]
   },
   {
+    "id": 9,
     "text": "Liny olinowania stałego na jachcie typu slup, to: / Элементы стоячего такелажа на яхте типа шлюп, это:",
     "image": null,
     "answers": [
@@ -81,6 +90,7 @@
     ]
   },
   {
+    "id": 10,
     "text": "Na kursie bejdewind za mocno wybrany fok i poluzowany grot powoduje: / На курсе бейдевинд сильно выбранный передний парус и потравленный грот вызывают:",
     "image": null,
     "answers": [
@@ -90,6 +100,7 @@
     ]
   },
   {
+    "id": 11,
     "text": "Przy prawidłowo wybranych żaglach na jakim kursie występuje największa silą przechylająca? / При правильно поставленных парусах, на каком курсе возникает наибольшая сила крена?",
     "image": null,
     "answers": [
@@ -99,6 +110,7 @@
     ]
   },
   {
+    "id": 12,
     "text": "Który kurs jest ostrzejszy a który pełniejszy? / Какой курс является острее, а какой полнее?",
     "image": null,
     "answers": [
@@ -108,6 +120,7 @@
     ]
   },
   {
+    "id": 13,
     "text": "Kiedy jacht płynie prawym halsem? / Когда яхта идёт правым галсом?",
     "image": null,
     "answers": [
@@ -117,6 +130,7 @@
     ]
   },
   {
+    "id": 14,
     "text": "Na kursie bejdewind, w trakcie silnego podmuchu wiatru, jacht nadmiernie się przechylił. Co musi zrobić sternik aby przeciwdziałać przechyłowi? / На курсе бейдевинд, при сильном порыве ветра яхту чрезмерно накренило. Что должен сделать рулевой, чтобы противодействовать крену?",
     "image": null,
     "answers": [
@@ -126,6 +140,7 @@
     ]
   },
   {
+    "id": 15,
     "text": "Refowanie żagli powoduje: / Рифление парусов вызывает:",
     "image": null,
     "answers": [
@@ -135,6 +150,7 @@
     ]
   },
   {
+    "id": 16,
     "text": "Wiatr pozorny osiąga największe i najmniejsze wartości na kursach: / Вымпельный ветер достигает наибольшего и наименьшего значения на курсах:",
     "image": null,
     "answers": [
@@ -144,6 +160,7 @@
     ]
   },
   {
+    "id": 17,
     "text": "Na poruszającym się jachcie wiatr pozorny wieje prostopadle do diametralnej jachtu. Czy w takim przypadku wiatr rzeczywisty w stosunku do wiatru pozornego wieje z kierunku zbliżonego do: / На движушейся яхте, вымпельный ветер дует перпендикуляно диаметральной плоскости яхты. В таком случае, ветер истинный относительно ветра вымпельного дует в направлении ближе к:",
     "image": null,
     "answers": [
@@ -153,6 +170,7 @@
     ]
   },
   {
+    "id": 18,
     "text": "Silą trzymania kotwicy zależy od: / Сила держания якоря зависит от:",
     "image": null,
     "answers": [
@@ -162,6 +180,7 @@
     ]
   },
   {
+    "id": 19,
     "text": "Jacht płynący z morza do portu w Gdyni, zbliżył się do przedstawionego niżej znaku nawigacyjnego ustawionego przed wejściem do portu. Co musi zrobić sternik? / Яхта, идущая с моря в порт Гдыни приблежается до представленного ниже навигационного знака, установленного перед входом в порт. Что должен сделать рулевой?",
     "image": "q19.png",
     "answers": [
@@ -171,6 +190,7 @@
     ]
   },
   {
+    "id": 20,
     "text": "Jacht płynący z prądem rzeki zbliża się do przedstawionych niżej znaków nawigacyjnych ustawionych na brzegu. Co musi zrobić sternik? / Яхта, идущая по течению реки, сближается с предоставленными ниже навигационными знаками, установленными на берегу. Что должен сделать рулевой?",
     "image": "q20.png",
     "answers": [
@@ -180,6 +200,7 @@
     ]
   },
   {
+    "id": 21,
     "text": "Nadmiernie wybrane żagle na kursie pełny baksztag powodują: / Излишне выбранные паруса на курсе полный бакштаг приведут к:",
     "image": null,
     "answers": [
@@ -189,6 +210,7 @@
     ]
   },
   {
+    "id": 22,
     "text": "Co robimy z żaglami przy odpadaniu i ostrzeniu aby zapewnić prawidłowa prace? / Что мы делаем с парусами при уваливании и приведении для обеспечения правильной работы?",
     "image": "q22.png",
     "answers": [
@@ -198,6 +220,7 @@
     ]
   },
   {
+    "id": 23,
     "text": "Co oznacza ostrzenie i odpadanie jachtu? / Что означает 'привестись' и 'увалиться'?",
     "image": "q23.png",
     "answers": [
@@ -205,5 +228,1275 @@
       { "text": "kiedy jacht ostrzy to przechodzi na kursy pełne, a kiedy odpada wraca na kursy ostre / когда яхта приводится, то идёт на полном курсе, а когда уваливается - возвращается на острый курс", "correct": false },
       { "text": "termin dotyczy tylko jachtów morskich / термины касаются только морских яхт", "correct": false }
     ]
-  }
+  },
+  {
+    "id": 24,
+    "text": "Który z jachtów będzie miał pierwszeństwo drogi? / Какая из яхт будет иметь право прохода?",
+    "image": null,
+    "answers": [
+      { "text": "wyprzedzający / обгоняющая", "correct": false },
+      { "text": "wypływający z portu / выходящая с порта", "correct": true },
+      { "text": "płynący lewym halsem / идущая левым галсом", "correct": false }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Który Regionalny Zarząd Gospodarki Wodnej sprawuje nadzór na bezpieczeństwem żeglugi śródlądowej na akwenie Wielkich Jezior Mazurskich? / Какое Региональное Управление Водного Хозяйства обеспечивает надзор за безопасностью cудоходства на Мазурских озерах?",
+    "image": null,
+    "answers": [
+      { "text": "w Białymstoku / в Белостоке", "correct": true },
+      { "text": "w Giżycku / в Гижицко", "correct": false },
+      { "text": "w Warszawie / в Варшаве", "correct": false }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Który wiatr będzie wiał z największą prędkością? / Какой ветер дует с наибольшей скоростью?",
+    "image": null,
+    "answers": [
+      { "text": "10 m/s / 10 м/с", "correct": true },
+      { "text": "25 km/godz / 25 км/ч", "correct": false },
+      { "text": "14 węzłów / 14 узлов", "correct": false }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Czym się rożni szkwał od podmuchu wiatru? / В чем разница между шквалом и порывом ветра?",
+    "image": null,
+    "answers": [
+      { "text": "szkwał oznacza nagły wzrost prędkości wiatru z możliwością zmiany kierunku nawet o 180° / шквал означает внезапное увеличение скорости ветра с возможностью смены направления до 180°", "correct": true },
+      { "text": "oznaczają to samo / означают одно и то же", "correct": false },
+      { "text": "pojęcie szkwał określa cyrkulacje wiatru nad woda a podmuch wiatru na ladzie / термин шквал определяет циркуляцию ветра над водой, а порыв ветра - на земле", "correct": false }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Czym się rożni bryza dzienna od morskiej? / В чем разница между дневным бризом и морским?",
+    "image": null,
+    "answers": [
+      { "text": "bryza dzienna wieje po południu a bryza morska w nocy / дневной бриз дует в полдень, а морской дует ночью", "correct": false },
+      { "text": "bryza morska wieje po wschodzie słońca a bryza dzienna po południu / морской бриз дует при восходе солнца, а дневной дует в полдень", "correct": false },
+      { "text": "bryza dzienna i morska oznacza to samo / дневной и морской бриз - одно и то же", "correct": true }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Silnie rozbudowujące się w pionie chmury typu Cumulus mogą prognozować: / Cильно расширяющиеся вертикально облака типа Cumulus (кучевые облака) могут предсказать:",
+    "image": null,
+    "answers": [
+      { "text": "wzrost siły wiatru lub pogorszenie pogody / увеличение силы ветра или ухудшение погоды", "correct": true },
+      { "text": "zanik wiatru i poprawę pogody / исчезновение ветра и улучшение погоды", "correct": false },
+      { "text": "opady ciągle / осадки", "correct": false }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Gdzie możemy się spodziewać „efektu dyszy”? / Где мы можем ожидать зону акселерации ветра?",
+    "image": null,
+    "answers": [
+      { "text": "pomiędzy wyspami I innymi przewężeniami / между островами и другими объектами", "correct": true },
+      { "text": "przy przesuwaniu się frontu chłodnego / при движении холодного фронта", "correct": false },
+      { "text": "w czasie silnych opadów deszczu / во время сильных дождевых осадков", "correct": false }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Griby meteorologiczne to: / Метеорологические GRIB’ы это:",
+    "image": null,
+    "answers": [
+      { "text": "niewielkich rozmiarów pliki cyfrowe, wygenerowane przez systemy komputerowe, nie sprawdzone przez synoptyka, zwierające prognozę pogody opracowana w oparciu o informatyczny model pogody / небольших размеров цифровые файлы, сгенерированные через компьютерные системы, не проверенные через синоптика, содержащие погодные прогнозы основанные на IT модели", "correct": true },
+      { "text": "niewielkich rozmiarów pliki cyfrowe, wygenerowane i sprawdzone przez synoptyka / небольших размеров цифровые файлы, сгенерированные и проверенные синоптиком", "correct": false },
+      { "text": "niewielkich rozmiarów pliki cyfrowe, wygenerowane przez systemy komputerowe, sprawdzone przez synoptyka, zwierające prognozę pogody opracowana w oparciu o informatyczny model pogody / небольших размеров цифровые файлы, сгенерированные через компьютерные системы, проверенные через синоптика, содержащие погодные прогнозы основанные на IT модели", "correct": false }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Szkwały oraz silne podmuchy wiatru mogą towarzyszyć chmurom: / Какой тип облаков могут сопровождать шквалы и порывы ветра:",
+    "image": null,
+    "answers": [
+      { "text": "Cirrostratus / Cirrostratus (перисто-слоистые)", "correct": false },
+      { "text": "Cumulonimbus / Cumulonimbus (кучево-дождевые)", "correct": true },
+      { "text": "Stratus / Stratus (слоистые)", "correct": false }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Gdzie w układzie niżowym występuje największe i najmniejsze ciśnienie atmosferyczne? / Где в циклонной системе наблюдается самое высокое и самое низкое атмосферное давление?",
+    "image": null,
+    "answers": [
+      { "text": "najmniejsze w środku a największe na zewnątrz / самое низкое в центре, а самое высокое на периферии", "correct": true },
+      { "text": "największe w środku a najmniejsze na zewnątrz / самое высокое в центре, а самое низкое на периферии", "correct": false },
+      { "text": "w środku i na zewnątrz najmniejsze / самое низкое в центре и на периферии", "correct": false }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Przy określaniu parametrów technicznych jachtu symbole Lc i KLW oznaczają: / При определении технических параметров яхты, символы Lc и KLW означают:",
+    "image": null,
+    "answers": [
+      { "text": "Lc – zaniżenie maksymalne, KLW – konstrukcyjna długość linii wodnej / Lc - максимальная осадка, KLW - конструкторская длина ватерлинии", "correct": false },
+      { "text": "Lc – długość całkowita, KLW – konstrukcyjna szerokość linii wodnej / Lc - целая длина, KLW - конструкторская ширина ватерлинии", "correct": true },
+      { "text": "Lc – szerokość całkowita, KLW - konstrukcyjna szerokość maksymalna / Lc - целая ширина, KLW - конструкторская максимальная ширина", "correct": false }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Kategoria projektowa jachtu C określa jednostki zaprojektowane do rejsów po wodach przybrzeżnych, dużych zatokach, zalewach, jeziorach i rzekach, w warunkach wiatru o sile: / Проектная категория яхт С определяет запроектированные единицы для рейсов в прибрежных водах, больших заливах, наводнениях, озерах и реках, при условии силы ветра:",
+    "image": null,
+    "answers": [
+      { "text": "do 6 B i fali do 2 m / до 6 баллов Бофорта и волн высотой до 2 метров", "correct": true },
+      { "text": "do 8 B i fali do 2 m / до 8 баллов Бофорта и волн высотой до 2 метров", "correct": false },
+      { "text": "do 4 B i fali do 1 m / до 4 баллов Бофорта и волн высотой до 1 метра", "correct": false }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Po wodach morskich, w jakiej odległości od brzegu, żeglarz jachtowy nie może prowadzić jachtu o długości do 12 m? / В морских водах, в какой дальности от берега жеглер не может управлять яхтой длиной до 12 метров?",
+    "image": null,
+    "answers": [
+      { "text": "powyżej 4 mil / дальше 4 миль", "correct": true },
+      { "text": "do 2 mil / до 2 миль", "correct": false },
+      { "text": "do 1 mil / до одной мили", "correct": false }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Czy po Wiśle, żeglarz jachtowy może prowadzić jacht żaglowy dwumasztowy o długości 20 metrów? / Идущий по Висле, может ли жеглер управлять двухмачтовой яхтой длиной 20 метров?",
+    "image": null,
+    "answers": [
+      { "text": "nie może / не может", "correct": false },
+      { "text": "może ale pod warunkiem posiadania silnika spalinowego / может, при условии, что есть двигатель внутреннего сгорания", "correct": false },
+      { "text": "może / может", "correct": true }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Jaki akt prawny określa zakres uprawnień do prowadzenia jachtów żaglowych po wodach śródlądowych? / Какой правовой акт определяет объем полномочий на эксплуатацию парусных яхт во внутренних водах?",
+    "image": null,
+    "answers": [
+      { "text": "Rozporządzenie MSiT z dnia 09 kwietnia 2013 roku w sprawie uprawiania turystyki wodnej / Постановление MSiT от 9 апреля 2013 года касательно туристической водной практики", "correct": false },
+      { "text": "Ustawa z dnia 25.06.2010 roku o sporcie / Акт от 25.06.2010 о спорте", "correct": false },
+      { "text": "Rozporządzenie Ministra Infrastruktury a dnia 28.04.2003 r. W sprawie przepisów żeglugowych na śródlądowych drogach wodnych / Постановление Министра Инфраструктуры от 28.04.2003 касательно cудоходства во внутренних водах", "correct": true }
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Jakie są minimalne wymagania wiekowe aby przystąpić do egzaminu na stopień żeglarza jachtowego? / Каковы минимальные возрастные требования, чтобы приступить к экзамену на ступень żeglarza jachtowego?",
+    "image": null,
+    "answers": [
+      { "text": "ukończone 15 lat / полные 15 лет", "correct": false },
+      { "text": "ukończone 14 lat / полные 14 лет", "correct": true },
+      { "text": "ukończone 12 lat / полные 12 лет", "correct": false }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Czego nie zaliczamy do osprzętu stałego? / Что не входит в стоячий такелаж?",
+    "image": null,
+    "answers": [
+      { "text": "wanty / ванты", "correct": false },
+      { "text": "salingi / краспицы", "correct": false },
+      { "text": "bom / гик", "correct": true }
+    ]
+  },
+  {
+    "id": 41,
+    "text": "Refsejzingi śluza do: / Риф-шкентели служат для:",
+    "image": null,
+    "answers": [
+      { "text": "a. obwiązywania zrefowanego żagla do bomu / обвязывания зарифлённого паруса к гику", "correct": true },
+      { "text": "b. kontrowania miecza / держания шверта", "correct": false },
+      { "text": "c. zabezpieczenia przed przetarciem cum i szpringów / защиты швартовых концов от перетираний", "correct": false }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Czy bez patentu można prowadzić jacht żaglowy o długości 7 metrów? / Можно ли управлять яхтой 7 метров без сертификата?",
+    "image": null,
+    "answers": [
+      { "text": "a. nie można / нельзя", "correct": false },
+      { "text": "b. można ale tylko po oznakowanych torach wodnych / можно, но только по обозначенным водным путям", "correct": false },
+      { "text": "c. można / можно", "correct": true }
+    ]
+  },
+  {
+    "id": 43,
+    "text": "Ile KM ma silnik przyczepny Mercury 10kW? / Сколько лошадиных сил имеет навесной двигатель Mercury 10kW?",
+    "image": null,
+    "answers": [
+      { "text": "a. 15.4", "correct": false },
+      { "text": "b. 13.6", "correct": true },
+      { "text": "c. 10", "correct": false }
+    ]
+  },
+  {
+    "id": 44,
+    "text": "Jak nazywają się podstawowe żagle na jachcie typu slup? / Как называются базовые паруса на яхте типа шлюп?",
+    "image": null,
+    "answers": [
+      { "text": "a. grot i fok / грот и стаксель", "correct": true },
+      { "text": "b. grot i genaker / грот и генакер", "correct": false },
+      { "text": "c. grot i kliwer / грот и кливер", "correct": false }
+    ]
+  },
+  {
+    "id": 45,
+    "text": "Jak nazywają się płaty materiału, z których uszyty jest żagiel? / Как называется отдельный тканевый сегмент паруса?",
+    "image": null,
+    "answers": [
+      { "text": "a. liki / лики", "correct": false },
+      { "text": "b. broty / бороды", "correct": false },
+      { "text": "c. bryty / бриты", "correct": true }
+    ]
+  },
+  {
+    "id": 46,
+    "text": "Lazy Jack to: / Лэйзи Джек это:",
+    "image": null,
+    "answers": [
+      { "text": "a. pokrowiec na żagiel grot zamocowany do bomu I podwieszony do masztu / чехол для грота, прикрепленный к гику и подвешенный веревками к мачте", "correct": true },
+      { "text": "b. urządzenie do rolowania foka / устройство для закрутки стакселя", "correct": false },
+      { "text": "c. rozpinany daszek nad kokpitem / съемный козырек над кокпитом", "correct": false }
+    ]
+  },
+  {
+    "id": 47,
+    "text": "W trakcie plynęcia na silniku sternik zauważył brak chłodzenia silnika. Co powinen zrobić? / В пути на воде под двигателем рулевой заметил отсутствие работы системы охлаждения двигателя. Как он должен поступить?",
+    "image": null,
+    "answers": [
+      { "text": "a. zmniejszyć obroty i plynąć dalej / уменьшить обороты и идти дальше", "correct": false },
+      { "text": "b. wyłączyć silnik aby nie dopuscic do przegrzania / выключить двигатель, чтобы не допустить перегрева", "correct": true },
+      { "text": "c. polewać silnik wodą w celu zmniejszenia temperatury silnika / облить водой в целях снижения температуры двигателя", "correct": false }
+    ]
+  },
+  {
+    "id": 48,
+    "text": "Podczas pracy silnika zmianę biegów wykonujemy: / Во время работы двигателя, переключение передач производится:",
+    "image": null,
+    "answers": [
+      { "text": "a. na niskich obrotach / на низких оборотах", "correct": true },
+      { "text": "b. energicznie pociagając dżwignie biegów b bez zminay oborotow silnika / энергично потянуть рычаг передач и без смены оборотов двигателя", "correct": false },
+      { "text": "c. dodając więcej gazu / добавить газу", "correct": false }
+    ]
+  },
+  {
+    "id": 49,
+    "text": "Na kursie baksztag odczucie sily wiatru rzeczywistego jest słabsze czy silniejsze w stosunku do wiatru pozornego. / На курсе бакштаг чувство силы истинного ветра слабее или сильнее по отношению к вымпельному ветру?",
+    "image": null,
+    "answers": [
+      { "text": "a. silniejsze / сильнее", "correct": false },
+      { "text": "b. słabsze / слабее", "correct": true },
+      { "text": "c. nie ma znaczenia / не имеет значения", "correct": false }
+    ]
+  },
+  {
+    "id": 50,
+    "text": "Prawidłowo przeprowadzona resuscytacja polega na: / Правильно проведённая реанимация заключается в:",
+    "image": null,
+    "answers": [
+      { "text": "a. wykonywaniu 30 uciśnięć i 2 oddechów ratowniczych / выполнении 30 компрессий и 2 искусственных вдохов", "correct": true },
+      { "text": "b. wykonywaniu resuscytacji do momentu przyjazdu służb ratunkowych / выполнении реанимации до момента приезда скорой помощи", "correct": false },
+      { "text": "c. wszystkie odpowiedzi są prawidłowe* / все ответы верны. (*верный ответ по мнению Damora)", "correct": false }
+    ]
+  },
+  {
+    "id": 51,
+    "text": "Jaka temperatura wychłodzena wnętrza ciala może doprowadzić do hipotermii glebokej prowadzącej do śmeirci biologicznej? / Какая температура охлаждения внутренних органов может привести к глубокому переохлаждению, ведущему к биологической смерти?",
+    "image": null,
+    "answers": [
+      { "text": "a. 35°C", "correct": false },
+      { "text": "b. 33°C", "correct": false },
+      { "text": "c. 22-27°C", "correct": true }
+    ]
+  },
+  {
+    "id": 52,
+    "text": "Czy przy oparzeniach I stopnia nalezy ochodzić powierzchenie oparzoną polewąc ją wodą? / Допускается ли при ожогах первой степени обожённый участок обливать водой?",
+    "image": null,
+    "answers": [
+      { "text": "a. tak / да", "correct": true },
+      { "text": "b. nie / нет", "correct": false },
+      { "text": "c. tulko wodą z detergentem / да, но с очищающим средством", "correct": false }
+    ]
+  },
+  {
+    "id": 53,
+    "text": "Czy do gaszenia plonącej benzyny wolno używać wody? / Можно ли использовать воду для тушения горящего бензина?",
+    "image": null,
+    "answers": [
+      { "text": "a. nie wolno / нельзя", "correct": true },
+      { "text": "b. wolno / можно", "correct": false },
+      { "text": "c. wolno uzywać pod warunkiem, że benzyna jest bez dodatku oleju / можно, но при условии что бензин без добавления масла", "correct": false }
+    ]
+  },
+  {
+    "id": 54,
+    "text": "Ferholung to manewr: / Ферхолунг - это манёвр:",
+    "image": null,
+    "answers": [
+      { "text": "a. obrócenia jachtu o 1800 / разворот яхты на 1800", "correct": false },
+      { "text": "b. przesunięcia jachtu wzdluż nabrzeża przy pomocy lin i sil zalogi / движения яхты вдоль набережной с помощью веревок и сил команды", "correct": true },
+      { "text": "c. odejścia od nabrzeża na springu rufowym / отход от набережной на кормовом шпринге", "correct": false }
+    ]
+  },
+  {
+    "id": 55,
+    "text": "Sternik zauważyl żeglarza, który czerwoną flagą zatacza kręgi. Co to może oznaczać? / Рулевой заметил матроса, который описывает красным флагом круги. Что это означает?",
+    "image": null,
+    "answers": [
+      { "text": "a. sygnał wzywania pomocy / сигнал вызова помощи", "correct": true },
+      { "text": "b. gest pozdrawiający innych żeglarzy / сигнал приветствия других матросов", "correct": false },
+      { "text": "c. nic nie oznacza / ничего не означает", "correct": false }
+    ]
+  },
+  {
+    "id": 56,
+    "text": "Przed wpłynięciem do kanału sternik zauważyl poniższy znak. Co on oznacza? / Перед выходом в канал, рулевой заметил знак ниже. Что он означает?",
+    "image": "q56.png",
+    "answers": [
+      { "text": "a. nakaz zachowania szczególnej ostrożności / предписание соблюдения особой осторожности", "correct": false },
+      { "text": "b. nakaz zatrzymania statku / предписание остановки судна", "correct": false },
+      { "text": "c. nakaz nadawania sygnaly dżwiękowego / предписание подачи звукового сигнала", "correct": true }
+    ]
+  },
+  {
+    "id": 57,
+    "text": "Co oznacza znak zamieszczony poniżej? / Что означает знак ниже?",
+    "image": "q57.png",
+    "answers": [
+      { "text": "a. linia napowietrzana nad drogą wodną w odleglości 12 metrow od znaku / линия напряжения над водным путём на расстоянии 12 метров от знака", "correct": false },
+      { "text": "b. linia napowietrzana nad drogą wodną na wysokości 12 metrów nadp poziomen najwyższej / линия напряжения над водным путём на высоте 12 метров над уровнем наивысшей воды", "correct": true },
+      { "text": "c. linia napowietrzana nad drogą wodną na wysokości 12 metrów nadp poziomen najniżsczej wody / линия напряжения над водным путём на высоте 12 метров над уровнем наименьшей воды", "correct": false }
+    ]
+  },
+  {
+    "id": 58,
+    "text": "Dwa jachty płyną tym samym halsem i z taką samą predkoscią. Pierwszy bajdewindem a drugi baksztagiem. Kierunki ich przemieszczania się mogą wskazywać na ryzyko zderzenia. Który jacht powinien ustapić? / Две яхты идут одинаковым галсом с одинаковой скоростью. Первый - бейдевиндом, второй - бакштагом.Их курсы могут создать риск столкновения. Кто должен уступить?",
+    "image": null,
+    "answers": [
+      { "text": "a. plynący bejdewindem / идущий бейдевиндом", "correct": false },
+      { "text": "b. plynący baksztagiem / идущий бакштагом", "correct": true },
+      { "text": "c. większy jacht ustępuje mniejszemu / большая яхта уступает меньшей", "correct": false }
+    ]
+  },
+  {
+    "id": 59,
+    "text": "Osoba posiadąjaca patent żaglarza jachtowego może prowadzić: / Имеющий сертификат яхтенного матроса может управлять:",
+    "image": null,
+    "answers": [
+      { "text": "a. tylko jachty jendomasztowe / только одномачтовые яхты", "correct": false },
+      { "text": "b. jedno i dwumasztowe / одно- и двухмачтовые", "correct": false },
+      { "text": "c. ilość masztów nie ma znaczenia / количество мачт не имеет значения", "correct": true }
+    ]
+  },
+  {
+    "id": 60,
+    "text": "Czy można zacumować jacht w kanale lączącym dwa jeziora? / Можно ли пришвартовать яхту в канале, соедниняющем два озера?",
+    "image": null,
+    "answers": [
+      { "text": "a. tak, ale tylko w miejscach do tego wyznaczonych, / да, но только в обозначенных местах", "correct": true },
+      { "text": "b. nie / нет", "correct": false },
+      { "text": "c. można ale tylko w dzień / можно, но только днем", "correct": false }
+    ]
+  },
+  {
+    "id": 61,
+    "text": "W trakcie żeglugi ze względów bezpieczeństwa, należy poruszać się po burcie: / Во время рейса, с точки зрения безопасности, перемещение по палубе следует делать с:",
+    "image": null,
+    "answers": [
+      { "text": "a. zawietrznej / подветренной стороны", "correct": false },
+      { "text": "b. nawietrznej / наветренной стороны", "correct": true },
+      { "text": "c. nie ma to znaczenia / не имеет значения", "correct": false }
+    ]
+  },
+  {
+    "id": 62,
+    "text": "W przypadku wypadnięcia za burtę gwałtowne poruszane się czlowieka w zimnej wodzie powoduje: / В случае падения за борт, резкие движения человека в холодной воде вызовут:",
+    "image": null,
+    "answers": [
+      { "text": "a. skraca czas przeżycia / сокращение времени выживания", "correct": true },
+      { "text": "b. dostarcza organizmowi więcej ciepla i wydluża czas przeżycia / сохранение тепла и увеличение времени выживания", "correct": false },
+      { "text": "c. latwiejsze wyciagnięcie czlowieka / облегчение подъема человека из воды", "correct": false }
+    ]
+  },
+  {
+    "id": 63,
+    "text": "Czym niższa temperature wody tym szanse przeżycia chlowieka po wypadnięciu na burtę: / Чем ниже температура воды при выпадении человека за борт, шансы выживания будут:",
+    "image": null,
+    "answers": [
+      { "text": "a. rosną / выше", "correct": false },
+      { "text": "b. maleją / ниже", "correct": true },
+      { "text": "c. nie ma znaczenia / не имеет значения", "correct": false }
+    ]
+  },
+  {
+    "id": 64,
+    "text": "W celu poprawienia bezpieczeństwa żeglugi, przy podmuchach wiatry o sile 60B: / В целях обеспечения безопасного судоходства, при порывах ветра с силой 6 по шкале Бофорта следует:",
+    "image": null,
+    "answers": [
+      { "text": "a. refujemy żagle / произвести рифление", "correct": true },
+      { "text": "b. płyniemy na pełnych żaglach i obserwujemy zachowanie jachtu / идти под полными парусами и наблюдать поведение яхты", "correct": false },
+      { "text": "c. przechodzimy do pólwiatru / увалиться до галфвинда", "correct": false }
+    ]
+  },
+  {
+    "id": 65,
+    "text": "Zworot przed rufę to: / Поворот фордевинд это:",
+    "image": null,
+    "answers": [
+      { "text": "a. przejście rufą linii wiatru od baksztagu jednego halsu do baksztagu drugiego halsu / пересечение кормой линии ветра от бакштага одного галса до бакштага другого галса", "correct": true },
+      { "text": "b. przejście dziobem lub rufą linii wiatru aby po zworocie wiatr wial w przeciwleglą burte / пересечение носом или кормой линии ветра, чтобы при повороте ветер дул с противоположного борта", "correct": false },
+      { "text": "c. przejście linii wiatru od baksztago do bejdewindu / пересечение линии ветра от бакштага до фордевинда", "correct": false }
+    ]
+  },
+  {
+    "id": 66,
+    "text": "Na jacht zacumowany do nabrzeża działa wiatr: / На пришвартованную яхту к набережной дует ветер:",
+    "image": null,
+    "answers": [
+      { "text": "a. wlasny / курсовой", "correct": false },
+      { "text": "b. pozorny / вымпельный", "correct": false },
+      { "text": "c. rzeczywisty / истинный", "correct": true }
+    ]
+  },
+  {
+    "id": 67,
+    "text": "Podniesienie miecza na kursach ostrych powoduje: / Поднятие шверта на острых курсах приведёт к:",
+    "image": null,
+    "answers": [
+      { "text": "a. wzrost prędkości jachtu / увеличению скорости яхты", "correct": false },
+      { "text": "b. zwiększenie dryfu / увеличению дрейфа", "correct": true },
+      { "text": "c. obniżenie srodka ciężkosci / снижению центра тяжести", "correct": false }
+    ]
+  },
+  {
+    "id": 68,
+    "text": "Na kursie pólwiatr, zwiększenie stateczości jachtu uzyskamy w wyniku: / На курсе галфвинд, увеличение стабильности яхты будет в случае:",
+    "image": null,
+    "answers": [
+      { "text": "a. refowania i luzowania żagli, balastowania na burcie nawietrznej / рифления и травления парусов, откренивания на наветренном борту", "correct": true },
+      { "text": "b. wybrania żagli / выбирания парусов", "correct": false },
+      { "text": "c. podniesienia płetwy sterowej i miecza / поднятие пера руля и шверта", "correct": false }
+    ]
+  },
+  {
+    "id": 69,
+    "text": "W jakiej kolejności stawiamy żagle na jachcie typu slup? / В каком порядке поднимаются паруса на яхте типа шлюп?",
+    "image": null,
+    "answers": [
+      { "text": "a. od żagli przegnich / с передних парусов", "correct": false },
+      { "text": "b. od żagli tylnych / с задних парусов", "correct": true },
+      { "text": "c. nie ma znaczenia / не имеет значения", "correct": false }
+    ]
+  },
+  {
+    "id": 70,
+    "text": "Forpik znajduje sie w części jachtu: / Форпик будет находится в следующей части яхты:",
+    "image": null,
+    "answers": [
+      { "text": "a. w przedniej / в передней", "correct": true },
+      { "text": "b. w tylnej / в задней", "correct": false },
+      { "text": "c. w środkowej / в центре", "correct": false }
+    ]
+  },
+  {
+    "id": 71,
+    "text": "Jak nazywa się lina lącząca jacht z nabrzeżem i biegnąca od dziobu w kierunku rufy? / Как называется верёвка (швартов), которая соединяет яхту с набережной и идёт от носа к корме?",
+    "image": null,
+    "answers": [
+      { "text": "a. brest / брест", "correct": false },
+      { "text": "b. cuma / швартов", "correct": false },
+      { "text": "c. szpring / шпринг", "correct": true }
+    ]
+  },
+  {
+    "id": 72,
+    "text": "Jak nazywa się wierzcholek masztu? / Как называется верх мачты?",
+    "image": null,
+    "answers": [
+      { "text": "a. nok / нок", "correct": false },
+      { "text": "b. stopa / стопа", "correct": false },
+      { "text": "c. top / топ", "correct": true }
+    ]
+  },
+  {
+    "id": 73,
+    "text": "Co to jest dalba? / Что такое рейдовый пал?",
+    "image": null,
+    "answers": [
+      { "text": "a. drewniany lub betonowy slup stojący na ladzie / деревянный либо бетонный столб, стоящий на земле", "correct": false },
+      { "text": "b. drewniany lub betonowy pal wbity w dno / деревянная либо бетонная свая, вбитая в дно", "correct": true },
+      { "text": "c. okrągła boja zakotowiczona do dna / круглый буй, привязанный ко дну", "correct": false }
+    ]
+  },
+  {
+    "id": 74,
+    "text": "Który z poniższych znaków stawiany jest wyjściu z kanalu? / Какой из расположенных знаков ниже ставится при выходе с канала?",
+    "image": "q74.png",
+    "answers": [
+      { "text": "a. tylko typu A / только тип А", "correct": false },
+      { "text": "b. tylko typu B / только тип В", "correct": false },
+      { "text": "c. A z prawej strony wyjścia, B z lewej strony wyjścia / А с правой стороны выхода, В с левой стороны выхода", "correct": true }
+    ]
+  },
+  {
+    "id": 75,
+    "text": "Jaki jest numer telefonu alarmowego nad wodą Wodnego Ochotniczego Pogotowia Ratunkowego na szlaku Wielkich Jezior Mazurskich i jeziorze Jeziorak. / Какой аварийный номер телефона у Водной Добровольной Спасательной Службы на Мазурских озёрах и озера Езёрак?",
+    "image": null,
+    "answers": [
+      { "text": "a. 601 100 100 i 984 szlak WJM i j. Jeziorak / 601 100 100 и 984 маршрут WJM и оз. Езёрак", "correct": true },
+      { "text": "b. 600 100 100 i 985 szlak WJM i j. Jeziorak / 600 100 100 и 985 маршрут WJM и оз. Езёрак", "correct": false },
+      { "text": "c. 601 100 300 i 994 szlak WJM i j. Jeziorak / 601 100 300 и 994 маршрут WJM и оз. Езёрак", "correct": false }
+    ]
+  },
+  {
+    "id": 76,
+    "text": "Jachty mieczowe, posiadające komory wypornościowe zaliczamy do grupy łodzi: / Швертботы с камерами плавучести относятся к группе лодок:",
+    "image": null,
+    "answers": [
+      { "text": "a. wywracalnych, ale niezatapialnych / переворачивающихся, но непотопляемых", "correct": true },
+      { "text": "b. wywracalnych i zatapialnych / переворачивающихся и затопляемых", "correct": false },
+      { "text": "c. zatapialnych, ale niewywracalnych / затопляемых, но не переворачивающихся", "correct": false }
+    ]
+  },
+  {
+    "id": 77,
+    "text": "Trimaran jest jachtem, który zbudowany jest z: / Тримаран – это яхта, состоящая из:",
+    "image": null,
+    "answers": [
+      { "text": "a. dwóch kadłubów / двух корпусов", "correct": false },
+      { "text": "b. trzech kadłubów / трех корпусов", "correct": true },
+      { "text": "c. jednego kadłuba / одного корпуса", "correct": false }
+    ]
+  },
+  {
+    "id": 78,
+    "text": "Co to jest bakista? / Что такое бакиста?",
+    "image": null,
+    "answers": [
+      { "text": "a. jest to miejsce w którym przechowujemy osprzęt / место для хранения вещей", "correct": true },
+      { "text": "b. jest to dziobowy przedział sypialny / спальный отсек в носу лодки", "correct": false },
+      { "text": "c. jest to miejsce, w którym zbierana jest woda deszczowa / место сбора дождевой воды", "correct": false }
+    ]
+  },
+  {
+    "id": 79,
+    "text": "Zęza to: / Трюм это:",
+    "image": null,
+    "answers": [
+      { "text": "a. pomieszczenie dziobowe / носовая каюта", "correct": false },
+      { "text": "b. podłoga na jachcie / пол на яхте", "correct": false },
+      { "text": "c. przestrzeń, która znajduje się pod podłogą wewnątrz jachtu / пространство под полом на яхте", "correct": true }
+    ]
+  },
+  {
+    "id": 80,
+    "text": "Stępka jest to: / Киль это:",
+    "image": null,
+    "answers": [
+      { "text": "a. część masztu / часть мачты", "correct": false },
+      { "text": "b. główny element konstrukcji wzdłużnej jachtu / главный элемент продольной конструкции яхты", "correct": true },
+      { "text": "c. trzecia licząc od dołu reja na fokmaszcie / третья снизу по счёту рея на фок-мачте", "correct": false }
+    ]
+  },
+  {
+    "id": 81,
+    "text": "Skrzynia mieczowa jest to: / Швертовый колодец это:",
+    "image": null,
+    "answers": [
+      { "text": "a. element łączący pokładnik ze wzdłużnikiem / элемент, соединяющий балку с фермой", "correct": false },
+      { "text": "b. zwyczajowe miejsce przechowywania broni białej / обычное место хранения оружия ближнего боя", "correct": false },
+      { "text": "c. element konstrukcyjny, w którym pracuje miecz / структурный элемент, в котором работает шверт", "correct": true }
+    ]
+  },
+  {
+    "id": 82,
+    "text": "Głównym poprzecznym elementem konstrukcyjnym kadłuba jest: / Основным поперечным конструктивным элементом корпуса является:",
+    "image": null,
+    "answers": [
+      { "text": "a. wręgi / шпангоут", "correct": true },
+      { "text": "b. stewa / штевень", "correct": false },
+      { "text": "c. pawęż / транец", "correct": false }
+    ]
+  },
+  {
+    "id": 83,
+    "text": "Końce bomu to: / Края гика это:",
+    "image": null,
+    "answers": [
+      { "text": "a. pięta i top / пятка и топ", "correct": false },
+      { "text": "b. nok i pięta / нок и пятка", "correct": true },
+      { "text": "c. pik i garda / пик и гарда", "correct": false }
+    ]
+  },
+  {
+    "id": 84,
+    "text": "Jaki rodzaj miecz obrazuje rysunek obok? / Какой тип шверта показан на рисунке?",
+    "image": "q84.png",
+    "answers": [
+      { "text": "a. balastowy / балластный", "correct": false },
+      { "text": "b. szybrowy / осевой", "correct": true },
+      { "text": "c. obrotowy / вращающийся", "correct": false }
+    ]
+  },
+  {
+    "id": 85,
+    "text": "Lina olinowania stałego, która biegnie od topu masztu do dziobu, to? / Элемент стоячего такелажа, который идёт от топа мачты до носа это:",
+    "image": null,
+    "answers": [
+      { "text": "a. wanta / ванта", "correct": false },
+      { "text": "b. achtersztag / ахтерштаг", "correct": false },
+      { "text": "c. sztag / форштаг", "correct": true }
+    ]
+  },
+  {
+    "id": 86,
+    "text": "Lina wszyta w lik żagla, która zapobiega rozciąganiu się tkaniny i służy jako pomoc przy mocowaniu żagla, to: / Верёвка, вшитая в лик паруса, которая предотвращает растяжение ткани и служит вспомогательным средством при креплении паруса:",
+    "image": null,
+    "answers": [
+      { "text": "a. reflina / риф-шкентель", "correct": false },
+      { "text": "b. halslina / галс-линь", "correct": false },
+      { "text": "c. liklina / ликтрос", "correct": true }
+    ]
+  },
+  {
+    "id": 87,
+    "text": "Elementem olinowania stałego są? / Элементами стоячего такелажа являются:",
+    "image": null,
+    "answers": [
+      { "text": "a. sztag i topenanta / штаг и топенант", "correct": false },
+      { "text": "b. sztag i stenwanta / штаг и стень-ванта", "correct": true },
+      { "text": "c. stenwanta i szot foka / стень-ванта и шкот стакселя", "correct": false }
+    ]
+  },
+  {
+    "id": 88,
+    "text": "Sposobem mocowania żagla do masztu nie jest? / Способом крепления паруса не является:",
+    "image": null,
+    "answers": [
+      { "text": "a. likszpara / лик-паз", "correct": false },
+      { "text": "b. kluza / клюз", "correct": true },
+      { "text": "c. pełzacz / слайдер", "correct": false }
+    ]
+  },
+  {
+    "id": 89,
+    "text": "Jak nazywa się urządzenie do podnoszenia i opuszczania silnika zaburtowego? / Как называется устройство для поднятия и опускания забортного двигателя?",
+    "image": null,
+    "answers": [
+      { "text": "a. pantograf / пантограф", "correct": true },
+      { "text": "b. podnośnik / подъемник", "correct": false },
+      { "text": "c. marlinka / марлинь", "correct": false }
+    ]
+  },
+  {
+    "id": 90,
+    "text": "Elementem służącym do łączenia takielunku jest: / Элемент, использующийся для соединения такелажа это:",
+    "image": null,
+    "answers": [
+      { "text": "a. kipa / клюз", "correct": false },
+      { "text": "b. kausza / коуш", "correct": false },
+      { "text": "c. szekla / скоба", "correct": true }
+    ]
+  },
+  {
+    "id": 91,
+    "text": "Jakiego rodzaju paliwo jest używane w czterosuwowych silnikach przyczepnych? / Какое топливо используется в четырехтактных лодочных моторах?",
+    "image": null,
+    "answers": [
+      { "text": "a. czysta benzyna / чистый бензин", "correct": true },
+      { "text": "b. benzyna zmieszana z olejem silnikowym / бензин, смешанный с моторным маслом", "correct": false },
+      { "text": "c. olej napędowy / дизельное топливо", "correct": false }
+    ]
+  },
+  {
+    "id": 92,
+    "text": "Prawą stroną szlaku żeglownego na rzece jest: / Правая сторона судоходного пути по реке это:",
+    "image": null,
+    "answers": [
+      { "text": "a. ta, która znajduje się na prawo od statku płynącego w dół rzeki (od źródła do ujścia) / та, которая находится справа от судна, идущего вниз по реке (от истока к устью)", "correct": true },
+      { "text": "b. ta, która znajduje się na prawo od statku płynącego w górę rzeki (od ujścia do źródła) / та, которая находится справа от судна, идущего вверх по реке (от устья к истоку)", "correct": false },
+      { "text": "c. ta, która znajduje się północnym lub wschodnim brzegu / та, которая находится на северном или восточном берегу", "correct": false }
+    ]
+  },
+  {
+    "id": 93,
+    "text": "Zielona boja w kształcie stożka na śródlądziu oznacza: / Зелёный буй с конусом во внутренних водах означает:",
+    "image": null,
+    "answers": [
+      { "text": "a. lewą granicę szlaku żeglownego / левую границу фарватера", "correct": true },
+      { "text": "b. prawą granicę szlaku żeglownego / правую границу фарватера", "correct": false },
+      { "text": "c. rozgałęzienie toru żeglownego / разветвление фарватера", "correct": false }
+    ]
+  },
+  {
+    "id": 94,
+    "text": "Czerwona boja w ksytalcie walca oznacza: / Красный буй в форме цилиндра означает:",
+    "image": null,
+    "answers": [
+      { "text": "a. prawy brzeg / правый берег", "correct": false },
+      { "text": "b. zakaz wejścia na szlak żeglowny / запрет выхода на судоходный путь", "correct": false },
+      { "text": "c. prawą granicę szlaku żeglownego / правая граница фарватера", "correct": true }
+    ]
+  },
+  {
+    "id": 95,
+    "text": "Co to jest jaz? / Плотина это:",
+    "image": null,
+    "answers": [
+      { "text": "a. jest to budowla hydrotechniczna służąca do ochrony przed falami / это гидротехническое сооружение, используемое для защиты от волн", "correct": false },
+      { "text": "b. jest to budowla hydrotechniczna umożliwiająca jachtom uzupełnianie wody / это гидротехническое сооружение, позволяющее яхтам пополнять запасы воды", "correct": false },
+      { "text": "c. jest to budowla hydrotechniczna, umożliwiająca długotrwałe spiętrzenie wody / это гидротехническое сооружение, обеспечивающее длительное накопление воды", "correct": true }
+    ]
+  },
+  {
+    "id": 96,
+    "text": "Budowla hydrotechniczna umożliwiająca pokonanie różnicy poziomu wody między dwoma zbiornikami wody to: / Гидротехническим сооружением, позволяющим преодолевать перепад уровня воды между двумя водохранилищами, является:",
+    "image": null,
+    "answers": [
+      { "text": "a. śluza / шлюз", "correct": true },
+      { "text": "b. jaz / плотина", "correct": false },
+      { "text": "c. spad / спуск", "correct": false }
+    ]
+  },
+  {
+    "id": 97,
+    "text": "Na rysunku przedstawiony jest znak: / На рисунке представлен знак:",
+    "image": "q97.png",
+    "answers": [
+      { "text": "a. wschodni znak kardynalny / восточный кардинальный знак", "correct": false },
+      { "text": "b. zachodni znak kardynalny / западный кардинальный знак", "correct": true },
+      { "text": "c. rozgałęzienie szlaku żeglownego / разветвление судоходного пути", "correct": false }
+    ]
+  },
+  {
+    "id": 98,
+    "text": "Znak na rysunku mówi nam, że niebezpieczeństwo znajduje się na: / Знак на рисунке говорит о том, что опасность находится:",
+    "image": "q98.png",
+    "answers": [
+      { "text": "a. wschód od znaku / к востоку от знака", "correct": true },
+      { "text": "b. zachód od znaku / к западу от знака", "correct": false },
+      { "text": "c. północ od znaku / к северу от знака", "correct": false }
+    ]
+  },
+  {
+    "id": 99,
+    "text": "Widząc północny znak kardynalny, należy go opłynąć od? / Увидев северный кардинальный знак, следует обогнуть его:",
+    "image": "q99.png",
+    "answers": [
+      { "text": "a. od południa / с юга", "correct": false },
+      { "text": "b. od północy / с севера", "correct": true },
+      { "text": "c. od zachodu / с запада", "correct": false }
+    ]
+  },
+  {
+    "id": 100,
+    "text": "Na wodach morskich kierunek toru wodnego oznaczony jest: / На морской акватории направление фарватера обозначается:",
+    "image": null,
+    "answers": [
+      { "text": "a. od strony portu do morza / из порта в море", "correct": false },
+      { "text": "b. od strony morza do portu / от моря до порта", "correct": true },
+      { "text": "c. tak jak na wodach śródlądowych / как во внутренних водах", "correct": false }
+    ]
+  },
+  {
+    "id": 101,
+    "text": "Podczas śluzowania nie wolno: / Во время шлюзования нельзя:",
+    "image": null,
+    "answers": [
+      { "text": "a. odpychać się od ściany śluzy za pomocą rąk lub nóg / отталкиваться от стены шлюза руками или ногами", "correct": true },
+      { "text": "b. cumować na biegowo / заложить швартовую серьгу", "correct": false },
+      { "text": "c. cumować do innego jachtu / швартоваться к другой яхте", "correct": false }
+    ]
+  },
+  {
+    "id": 102,
+    "text": "Hamowanie żaglami polega na: / Торможение паруса производится:",
+    "image": null,
+    "answers": [
+      { "text": "a. wyluzowaniu żagli / травлении паруса", "correct": false },
+      { "text": "b. wypchnięciu ich na wiatr / перекидыванием их на ветер", "correct": true },
+      { "text": "c. wybraniu ich maksymalnie / полным выбором паруса", "correct": false }
+    ]
+  },
+  {
+    "id": 103,
+    "text": "Co stanie się gdy wrzucimy bieg wstecz przy śrubie prawoskrętnej trzymając ster „zero”: / Что произойдёт, если включить задний  ход с правосторонним винтом, при удержании руля в нейтральном положении:",
+    "image": null,
+    "answers": [
+      { "text": "a. jacht ruszy do tyłu, a rufa zostanie odrzucona w prawo / лодка будет двигаться назад, а корма будет отброшена на правый борт", "correct": false },
+      { "text": "b. jacht ruszy prosto do tyłu / лодка пойдет прямо назад", "correct": false },
+      { "text": "c. jacht ruszy do tyłu, a rufa zostanie odrzucona w lewo / лодка будет двигаться назад, а корма будет отброшена влево", "correct": true }
+    ]
+  },
+  {
+    "id": 104,
+    "text": "Szpring dziobowy na jachcie jest poprowadzony od: / Носовой шпринг на яхте проводится от:",
+    "image": null,
+    "answers": [
+      { "text": "a. dziobu jachtu do polera przed jachtem / от носа яхты на кнехт возле носа яхты", "correct": false },
+      { "text": "b. dziobu jachtu do polera przy rufie jachtu / от носа яхты на кнехт позади кормы яхты", "correct": true },
+      { "text": "c. rufy jachtu do polera przy dziobie jachtu / от кормы яхты до кнехта возле носа яхт", "correct": false }
+    ]
+  },
+  {
+    "id": 105,
+    "text": "Aby zrównoważyć silną nawietrzność jachtu podczas szkwału, należy: / Чтобы уравновесить сильную наветренность лодки при порыве ветра, нужно:",
+    "image": null,
+    "answers": [
+      { "text": "a. wybrać tylny żagiel / выбрать задний парус", "correct": true },
+      { "text": "b. zrzucić przednie żagle / скрутить передний парус", "correct": false },
+      { "text": "c. poluzować tylny żagiel / потравить задний парус", "correct": false }
+    ]
+  },
+  {
+    "id": 106,
+    "text": "Wyjaśnij pojęcie zawietrzności jachtu: / Объясните понятие подветренности яхты:",
+    "image": null,
+    "answers": [
+      { "text": "a. jest to tendencja jachtu do samoistnego ostrzenia / это склонность лодки приводить себя самостоятельно", "correct": false },
+      { "text": "b. jest to tendencja jachtu do samoistnego odpadania / это склонность лодки уваливать себя самостоятельно", "correct": true },
+      { "text": "c. jest to tendencja jachtu do samoistnego pływania z wiatrem / это склонность яхты плыть по ветру самостоятельно", "correct": false }
+    ]
+  },
+  {
+    "id": 107,
+    "text": "Co to znaczy, że jacht płynie prawym halsem? / Что означает, что яхта идёт правым галсом?",
+    "image": null,
+    "answers": [
+      { "text": "a. lewa burta jest burtą nawietrzną, żagle układają się na prawej burcie / левый борт - наветренная сторона, паруса расположены на правом борту", "correct": false },
+      { "text": "b. jacht płynie w prawą stronę / яхта идёт вправо", "correct": false },
+      { "text": "c. prawa burta jest burtą nawietrzną, żagle układają się na lewej burcie / правый борт - наветренная сторона, паруса расположены на левом борту", "correct": true }
+    ]
+  },
+  {
+    "id": 108,
+    "text": "Co trzeba zrobić, gdy jacht nadmiernie się przechyla? / Что делать, если яхту сильно кренит?",
+    "image": null,
+    "answers": [
+      { "text": "a. przenieść balast na burtę zawietrzną, wybrać maksymalnie żagle, odpaść od wiatru / переместить вес на подветренную сторону, максимально поднять паруса, увалиться от ветра", "correct": false },
+      { "text": "b. przenieść balast na burtę nawietrzną, luzować żagle, ostrzyć, refować żagle / переместить вес на наветренную сторону, потравить паруса, привестись, зарифовать паруса", "correct": true },
+      { "text": "c. przenieść balast do tyłu, ustawić się bokiem do wiatru / переместить вес назад, встать боком к ветру", "correct": false }
+    ]
+  },
+  {
+    "id": 109,
+    "text": "Siła ciągu powstająca na żaglu zwiększa się w przypadku: / Сила тяги паруса увеличивается при:",
+    "image": null,
+    "answers": [
+      { "text": "a. zwiększenia przechyłu jachtu / увеличении креня яхты", "correct": false },
+      { "text": "b. zmniejszenia przechyłu przez balastowanie jachtu / уменьшению крена с помощью откренивая", "correct": true },
+      { "text": "c. wyluzowania żagli do łopotu. / ослабления парусов до фалания.", "correct": false }
+    ]
+  },
+  {
+    "id": 110,
+    "text": "Podniesienie płetwy sterowej o 45° spowoduje: / Поднятие пера руля на 45° приведет к",
+    "image": null,
+    "answers": [
+      { "text": "a. polepszenie sterowności / улучшению управляемости", "correct": false },
+      { "text": "b. pogorszenie sterowności / ухудшению управляемости", "correct": true },
+      { "text": "c. zmniejszenie dryfu / уменьшению дрейфа", "correct": false }
+    ]
+  },
+  {
+    "id": 111,
+    "text": "Wiatr zachodni wieje: / Западный ветер дует:",
+    "image": null,
+    "answers": [
+      { "text": "a. z zachodu / с запада", "correct": true },
+      { "text": "b. na zachód / на запад", "correct": false },
+      { "text": "c. zachodzie Słońca / на закате", "correct": false }
+    ]
+  },
+  {
+    "id": 112,
+    "text": "Bryza dzienna na jeziorze wieje w kierunku: / Дневной бриз на озере дует в сторону:",
+    "image": null,
+    "answers": [
+      { "text": "a. od jeziora do jego brzegu / от озера до его берега", "correct": true },
+      { "text": "b. od brzegów jeziora do jego środka / от берегов озера к его центру", "correct": false },
+      { "text": "c. zawsze ze wschodu na zachód / всегда с востока на запад", "correct": false }
+    ]
+  },
+  {
+    "id": 113,
+    "text": "Długotrwałe opady o niezbyt silnym natężeniu zwiastują chmury: / Продолжительные дожди не очень сильной интенсивности предвещают облака:",
+    "image": null,
+    "answers": [
+      { "text": "a. Cirrus i cirrostratus / cirrus и cirrostratus (перистые и перисто-кучевые)", "correct": false },
+      { "text": "b. Cumulus i cumulonimbus / cumulus и cumulonimbus (кучевые и кучево-дождевые)", "correct": false },
+      { "text": "c. Stratus i nimbostratus / stratus и nimbostratus (слоистые и слоисто-дождевые)", "correct": true }
+    ]
+  },
+  {
+    "id": 114,
+    "text": "Jednostką ciśnienia atmosferycznego jest: / Единицей атмосферного давления является:",
+    "image": null,
+    "answers": [
+      { "text": "a. lux / люкс", "correct": false },
+      { "text": "b. hektopaskal / гектопаскаль", "correct": true },
+      { "text": "c. m2 / м2", "correct": false }
+    ]
+  },
+  {
+    "id": 115,
+    "text": "Zakres skali Beauforta to: / Диапазон шкалы Бофорта составляет:",
+    "image": null,
+    "answers": [
+      { "text": "a. 0°- 9°", "correct": false },
+      { "text": "b. 0°- 10°", "correct": false },
+      { "text": "c. 0°- 12°", "correct": true }
+    ]
+  },
+  {
+    "id": 116,
+    "text": "Jak zachowuje się wiatr wiejący znad wysokiego brzegu? / Как ведет себя ветер, дующий с высокого берега?",
+    "image": null,
+    "answers": [
+      { "text": "a. zmienia kierunek na przeciwny do wiatru rzeczywistego – na dopychający do brzegu / Меняет направление на противоположное относительно истинного ветра – становится прижимным ветром", "correct": true },
+      { "text": "b. zmienia kierunek na równoległy do brzegu / меняет направление на параллельное берегу", "correct": false },
+      { "text": "c. zwiększa tylko siłę / только увеличивает силу", "correct": false }
+    ]
+  },
+  {
+    "id": 117,
+    "text": "Bezpieczniejsze kotwicowisko na jeziorze znajduje się: / Более безопасная якорная стоянка на озере находится:",
+    "image": null,
+    "answers": [
+      { "text": "a. po stronie zawietrznej wyspy / на подветренной стороне острова", "correct": true },
+      { "text": "b. po stronie nawietrznej wyspy / на наветренной стороне острова", "correct": false },
+      { "text": "c. obie strony są niebezpieczne / обе стороны не безопасны", "correct": false }
+    ]
+  },
+  {
+    "id": 118,
+    "text": "Prędkość wiatru zależy od: / Скорость ветра зависит от:",
+    "image": null,
+    "answers": [
+      { "text": "a. różnicy ciśnień między dwoma punktami / разницы давлений между двумя точками", "correct": true },
+      { "text": "b. wielkości jachtu / размера яхты", "correct": false },
+      { "text": "c. wielkości barometru / размера барометра", "correct": false }
+    ]
+  },
+  {
+    "id": 119,
+    "text": "Szkwał jest to: / Шквал – это:",
+    "image": null,
+    "answers": [
+      { "text": "a. część dziobowa jachtu balastowego / носовая часть балластной яхты", "correct": false },
+      { "text": "b. nagły silny podmuch / внезапный сильный порыв ветра", "correct": true },
+      { "text": "c. wiatr występujący w strefie międzyzwrotnikowej / тропический ветер (ветер, возникающий в межтропической зоне)", "correct": false }
+    ]
+  },
+  {
+    "id": 120,
+    "text": "W obszarze wyżu wiatry wieją: / В зоне повышенного давления дуют ветры:",
+    "image": null,
+    "answers": [
+      { "text": "a. od środka układu na zewnątrz / из центра системы наружу", "correct": true },
+      { "text": "b. do środka układu / к центру системы", "correct": false },
+      { "text": "c. od środka układu na półkuli północnej, a do środka na półkuli południowej / от центра системы в северном полушарии и до центра в южном полушарии", "correct": false }
+    ]
+  },
+  {
+    "id": 121,
+    "text": "Jeden długi dźwięk nadawany przez statek na drodze śródlądowej oznacza: / Один длинный звуковой сигнал с судна на внутреннем водном пути означает:",
+    "image": null,
+    "answers": [
+      { "text": "a. uwaga / обратить внимание", "correct": true },
+      { "text": "b. moje maszyny pracują wstecz / двигатель работает реверсом", "correct": false },
+      { "text": "c. nie mogę manewrować / не могу маневрировать", "correct": false }
+    ]
+  },
+  {
+    "id": 122,
+    "text": "Powtarzające się długie dźwięki oznaczają: / Повторяющиеся длинные гудки означают:",
+    "image": null,
+    "answers": [
+      { "text": "a. wzywam pomocy / зову на помощь", "correct": true },
+      { "text": "b. zmieniam mój kurs w lewo / меняю курс влево", "correct": false },
+      { "text": "c. mam zamiar zawrócić w prawo / собираюсь повернуть направо", "correct": false }
+    ]
+  },
+  {
+    "id": 123,
+    "text": "Czarny stożek wierzchołkiem w dół wywieszony na statku oznacza: / Перевернутый черный конус, свисающий с штага означает:",
+    "image": null,
+    "answers": [
+      { "text": "a. pojedynczy mały statek w ruchu / один небольшой корабль в движении", "correct": false },
+      { "text": "b. statek płynący jednocześnie na żaglach i na silniku / судно, идущее под парусами и двигателем одновременно", "correct": true },
+      { "text": "c. statek na kotwicy / судно на якоре", "correct": false }
+    ]
+  },
+  {
+    "id": 124,
+    "text": "Czarna kula wywieszona na dziobie jachtu oznacza: / Черный шар, свисающий с носа яхты, означает:",
+    "image": null,
+    "answers": [
+      { "text": "a. statek płynący jednocześnie na żaglach i na silniku / судно, идущее под парусами и двигателем одновременно", "correct": false },
+      { "text": "b. pojedynczy mały statek w ruchu / один небольшой корабль в движении", "correct": false },
+      { "text": "c. statek na kotwicy / судно на якоре", "correct": true }
+    ]
+  },
+  {
+    "id": 125,
+    "text": "W jaki sposób postawisz jacht w dryf? / Как поставить яхту в дрейф?",
+    "image": null,
+    "answers": [
+      { "text": "a. w kursie bajdewind wykonasz zwrot przez sztag bez luzowania foka / на курсе бейдевинд сделать поворот оверштаг без переброса переднего паруса (стакселя)", "correct": true },
+      { "text": "b. z kursu baksztag zrobisz zwrot przez sztag i umocujesz ster do burty / на курсе бакштаг сделать поворот оверштаг и прикрепить руль к борту", "correct": false },
+      { "text": "c. zrzucisz żagle, przymocujesz ster do prawej burty / спустить паруса и вывернуть штурвал на правый борт", "correct": false }
+    ]
+  },
+  {
+    "id": 126,
+    "text": "Jakie czynności należy wykonać przed wyrzuceniem kotwicy z dziobu: / Что делать перед тем, как сбросить якорь с носа:",
+    "image": null,
+    "answers": [
+      { "text": "a. dla bezpieczeństwa zrzucić foka i przygotować linę kotwiczną / в целях безопасности опустить передний парус и подготовить якорный канат", "correct": false },
+      { "text": "b. płynąć w linii pod wiatr i poczekać aż jacht zatrzyma się lub zacznie się cofać / идти против ветра и ждать пока лодка остановится или начнет двигаться задним ходом", "correct": false },
+      { "text": "c. obie odpowiedzi są prawidłowe / оба варианта верные", "correct": true }
+    ]
+  },
+  {
+    "id": 127,
+    "text": "Którą burta podejmujemy człowieka z wody na jachcie mieczowym? / С какого борта нужно поднимать человека за бортом на швертботе?",
+    "image": null,
+    "answers": [
+      { "text": "a. zawietrzną / подветренной", "correct": false },
+      { "text": "b. nawietrzną / наветренной", "correct": true },
+      { "text": "c. nie ma to znaczenia / не имеет значения", "correct": false }
+    ]
+  },
+  {
+    "id": 128,
+    "text": "Halsowanie jest to: / Лавировка – это:",
+    "image": null,
+    "answers": [
+      { "text": "a. wyciąganie jachtów z hali / вытягивание яхты с стоянки", "correct": false },
+      { "text": "b. przemieszczanie się pod wiatr, na zmianę prawym i lewym bajdewindem / движение против ветра, попеременно с правым и левым бейдевиндом", "correct": true },
+      { "text": "c. zmniejszanie powierzchni żagli / уменьшение площади паруса", "correct": false }
+    ]
+  },
+  {
+    "id": 129,
+    "text": "Stawianie i zrzucanie żagli należy wykonywać: / Подъем и спуск парусов следует производить:",
+    "image": null,
+    "answers": [
+      { "text": "a. pod wiatr / против ветра", "correct": true },
+      { "text": "b. w dowolnym kursie / на любом курсе", "correct": false },
+      { "text": "c. tylko w kursach pełnych / только на полных курсах", "correct": false }
+    ]
+  },
+  {
+    "id": 130,
+    "text": "Jaki kąt ma światło burtowe? / Какой сектор освещения у бортового огня судна?",
+    "image": null,
+    "answers": [
+      { "text": "a. 112,5 ° / 112,5°", "correct": true },
+      { "text": "b. 135 ° / 135°", "correct": false },
+      { "text": "c. 225 ° / 225°", "correct": false }
+    ]
+  },
+  {
+    "id": 131,
+    "text": "Na brzegu widnieje taki znak. Co on oznacza: / На берегу виден такой знак. Что он означает?",
+    "image": "q131.png",
+    "answers": [
+      { "text": "a. uwaga most o wysokości przęsła nad wodą podanej na znaku (12 m) / обратить внимание на мост с высотой пролета над водой, указанной на знаке (12 м)", "correct": false },
+      { "text": "b. zakaz ruchu statków o mocy silnika większej niż podana na znaku (12KM) / запрещение движения судов с мощностью двигателя большей, чем указано на знаке (12 л.с.)", "correct": false },
+      { "text": "c. nakaz nie przekraczania prędkości podanej na znaku (12km/h) / приказ не превышать скорость, указанную на знаке (12 км/ч)", "correct": true }
+    ]
+  },
+  {
+    "id": 132,
+    "text": "Na brzegu zaobserwowano znak jak na rysunku. Jak należy się zachować? / На берегу замечен следующий знак. Как нужно себя вести?",
+    "image": "q132.png",
+    "answers": [
+      { "text": "a. zachować ostrożność, mogą przepływać szybkie łodzie i skutery wodne / будьте осторожны, могут пройти быстроходные катера и водные мотоциклы", "correct": false },
+      { "text": "b. zmniejszyć szybkość, aby nie wytwarzać fali / уменьшить скорость, чтобы не создавать волну", "correct": true },
+      { "text": "c. zachować ostrożność, nierówna linia brzegowa, spłycenia / будьте осторожны, неровная береговая линия, мелководье", "correct": false }
+    ]
+  },
+  {
+    "id": 133,
+    "text": "Zaobserwowano znak przedstawiony na rysunku. Co on oznacza? / Замечен следующий знак. Что он означает?",
+    "image": "q133.png",
+    "answers": [
+      { "text": "a. nakaz zachowania szczególnej ostrożności / замечание проявить крайнюю осторожность", "correct": true },
+      { "text": "b. zakaz ruchu statków żaglowych / запрет на движение парусных судов", "correct": false },
+      { "text": "c. nakaz nadania sygnału dźwiękowego / замечание для подачи звукового сигнала", "correct": false }
+    ]
+  },
+  {
+    "id": 134,
+    "text": "Co oznacza ten znak? / Что означает этот знак?",
+    "image": "q134.png",
+    "answers": [
+      { "text": "a. nakaz żeglugi tylko z jednym żaglem / приказ плыть только с одним парусом", "correct": false },
+      { "text": "b. pierwszeństwo przejścia dla jachtów żaglowych / приоритет прохода парусных яхт", "correct": false },
+      { "text": "c. zakaz żeglugi pod żaglami / запрет движения под парусом", "correct": true }
+    ]
+  },
+  {
+    "id": 135,
+    "text": "Zaobserwowała znak oznacza: / Наблюдаемый знак обозначает:",
+    "image": "q135.png",
+    "answers": [
+      { "text": "a. uwaga, przeszkoda podwodna / внимание, подводное препятствие", "correct": false },
+      { "text": "b. nakaz nadania sygnału dźwiękowego / приказ подать звуковой сигнал", "correct": true },
+      { "text": "c. zakaz zatrzymywania się / запрет остановки", "correct": false }
+    ]
+  },
+  {
+    "id": 136,
+    "text": "Jacht o długości 8 m i wysokości masztu 14 m wpływa do kanału. Na brzegu ustawione są znaki. Co należy zrobić? / Яхта длиной 8 м и высотой мачты 14 м входит в канал. На берегу есть указатели. Как следует поступить?",
+    "image": "q136.png",
+    "answers": [
+      { "text": "a. nie ma przeszkód, płynąć dalej / препятствий нет, продолжить движение", "correct": false },
+      { "text": "b. położyć maszt i płynąć dalej / опустить мачту и идти дальше", "correct": true },
+      { "text": "c. nie da się przejść jacht jest za długi / невозможно пройти, яхта слишком длинная", "correct": false }
+    ]
+  },
+  {
+    "id": 137,
+    "text": "Z jachtu o wysokości masztu 8 m, szerokości 3 m i zanurzeniu 1 m, zaobserwowano przy wejściu do kanału tablice jak na rysunku. Jak należy postąpić? / С яхты с высотой мачты 8 м, шириной 3 м и осадкой 1 м у входа в канал был замечен такой знак, как показано на рисунке. Как поступить?",
+    "image": "q137.png",
+    "answers": [
+      { "text": "a. nie da się przejść, należy zawrócić / пройти невозможно, надо повернуть назад", "correct": false },
+      { "text": "b. można przejść po złożeniu masztu / вы можете идти после складывания мачты", "correct": true },
+      { "text": "c. można przejść nie ma przeszkód / вы можете идти без препятствий", "correct": false }
+    ]
+  },
+  {
+    "id": 138,
+    "text": "Według zasad bhp trzymanie rąk i nóg poza burtą jachtu jest: / Согласно правилам безопасности держать руки и ноги за бортом яхты:",
+    "image": null,
+    "answers": [
+      { "text": "a. nie mówią nic na ten temat / об этом ничего не говорят", "correct": false },
+      { "text": "b. zdecydowanie zabronione / категорически запрещено", "correct": true },
+      { "text": "c. dozwolone, ale tylko podczas żeglugi / разрешено, но только во время плавания", "correct": false }
+    ]
+  },
+  {
+    "id": 139,
+    "text": "Osoba posiadająca stopień żeglarza jachtowego jest uprawniona do prowadzenia na wodach śródlądowych jachtów o powierzchni żagli: / Лицо, имеющее сертификат яхтенного матроса, имеет право управлять яхтами во внутренних водах со следующей площадью парусности:",
+    "image": null,
+    "answers": [
+      { "text": "a. do 15 m2 / до 15 м2", "correct": false },
+      { "text": "b. do 40 m2 / до 40 м2", "correct": false },
+      { "text": "c. bez ograniczeń / без ограничений", "correct": true }
+    ]
+  },
+  {
+    "id": 140,
+    "text": "Przy śluzie pierwszeństwo mają statki: / У шлюза приоритет прохода имеют следующие суда:",
+    "image": null,
+    "answers": [
+      { "text": "a. wchodzące do śluzy / входящие в шлюз", "correct": false },
+      { "text": "b. duże, niezależnie czy wchodzą czy wychodzą ze śluzy / большие, независимо от того, входят ли они в шлюз или выходят из него", "correct": false },
+      { "text": "c. wychodzące ze śluzy / выходящие из шлюза", "correct": true }
+    ]
+  },
+  {
+    "id": 141,
+    "text": "Jacht płynący lewym halsem ustępuje z drogi jachtowi płynącemu prawym halsem: / Яхта на левом галсе уступает место лодке на правом галсе:",
+    "image": null,
+    "answers": [
+      { "text": "a. tak / да", "correct": true },
+      { "text": "b. nie / нет", "correct": false },
+      { "text": "c. zawsze ustępuje jacht mniejszy / меньшая яхта всегда уступает", "correct": false }
+    ]
+  },
+  {
+    "id": 142,
+    "text": "Jeżeli dwa jachty żaglowe mają wiatr z tej samej burty, to jacht znajdujący się od strony nawietrznej powinien: / Если две парусные яхты идут одинаковым галсом, то яхта, находящаяся на наветренной стороне должна:",
+    "image": null,
+    "answers": [
+      { "text": "a. kontynuować rejs po ustalonej trasie / продолжить курс по своему маршруту", "correct": false },
+      { "text": "b. wezwać jacht żaglowy znajdujący się po zawietrznej do ustąpienia z drogi / сообщить подветренной парусной лодке уступить дорогу", "correct": false },
+      { "text": "c. ustąpić z drogi / уступить дорогу подветренной яхте", "correct": true }
+    ]
+  },
+  {
+    "id": 143,
+    "text": "Dwa jachty płyną przeciwnymi halsami, ustępuje: / Две яхты идут противоположными галсами, уступить должна:",
+    "image": null,
+    "answers": [
+      { "text": "a. jacht płynący prawym halsem / идущая правым галсом", "correct": false },
+      { "text": "b. jacht płynący lewym halsem / идущая левым галсом", "correct": true },
+      { "text": "c. jacht większy / большая яхта", "correct": false }
+    ]
+  },
+  {
+    "id": 144,
+    "text": "Prawa burta jachtu żaglowego na śródlądziu oznaczona jest światłem koloru: / Правый борт парусной яхты во внутренних водах маркируется цветным огнем:",
+    "image": null,
+    "answers": [
+      { "text": "a. czerwonego / красного цвета", "correct": false },
+      { "text": "b. zielonego / зеленого цвета", "correct": true },
+      { "text": "c. białego / белого цвета", "correct": false }
+    ]
+  },
+  {
+    "id": 145,
+    "text": "Pozycja HELP to: / Позиция ПОМОЩЬ:",
+    "image": null,
+    "answers": [
+      { "text": "a. sposób wzywania pomocy / как позвать на помощь", "correct": false },
+      { "text": "b. sposób ułożenia ciała w wodzie zmniejszający utratę ciepła z organizmu / способ расположения тела в воде, уменьшающий потери тепла телом", "correct": true },
+      { "text": "c. sposób ułożenia ciała w wodzie zwiększający utratę ciepła z organizmu / положение тела в воде, что увеличивает потерю тепла телом", "correct": false }
+    ]
+  },
+  {
+    "id": 146,
+    "text": "Pierwszą czynnością po wywróceniu jachtu jest: / Первое действие после опрокидывания яхты:",
+    "image": null,
+    "answers": [
+      { "text": "a. sprawdzenie stanu załogi / проверка экипажа", "correct": true },
+      { "text": "b. zabezpieczenie jachtu przed ‘grzybem’ / попытка перевернуть яхту обратно", "correct": false },
+      { "text": "c. zabezpieczenie osprzętu i wyposażenia ruchomego przed utonięciem / защита приспособлений и подвижного оборудования от затопления", "correct": false }
+    ]
+  },
+  {
+    "id": 147,
+    "text": "Pozycję „boczną bezpieczną” stosujemy w przypadku: / Положение «потерпевшегос» используется в случае:",
+    "image": null,
+    "answers": [
+      { "text": "a. krwawienia z nosa / носовых кровотечений", "correct": false },
+      { "text": "b. gdy osoba jest nieprzytomna / когда человек без сознания", "correct": true },
+      { "text": "c. po urazie kręgosłupa / после травмы позвоночника", "correct": false }
+    ]
+  },
+  {
+    "id": 148,
+    "text": "Resuscytacje krążeniowo-oddechową osoby dorosłej prowadzimy w schemacie: / Сердечно-легочная реанимация взрослого человека проводится по следующей схеме:",
+    "image": null,
+    "answers": [
+      { "text": "a. 30 uciśnięć klatki piersiowej do 2 wdechów ratunkowych / 30 компрессий грудной клетки на 2 искусственных вдоха", "correct": true },
+      { "text": "b. 5 wdechów ratunkowych i następnie 30 uciśnięć klatki piersiowej do 2 wdechów ratunkowych / 5 искусственных вдохов, за которыми следует 30 компрессий грудной клетки до 2 искусственных вдохов", "correct": false },
+      { "text": "c. 2 wdechy ratunkowe do 15 uciśnięć klatki piersiowej / от 2 искусственных вдохов до 15 нажатий на грудную клетку", "correct": false }
+    ]
+  },
+  {
+    "id": 149,
+    "text": "Do koła ratunkowego wchodzimy: / Использование спасательного круга:",
+    "image": null,
+    "answers": [
+      { "text": "a. podpływając pod koło / подплыть под круг", "correct": false },
+      { "text": "b. chwytamy się obiema rękoma / хватать обеими руками", "correct": false },
+      { "text": "c. zakładamy koło przez głowę i zakładamy pod pachy / надеть обруч на голову и положить его под мышки", "correct": true }
+    ]
+  },
+  {
+    "id": 150,
+    "text": "Sztrandowanie jest to: / Штрандование (посадка на мель) это:",
+    "image": null,
+    "answers": [
+      { "text": "a. niezamierzone wejście na mieliznę / непреднамеренная посадка на мель", "correct": false },
+      { "text": "b. celowe wejście na mieliznę / преднамеренная посадка на мель", "correct": true },
+      { "text": "c. wyciąganie jachtu na brzeg po sezonie / вытаскивание яхты на берег после окончания сезона", "correct": false }
+    ]
+  }  
 ]

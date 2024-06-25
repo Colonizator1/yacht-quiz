@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>{{ question.text }}</h2>
+    <h2>{{ question.id }} - {{ question.text }}</h2>
     <img
       v-if="question.image"
       :src="`/${question.image}`"

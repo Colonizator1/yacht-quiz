@@ -42,7 +42,7 @@
   {
     "id": 5,
     "text": "Od której strony należy omijać poniższy znak kardynalny? / С какой стороны следует обойти кардинальный знак внизу?",
-    "image": null,
+    "image": "q5.png",
     "answers": [
       { "text": "znak omijamy od północy / знак обойти с севера", "correct": true },
       { "text": "informuje nas o niebezpieczeństwach znajdujących się od północnej strony, znak omijamy od południa / информирует нас об опасности с севера, знак обойти c юга", "correct": false },

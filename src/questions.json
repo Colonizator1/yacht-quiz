@@ -212,7 +212,7 @@
   {
     "id": 22,
     "text": "Co robimy z żaglami przy odpadaniu i ostrzeniu aby zapewnić prawidłowa prace? / Что мы делаем с парусами при уваливании и приведении для обеспечения правильной работы?",
-    "image": "q22.png",
+    "image": null,
     "answers": [
       { "text": "przy odpadaniu luzujemy, przy ostrzeniu wybieramy / при уваливании травим, при приведении выбираем", "correct": true },
       { "text": "przy odpadaniu wybieramy, przy ostrzeniu luzujemy / при уваливании выбираем, при приведении травим", "correct": false },
@@ -222,7 +222,7 @@
   {
     "id": 23,
     "text": "Co oznacza ostrzenie i odpadanie jachtu? / Что означает 'привестись' и 'увалиться'?",
-    "image": "q23.png",
+    "image": null,
     "answers": [
       { "text": "kiedy jacht ostrzy to zbliża się, a kiedy odpada to oddala się do kierunku wiejącego wiatru / когда яхта приводится, она идёт в сторону ветра, когда уваливается, то отдаляется от дующего ветра", "correct": true },
       { "text": "kiedy jacht ostrzy to przechodzi na kursy pełne, a kiedy odpada wraca na kursy ostre / когда яхта приводится, то идёт на полном курсе, а когда уваливается - возвращается на острый курс", "correct": false },

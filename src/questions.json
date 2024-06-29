@@ -985,8 +985,8 @@
     "image": "q99.png",
     "answers": [
       { "text": "a. od południa / с юга", "correct": false },
-      { "text": "b. od północy / с севера", "correct": true },
-      { "text": "c. od zachodu / с запада", "correct": false }
+      { "text": "b. od północy / с севера (* верный ответ по мнению МШ Damora)", "correct": true },
+      { "text": "c. od zachodu / с запада (* верный ответ по мнению комиссии)", "correct": false }
     ]
   },
   {

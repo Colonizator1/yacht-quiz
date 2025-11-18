@@ -387,11 +387,11 @@
         "answers": [
           {
             "text": "6,2 s - 7,2 s",
-            "correct": true
+            "correct": false
           },
           {
             "text": "0,45 s - 0,63 s",
-            "correct": false
+            "correct": true
           },
           {
             "text": "3 s - 4 s",
@@ -477,7 +477,7 @@
         "answers": [
           {
             "text": "jednej częstotliwości",
-            "correct": false
+            "correct": true
           },
           {
             "text": "dwóch częstotliwościach",
@@ -485,7 +485,7 @@
           },
           {
             "text": "trzech częstotliwościach",
-            "correct": true
+            "correct": false
           }
         ]
       },
@@ -513,11 +513,11 @@
         "answers": [
           {
             "text": "potwierdzenie odbioru wywołania w niebezpieczeństwie powinno być zainicjowane ręcznie- na tej samej częstotliwości na której odebrano to wywołanie z opóźnieniem co najmniej jednominutowym",
-            "correct": true
+            "correct": false
           },
           {
             "text": "potwierdzenie odbioru wywołania w niebezpieczeństwie powinno być zainicjowane ręcznie- na tej samej częstotliwości na której odebrano to wywołanie z opóźnieniem - nie większym jednak niż 2,75 min",
-            "correct": false
+            "correct": true
           },
           {
             "text": "potwierdzenie odbioru wywołania w niebezpieczeństwie powinno być zainicjowane ręcznie na częstotliwości kanału 70",
@@ -567,7 +567,7 @@
         "answers": [
           {
             "text": "tak często jak to jest niezbędne",
-            "correct": true
+            "correct": false
           },
           {
             "text": "jeden raz w ciągu doby",
@@ -575,7 +575,7 @@
           },
           {
             "text": "testowanie kanału 70 jest zabronione",
-            "correct": false
+            "correct": true
           }
         ]
       },
@@ -643,11 +643,11 @@
           },
           {
             "text": "350 – 1000 Mm",
-            "correct": true
+            "correct": false
           },
           {
             "text": "200 – 400 Mm",
-            "correct": false
+            "correct": true
           }
         ]
       },
@@ -801,7 +801,7 @@
         "answers": [
           {
             "text": "komunikat pilny",
-            "correct": true
+            "correct": false
           },
           {
             "text": "komunikat odebrany poprawnie",
@@ -809,7 +809,7 @@
           },
           {
             "text": "komunikat odebrany niepoprawnie",
-            "correct": false
+            "correct": true
           }
         ]
       },
@@ -855,11 +855,11 @@
         "answers": [
           {
             "text": "ostrzeżenie nawigacyjne",
-            "correct": true
+            "correct": false
           },
           {
             "text": "ostrzeżenie meteorologiczne",
-            "correct": false
+            "correct": true
           },
           {
             "text": "komunikat nadany został dla obszaru morza A1",
@@ -999,11 +999,11 @@
         "answers": [
           {
             "text": "List of Radiodetermination and Special Service Station - ITU",
-            "correct": false
+            "correct": true
           },
           {
             "text": "Admirality List Of Radiosignals Vol. 1",
-            "correct": true
+            "correct": false
           },
           {
             "text": "List Of Ship Stations - ITU",
@@ -1035,7 +1035,7 @@
         "answers": [
           {
             "text": "Urząd Morski w Gdyni",
-            "correct": true
+            "correct": false
           },
           {
             "text": "Urząd Morski w Szczecinie",
@@ -1043,7 +1043,7 @@
           },
           {
             "text": "Biuro Hydrograficzne Marynarki Wojennej",
-            "correct": false
+            "correct": true
           }
         ]
       },
@@ -1053,7 +1053,7 @@
         "answers": [
           {
             "text": "List of Radiodetermination and Special Service Station - ITU",
-            "correct": false
+            "correct": true
           },
           {
             "text": "Admirality List Of Radiosignals Vol. 1",
@@ -1061,7 +1061,7 @@
           },
           {
             "text": "Admirality List Of Radiosignals Vol. 5",
-            "correct": true
+            "correct": false
           }
         ]
       },
@@ -1143,7 +1143,7 @@
         "answers": [
           {
             "text": "3 satelitów",
-            "correct": true
+            "correct": false
           },
           {
             "text": "12 satelitów",
@@ -1151,7 +1151,7 @@
           },
           {
             "text": "5 satelitów",
-            "correct": false
+            "correct": true
           }
         ]
       },
@@ -1359,11 +1359,11 @@
         "answers": [
           {
             "text": "zgłosić się do lokalnego oddziału Urzędu Komunikacji Elektronicznej",
-            "correct": false
+            "correct": true
           },
           {
             "text": "zgłosić się do właściwego terytorialnie Urzędu Morskiego",
-            "correct": true
+            "correct": false
           },
           {
             "text": "zgłosić się do MRCC Gdynia",
@@ -1377,7 +1377,7 @@
         "answers": [
           {
             "text": "określa pozycję radiopławy i przekazuje tę informację do LUT",
-            "correct": true
+            "correct": false
           },
           {
             "text": "retransmituje odebrane z radiopławy sygnały do satelity geostacjonarnego",
@@ -1385,7 +1385,7 @@
           },
           {
             "text": "retransmituje odebrane z radiopławy sygnały do stacji LUT",
-            "correct": false
+            "correct": true
           }
         ]
       },
@@ -1431,11 +1431,11 @@
         "answers": [
           {
             "text": "namiarom radiowym dokonywanym przez jednostki SAR na częstotliwości kanału 70",
-            "correct": true
+            "correct": false
           },
           {
             "text": "wbudowanemu w radiopławę transponderowi radarowemu (SART)",
-            "correct": false
+            "correct": true
           },
           {
             "text": "nadawaniu przez radiopławę sygnałów akustycznych",
@@ -1539,7 +1539,7 @@
         "answers": [
           {
             "text": "około 12 mil",
-            "correct": true
+            "correct": false
           },
           {
             "text": "poniżej 2 mil",
@@ -1547,7 +1547,7 @@
           },
           {
             "text": "5 do 7 mil",
-            "correct": false
+            "correct": true
           }
         ]
       },
@@ -1647,11 +1647,11 @@
         "answers": [
           {
             "text": "w postaci koncentrycznych okręgów przy odległości do rozbitków poniżej 1 mili",
-            "correct": true
+            "correct": false
           },
           {
             "text": "w postaci koncentrycznych okręgów przy odległości do rozbitków poniżej 0,1 mili",
-            "correct": false
+            "correct": true
           },
           {
             "text": "w postaci koncentrycznych okręgów przy odległości do rozbitków poniżej 2 mil",
@@ -1665,11 +1665,11 @@
         "answers": [
           {
             "text": "najdalsza kropka",
-            "correct": true
+            "correct": false
           },
           {
             "text": "najbliższy łuk",
-            "correct": false
+            "correct": true
           },
           {
             "text": "najdalszy łuk",
@@ -1687,11 +1687,11 @@
           },
           {
             "text": "najdalszy łuk",
-            "correct": true
+            "correct": false 
           },
           {
             "text": "najbliższa kropka",
-            "correct": false
+            "correct": true
           }
         ]
       },
@@ -1755,7 +1755,7 @@
         "answers": [
           {
             "text": "zmianę zakresu",
-            "correct": true
+            "correct": false
           },
           {
             "text": "zmianę jasności zobrazowania",
@@ -1763,7 +1763,7 @@
           },
           {
             "text": "odstrojenie radaru",
-            "correct": false
+            "correct": true
           }
         ]
       },
@@ -1777,11 +1777,11 @@
           },
           {
             "text": "odstrojenie radaru",
-            "correct": true
+            "correct": false
           },
           {
             "text": "zmniejszenie wzmocnienia radaru",
-            "correct": false
+            "correct": true
           }
         ]
       },
@@ -1971,11 +1971,11 @@
         "answers": [
           {
             "text": "blokadę wzmacniacza wysokiej częstotliwości dla słabych sygnałów",
-            "correct": true
+            "correct": false
           },
           {
             "text": "blokadę wzmacniacza częstotliwości akustycznej dla słabych sygnałów",
-            "correct": false
+            "correct": true
           },
           {
             "text": "blokadę wzmacniacza wysokiej częstotliwości dla silnych sygnałów",
@@ -2173,11 +2173,11 @@
           },
           {
             "text": "0,8 Q (Q – pojemność znamionowa akumulatora)",
-            "correct": false
+            "correct": true
           },
           {
             "text": "0,5 Q (Q – pojemność znamionowa akumulatora)",
-            "correct": true
+            "correct": false
           }
         ]
       },
@@ -2331,11 +2331,11 @@
         "answers": [
           {
             "text": "2,3 V/ ogniwo",
-            "correct": true
+            "correct": false
           },
           {
             "text": "1,8 V/ ogniwo",
-            "correct": false
+            "correct": true
           },
           {
             "text": "1,9 V / ogniwo",
@@ -2349,7 +2349,7 @@
         "answers": [
           {
             "text": "0,1 Q (Q – pojemność znamionowa akumulatora)",
-            "correct": true
+            "correct": false
           },
           {
             "text": "0,5 Q (Q – pojemność znamionowa akumulatora)",
@@ -2357,7 +2357,7 @@
           },
           {
             "text": "0,25 Q (Q – pojemność znamionowa akumulatora)",
-            "correct": false
+            "correct": true
           }
         ]
       },
@@ -2389,11 +2389,11 @@
           },
           {
             "text": "wyższą sprawnością energetyczną niż akumulatory zasadowe",
-            "correct": false
+            "correct": true
           },
           {
             "text": "są mniej wrażliwe na niewłaściwą eksploatację niż akumulatory zasadowe",
-            "correct": true
+            "correct": false
           }
         ]
       },
@@ -2438,195 +2438,195 @@
         "text": "Baterie przeznaczone do zasilania radiopław awaryjnych:",
         "answers": [
           {
-            "text": "powinny posiadać pojemność zapewniającą co najmniej 48 godzin pracy w stanie czuwania i następnie umożliwiać nadawanie sygnałów przez 8 godzin",
+            "text": "powinny posiadać pojemność zapewniającą co najmniej 48 godzin pracy, w tym nadawania sygnałów do lokalizacji i zasilanie światła błyskowego",
             "correct": true
           },
           {
-            "text": "powinny posiadać pojemność zapewniającą co najmniej 96 godzin pracy w stanie czuwania i następnie umożliwiać nadawanie sygnałów przez 8 godzin",
+            "text": "powinny posiadać pojemność zapewniającą co najmniej 96 godzin pracy, w tym nadawania sygnałów do lokalizacji i zasilanie światłabłyskowego ",
             "correct": false
           },
           {
-            "text": "powinny posiadać pojemność zapewniającą co najmniej 8 godzin pracy w stanie czuwania i następnie umożliwiać nadawanie sygnałów przez 8 godzin",
+            "text": "powinny posiadać pojemność zapewniającą co najmniej 12 godzin pracy, w tym nadawania sygnałów do lokalizacji i zasilanie światła błyskowego ",
             "correct": false
           }
         ]
       },
       {
         "id": 137,
-        "text": "Baterie przeznaczone do zasilania przenośnych radiotelefonów awaryjnych VHF powinny być:",
+        "text": "Który z wymienionych wzorów określa zależność pomiędzy prędkością propagacji fali (c [m/s]), jej częstotliwością (f [Hz]) i długością (λ [m]):",
         "answers": [
           {
-            "text": "ładowane co najmniej raz w roku",
+            "text": "f = c · λ",
             "correct": false
           },
           {
-            "text": "wymieniane co najmniej raz w roku",
+            "text": "f = λ / c",
+            "correct": false
+          },
+          {
+            "text": "f = c / λ",
             "correct": true
-          },
-          {
-            "text": "ładowane co najmniej raz na 2 lata",
-            "correct": false
           }
         ]
       },
       {
         "id": 138,
-        "text": "Baterie przeznaczone do zasilania awaryjnych transponderów radarowych (SART) powinny być:",
+        "text": "Prędkość rozchodzenia się fali elektromagnetycznej w wolnej przestrzeni wynosi:",
         "answers": [
           {
-            "text": "ładowane co najmniej raz w roku",
+            "text": "340 m/s",
             "correct": false
           },
           {
-            "text": "wymieniane co najmniej raz w roku",
+            "text": "300 km/sek",
+            "correct": false
+          },
+          {
+            "text": "300 000 000 m/sek",
             "correct": true
-          },
-          {
-            "text": "ładowane co najmniej raz na 2 lata",
-            "correct": false
           }
         ]
       },
       {
         "id": 139,
-        "text": "Baterie przeznaczone do zasilania radiopław awaryjnych powinny być:",
+        "text": "W czasie 5 µs fala elektromagnetyczna przebywa dystans:",
         "answers": [
           {
-            "text": "ładowane co najmniej raz w roku",
+            "text": "3 km",
             "correct": false
           },
           {
-            "text": "wymieniane co najmniej raz w roku",
+            "text": "1,5 km",
             "correct": true
           },
           {
-            "text": "ładowane co najmniej raz na 2 lata",
+            "text": "750 m",
             "correct": false
           }
         ]
       },
       {
         "id": 140,
-        "text": "Radiopława awaryjna powinna być wyposażona w:",
+        "text": "Jaka jest długość fali w wolnej przestrzeni, jeżeli jej częstotliwość wynosi 2 MHz:",
         "answers": [
           {
-            "text": "nadajnik radiowy i światło błyskowe",
+            "text": "150 m",
             "correct": true
           },
           {
-            "text": "nadajnik radiowy i światło ciągłe",
+            "text": "1500 m",
             "correct": false
           },
           {
-            "text": "nadajnik radiowy i światło czerwone",
+            "text": "300 m",
             "correct": false
           }
         ]
       },
       {
         "id": 141,
-        "text": "Radiopława awaryjna powinna być uruchamiana:",
+        "text": "Od jakich czynników zależy zasięg łączności na falach VHF:",
         "answers": [
           {
-            "text": "automatycznie po zanurzeniu w wodzie",
+            "text": "od wysokości anteny nadawczej i odbiorczej",
             "correct": true
           },
           {
-            "text": "ręcznie przez operatora",
+            "text": "od pory doby",
             "correct": false
           },
           {
-            "text": "zdalnie przez RCC",
+            "text": "od szerokości geograficznej",
             "correct": false
           }
         ]
       },
       {
         "id": 142,
-        "text": "Radiopława awaryjna powinna nadawać sygnały na częstotliwości:",
+        "text": "Jeżeli antena nadajnika radiotelefonu VHF znajduje się na maszcie o wysokości 100 metrów to zasięg stacji wynosi:",
         "answers": [
           {
-            "text": "406 MHz i 121,5 MHz",
-            "correct": true
-          },
-          {
-            "text": "406 MHz i 243 MHz",
+            "text": "10 km",
             "correct": false
           },
           {
-            "text": "121,5 MHz i 243 MHz",
+            "text": "40 km",
+            "correct": true
+          },
+          {
+            "text": "100 km",
             "correct": false
           }
         ]
       },
       {
         "id": 143,
-        "text": "Radiopława awaryjna powinna być wyposażona w:",
+        "text": "Jeżeli antena nadajnika radiotelefonu VHF znajduje się na maszcie o wysokości 64 metrów to zasięg stacji wynosi:",
         "answers": [
           {
-            "text": "odbiornik GPS",
-            "correct": true
-          },
-          {
-            "text": "odbiornik GLONASS",
+            "text": "16 km",
             "correct": false
           },
           {
-            "text": "odbiornik Galileo",
+            "text": "32 km",
+            "correct": true
+          },
+          {
+            "text": "64 km",
             "correct": false
           }
         ]
       },
       {
         "id": 144,
-        "text": "Radiopława awaryjna powinna być zarejestrowana:",
+        "text": "Jeżeli antena nadajnika radiotelefonu VHF znajduje się na maszcie o wysokości 100 metrów, zaś antena odbiornika usytuowana jest na wysokości 25 m to zasięg odbioru wynosi:",
         "answers": [
           {
-            "text": "w Urzędzie Morskim",
-            "correct": true
-          },
-          {
-            "text": "w Urzędzie Komunikacji Elektronicznej",
+            "text": "30 km",
             "correct": false
           },
           {
-            "text": "w MRCC Gdynia",
+            "text": "60 km",
+            "correct": true
+          },
+          {
+            "text": "90 km",
             "correct": false
           }
         ]
       },
       {
         "id": 145,
-        "text": "Radiopława awaryjna powinna być oznakowana:",
+        "text": "Zbyt bliskie ustawienie anteny radiotelefonu VHF w pobliżu metalowych konstrukcji może spowodować:",
         "answers": [
           {
-            "text": "numerem MMSI statku",
+            "text": "zmianę charakterystyki promieniowania anteny",
             "correct": true
           },
           {
-            "text": "numerem IMO statku",
+            "text": "uszkodzenie anteny",
             "correct": false
           },
           {
-            "text": "numerem rejestracyjnym statku",
+            "text": "zmianę polaryzacji promieniowanej fali",
             "correct": false
           }
         ]
       },
       {
         "id": 146,
-        "text": "Najczęściej stosowaną anteną do radiopław awaryjnych jest:",
+        "text": "Dookólną charakterystykę promieniowania (w płaszczyźnie poziomej) mają anteny:",
         "answers": [
           {
-            "text": "antena teleskopowa",
-            "correct": false
-          },
-          {
-            "text": "antena prętowa",
+            "text": "prętowe (pionowe)",
             "correct": true
           },
           {
-            "text": "antena typu Yagi",
+            "text": "linkowe typu \"Γ\" lub \"Τ\"",
+            "correct": false
+          },
+          {
+            "text": "typu Yagi",
             "correct": false
           }
         ]
@@ -2751,7 +2751,7 @@
         "answers": [
           {
             "text": "z modulacją fazy",
-            "correct": false
+            "correct": true
           },
           {
             "text": "cyfrowa",
@@ -2759,7 +2759,7 @@
           },
           {
             "text": "z jednowstęgową modulacją amplitudy",
-            "correct": true
+            "correct": false
           }
         ]
       },
@@ -2809,11 +2809,11 @@
           },
           {
             "text": "nadawanie jest możliwe jedynie na zmianę w każdym kierunku łączności",
-            "correct": true
+            "correct": false
           },
           {
             "text": "jedna stacja pracuje simpleksem a druga dupleksem",
-            "correct": false
+            "correct": true
           }
         ]
       },
@@ -3165,11 +3165,11 @@
         "answers": [
           {
             "text": "identyfikację i pozycję jednostki zagrożonej",
-            "correct": false
+            "correct": true
           },
           {
             "text": "identyfikację, pozycję jednostki zagrożonej i liczbę osób na pokładzie jednostki",
-            "correct": true
+            "correct": false
           },
           {
             "text": "znak wywoławczy, pozycję jednostki zagrożonej i liczbę rannych",
@@ -3237,7 +3237,7 @@
         "answers": [
           {
             "text": "nigdy nie wolno mu tego uczynić",
-            "correct": false
+            "correct": true
           },
           {
             "text": "tylko na prośbę stacji zagrożonej",
@@ -3245,7 +3245,7 @@
           },
           {
             "text": "gdy osoba odpowiedzialna za jednostkę uzna, iż wymagana jest dalsza pomoc dla jednostki zagrożonej",
-            "correct": true
+            "correct": false
           }
         ]
       },
@@ -3259,11 +3259,11 @@
           },
           {
             "text": "radiotelefonii lub DSC",
-            "correct": true
+            "correct": false
           },
           {
             "text": "tylko radiotelefonii",
-            "correct": false
+            "correct": true
           }
         ]
       },
@@ -3273,11 +3273,11 @@
         "answers": [
           {
             "text": "tylko DSC",
-            "correct": false
+            "correct": true
           },
           {
             "text": "radiotelefonii lub DSC",
-            "correct": true
+            "correct": false
           },
           {
             "text": "tylko radiotelefonii",
@@ -3295,11 +3295,11 @@
           },
           {
             "text": "MAYDAY",
-            "correct": false
+            "correct": true
           },
           {
             "text": "MAYDAY MAYDAY MAYDAY",
-            "correct": true
+            "correct": false
           }
         ]
       },
@@ -3313,11 +3313,11 @@
           },
           {
             "text": "każda stacja statkowa i nadbrzeżna",
-            "correct": true
+            "correct": false
           },
           {
             "text": "OSC",
-            "correct": false
+            "correct": true
           }
         ]
       },
@@ -3345,11 +3345,11 @@
         "answers": [
           {
             "text": "tylko RCC",
-            "correct": false
+            "correct": true
           },
           {
             "text": "każda stacja statkowa i nadbrzeżna",
-            "correct": true
+            "correct": false
           },
           {
             "text": "OSC",
@@ -3399,11 +3399,11 @@
         "answers": [
           {
             "text": "RCC",
-            "correct": true
+            "correct": false
           },
           {
             "text": "OSC",
-            "correct": false
+            "correct": true
           },
           {
             "text": "jedynie stacja nadbrzeżna",
@@ -3471,7 +3471,7 @@
         "answers": [
           {
             "text": "3 a następnie 10 minutach",
-            "correct": true
+            "correct": false
           },
           {
             "text": "5 a następnie 10 minutach",
@@ -3479,7 +3479,7 @@
           },
           {
             "text": "5 a następnie 15 minutach",
-            "correct": false
+            "correct": true
           }
         ]
       },
@@ -3817,11 +3817,11 @@
           },
           {
             "text": "zabronionym dla zwykłej łączności publicznej",
-            "correct": false
+            "correct": true
           },
           {
             "text": "bezpieczeństwa",
-            "correct": true
+            "correct": false
           }
         ]
       },
@@ -3835,11 +3835,11 @@
           },
           {
             "text": "zabronionym dla zwykłej łączności publicznej",
-            "correct": false
+            "correct": true
           },
           {
             "text": "bezpieczeństwa",
-            "correct": true
+            "correct": false
           }
         ]
       },
@@ -3921,7 +3921,7 @@
         "answers": [
           {
             "text": "\"wewnętrznego\"",
-            "correct": false
+            "correct": true
           },
           {
             "text": "\"wewnętrznego i zewnętrznego\"",
@@ -3929,7 +3929,7 @@
           },
           {
             "text": "\"wewnętrznego albo zewnętrznego\"",
-            "correct": true
+            "correct": false
           }
         ]
       },
@@ -4101,7 +4101,7 @@
         "answers": [
           {
             "text": "stacja wywołująca za pomocą DSC",
-            "correct": false
+            "correct": true
           },
           {
             "text": "zawsze stacja wywoływana za pomocą DSC",
@@ -4109,7 +4109,7 @@
           },
           {
             "text": "stacja wywoływana za pomocą DSC jeżeli tak podano w wywołaniu DSC",
-            "correct": true
+            "correct": false
           }
         ]
       },
@@ -4155,7 +4155,7 @@
         "answers": [
           {
             "text": "nazwa stacji wywoływanej /1x This is nazwa stacji wywołującej /2x",
-            "correct": false
+            "correct": true
           },
           {
             "text": "nazwa stacji wywoływanej /1x This is nazwa stacji wywołującej /3x",
@@ -4163,7 +4163,7 @@
           },
           {
             "text": "nazwa stacji wywoływanej /2x This is nazwa stacji wywołującej /2x",
-            "correct": true
+            "correct": false
           }
         ]
       },
@@ -4173,7 +4173,7 @@
         "answers": [
           {
             "text": "nazwa stacji wywołującej /1x This is nazwa stacji wywoływanej /2x",
-            "correct": false
+            "correct": true
           },
           {
             "text": "nazwa stacji wywoływanej /4x This is nazwa stacji wywołującej /4x",
@@ -4181,7 +4181,7 @@
           },
           {
             "text": "nazwa stacji wywołującej /2x This is nazwa stacji wywoływanej /2x",
-            "correct": true
+            "correct": false
           }
         ]
       },
@@ -4195,11 +4195,11 @@
           },
           {
             "text": "70",
-            "correct": false
+            "correct": true
           },
           {
             "text": "6",
-            "correct": true
+            "correct": false
           }
         ]
       },
@@ -4335,7 +4335,7 @@
         "answers": [
           {
             "text": "OVER AND OUT",
-            "correct": false
+            "correct": true
           },
           {
             "text": "OVER",
@@ -4343,7 +4343,7 @@
           },
           {
             "text": "STOP",
-            "correct": true
+            "correct": false
           }
         ]
       },
@@ -4371,11 +4371,11 @@
         "answers": [
           {
             "text": "QRJ",
-            "correct": true
+            "correct": false
           },
           {
             "text": "AAIC",
-            "correct": false
+            "correct": true
           },
           {
             "text": "QTH",
@@ -4677,11 +4677,11 @@
         "answers": [
           {
             "text": "I am making water.",
-            "correct": true
+            "correct": false
           },
           {
             "text": "I am taking water",
-            "correct": false
+            "correct": true
           },
           {
             "text": "I am on fire.",
@@ -4947,11 +4947,11 @@
         "answers": [
           {
             "text": "fairly well",
-            "correct": true
+            "correct": false
           },
           {
             "text": "fairly good",
-            "correct": false
+            "correct": true
           },
           {
             "text": "very well",
@@ -5329,11 +5329,11 @@
           },
           {
             "text": "Over and out.",
-            "correct": false
+            "correct": true
           },
           {
             "text": "Out.",
-            "correct": true
+            "correct": false
           }
         ]
       },
@@ -5451,7 +5451,7 @@
         "answers": [
           {
             "text": "I have lost person overboard.",
-            "correct": false
+            "correct": true
           },
           {
             "text": "A person felt overboard.",
@@ -5459,7 +5459,7 @@
           },
           {
             "text": "My vessel threw person overboard.",
-            "correct": true
+            "correct": false
           }
         ]
       },

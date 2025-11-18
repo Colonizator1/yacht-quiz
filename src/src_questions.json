@@ -1,0 +1,5720 @@
+[
+  {
+    "name": "gmdss",
+    "description": "OGÓLNA WIEDZA O SYSTEMIE, PODSYSTEMACH I URZĄDZENIACH RADIOWYCH GMDSS",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Utworzony system GMDSS pozwala na:",
+        "answers": [
+          {
+            "text": "automatyczne ustanawiania połączeń radiokomunikacyjnych",
+            "correct": true
+          },
+          {
+            "text": "automatyczne ustanawiania połączeń za pomocą kodu sekwencyjnego",
+            "correct": false
+          },
+          {
+            "text": "ręczne ustanawiania radiotelegraficznych połączeń statek-ląd",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "System GMDSS do alarmowania stosuje:",
+        "answers": [
+          {
+            "text": "radiotelegrafie na kanale 16",
+            "correct": false
+          },
+          {
+            "text": "radiotelegrafie na kanale 70",
+            "correct": false
+          },
+          {
+            "text": "cyfrowe selektywne wywołanie",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "System GMDSS do łączności w paśmie krótkofalowym – HF stosuje częstotliwości z zakresu:",
+        "answers": [
+          {
+            "text": "3MHz - 6MHz",
+            "correct": false
+          },
+          {
+            "text": "3MHz - 30MHz",
+            "correct": true
+          },
+          {
+            "text": "15MHz - 30MHz",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Koncepcja systemu GMDSS pozwala na organizację ratownictwa przez:",
+        "answers": [
+          {
+            "text": "statki będące w okolicy katastrofy",
+            "correct": false
+          },
+          {
+            "text": "centrum poszukiwań SAR",
+            "correct": false
+          },
+          {
+            "text": "statki w porozumieniu z RCC i SAR",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Definicja obszaru morza A1 to:",
+        "answers": [
+          {
+            "text": "A1- obszar w promieniu 20 mil morskich od nadbrzeżnej stacji VHF w którym statki mają możliwość pewnej i skutecznej łączności radiowej",
+            "correct": false
+          },
+          {
+            "text": "Obszar A1 to obszar w otoczeniu radiotelegraficznej stacji VHF pracującej na częstotliwości 156,8 MHz (kanał 16)",
+            "correct": false
+          },
+          {
+            "text": "Poprzez obszar A1 definiowana jest powierzchnia morza, w której statek może realizować łączność alarmowania za pomocą cyfrowego selektywnego wywołania prowadzonej w kanale 70 (156, 525 MHz) morskiego pasma VHF",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Średni zasięg łączności alarmowej za pomocą DSC w obszarze A1 wynosi:",
+        "answers": [
+          {
+            "text": "10 mil morskich",
+            "correct": false
+          },
+          {
+            "text": "20 mil morskich",
+            "correct": true
+          },
+          {
+            "text": "50 mil morskich",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Nadawanie sygnałów alarmowych w GMDSS w obszarze A1 jest możliwe za pomocą:",
+        "answers": [
+          {
+            "text": "NAVTEX",
+            "correct": false
+          },
+          {
+            "text": "DSC",
+            "correct": true
+          },
+          {
+            "text": "EGC",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Do nadawania sygnałów alarmowych w obszarze A1 stosowane są:",
+        "answers": [
+          {
+            "text": "kanał 13",
+            "correct": false
+          },
+          {
+            "text": "kanał 6",
+            "correct": false
+          },
+          {
+            "text": "kanał 70",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Realizacja komunikacji dla celów pilnych jest możliwa z wykorzystaniem systemów:",
+        "answers": [
+          {
+            "text": "DSC",
+            "correct": true
+          },
+          {
+            "text": "MSI",
+            "correct": false
+          },
+          {
+            "text": "EGC",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Realizacja komunikacji dla celów bezpieczeństwa jest możliwa z wykorzystaniem systemów:",
+        "answers": [
+          {
+            "text": "DSC",
+            "correct": true
+          },
+          {
+            "text": "WWNWS",
+            "correct": false
+          },
+          {
+            "text": "MSI",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "text": "Informacje zawarte w sygnale alarmowym to:",
+        "answers": [
+          {
+            "text": "długość statku i wyporność",
+            "correct": false
+          },
+          {
+            "text": "rodzaj zagrożenia i położenie geograficzne",
+            "correct": true
+          },
+          {
+            "text": "rodzaj przewożonego ładunku",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "text": "Łączność koordynacyjna to łączność do:",
+        "answers": [
+          {
+            "text": "zapewnienia koordynacji działań statków i lotnictwa",
+            "correct": true
+          },
+          {
+            "text": "koordynacji ruchu statku",
+            "correct": false
+          },
+          {
+            "text": "koordynacji kolejności działań środków radiokomunikacyjnych",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "text": "Łączność na miejscu akcji jest utrzymywana z wykorzystaniem częstotliwości:",
+        "answers": [
+          {
+            "text": "8414 kHz",
+            "correct": false
+          },
+          {
+            "text": "156,8 MHz",
+            "correct": true
+          },
+          {
+            "text": "9 GHz",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "text": "Uzyskanie namiaru na transponder radarowy SART uzyskuje się za pomocą radaru pracującego na częstotliwości:",
+        "answers": [
+          {
+            "text": "9 GHz",
+            "correct": true
+          },
+          {
+            "text": "3 GHz",
+            "correct": false
+          },
+          {
+            "text": "12 GHz",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "text": "Rozpowszechnianie morskich informacji bezpieczeństwa dotyczy:",
+        "answers": [
+          {
+            "text": "informacji komercyjnych",
+            "correct": false
+          },
+          {
+            "text": "pilnych informacji nawigacyjnych i meteorologicznych",
+            "correct": true
+          },
+          {
+            "text": "prognoz optymalnych częstotliwości propagacyjnych",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "text": "Realizacja łączności pomiędzy dwoma mostkami statków jest możliwa za pomocą:",
+        "answers": [
+          {
+            "text": "radiotelefonii na częstotliwości 2182 kHz",
+            "correct": false
+          },
+          {
+            "text": "radiotelefonii na kanale 6 i 13",
+            "correct": true
+          },
+          {
+            "text": "radiotelefonii na kanale 70",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "text": "W skład wyposażenia statku pływającego w obszarze A1 wchodzi:",
+        "answers": [
+          {
+            "text": "urządzenie nadawczo-odbiorcze na kanale 70",
+            "correct": true
+          },
+          {
+            "text": "urządzenie nadawczo-odbiorcze na częstotliwości 2187,5 kHz",
+            "correct": false
+          },
+          {
+            "text": "urządzenie nadawczo-odbiorcze na częstotliwości 406 MHz",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "text": "System cyfrowego selektywnego wywołania to system:",
+        "answers": [
+          {
+            "text": "do transmisji ostrzeżeń pogodowych",
+            "correct": false
+          },
+          {
+            "text": "do transmisji ostrzeżeń nawigacyjnych",
+            "correct": false
+          },
+          {
+            "text": "do automatycznego ustanawiania połączeń radiowych i alarmowania",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "text": "Stosowany w DSC kod to kod:",
+        "answers": [
+          {
+            "text": "binarny",
+            "correct": true
+          },
+          {
+            "text": "ósemkowy",
+            "correct": false
+          },
+          {
+            "text": "dziesiętny",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "text": "Do transmisji radiowej sygnału DSC w paśmie VHF stosuje się częstotliwość kanału:",
+        "answers": [
+          {
+            "text": "16-go",
+            "correct": false
+          },
+          {
+            "text": "70-go",
+            "correct": true
+          },
+          {
+            "text": "6-go",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "text": "Do transmisji radiowej sygnału DSC w paśmie VHF stosuje się:",
+        "answers": [
+          {
+            "text": "modulację amplitudy dwuwstęgową DSB",
+            "correct": false
+          },
+          {
+            "text": "modulację amplitudy jednowstęgową SSB",
+            "correct": false
+          },
+          {
+            "text": "modulację częstotliwości",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "text": "Czas trwania całkowitego pojedynczego wywołania DSC w paśmie VHF wynosi:",
+        "answers": [
+          {
+            "text": "6,2 s - 7,2 s",
+            "correct": true
+          },
+          {
+            "text": "0,45 s - 0,63 s",
+            "correct": false
+          },
+          {
+            "text": "3 s - 4 s",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "text": "Adres numeryczny w DSC to:",
+        "answers": [
+          {
+            "text": "9-cio cyfrowy identyfikator składający się z 9-cio cyfrowej liczby dziesiętnej. Numer ten nazywany jest identyfikatorem morskiej służby ruchomej (MMSI)",
+            "correct": true
+          },
+          {
+            "text": "10-cio cyfrowy identyfikator składający się z 9-cio cyfrowej liczby dziesiętnej uzupełnionej zerem na dziesiątej pozycji",
+            "correct": false
+          },
+          {
+            "text": "10-cio cyfrowy identyfikator składający się z 8-cio cyfrowej liczby dziesiętnej uzupełnionej zerem na dziewiątej pozycji. Numer ten nazywany jest identyfikatorem morskiej służby ruchomej (MMSI) który zawiera tzw. MID",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "text": "Prawidłowe adresy to:",
+        "answers": [
+          {
+            "text": "do adresowania pojedynczej stacji statkowej 261001021, do grupy statków 026101143, do stacji nadbrzeżnej 002320018",
+            "correct": true
+          },
+          {
+            "text": "do adresowania pojedynczej stacji statkowej 261001021, do grupy statków 0026101145, do stacji nadbrzeżnej 02320018",
+            "correct": false
+          },
+          {
+            "text": "do adresowania pojedynczej stacji statkowej 261001021, do grupy statków 026101143, do stacji nadbrzeżnej 0002320015",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "text": "Pole 'kategorii' definiuje:",
+        "answers": [
+          {
+            "text": "priorytet sekwencji wywoławczej",
+            "correct": true
+          },
+          {
+            "text": "adres sekwencji wywoławczej",
+            "correct": false
+          },
+          {
+            "text": "zastosowany rodzaj adresu",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "text": "W polu 'informacja' dla wywołań w niebezpieczeństwie należy umieścić:",
+        "answers": [
+          {
+            "text": "Wiadomość pierwsza - rodzaj niebezpieczeństwa jakie zagraża statkowi. Wiadomość druga - pozycja geograficzna statku, który znajduje się w niebezpieczeństwie. Wiadomość trzecia - informacja o czasie, w którym pozycja była określana. Wiadomość czwarta - rodzaj późniejszej komunikacji (telefonia lub wydruk bezpośredni)",
+            "correct": true
+          },
+          {
+            "text": "Wiadomość pierwsza - informacje jaki rodzaj pomocy jest oczekiwany przez statek. Wiadomość druga - pozycja geograficzna statku, który znajduje się w niebezpieczeństwie. Wiadomość trzecia - informacja o czasie, w którym pozycja była określana. Wiadomość czwarta - rodzaj późniejszej komunikacji (telefonia lub wydruk bezpośredni)",
+            "correct": false
+          },
+          {
+            "text": "Wiadomość pierwsza - opis rodzaju niebezpieczeństwa jakie zagraża statkowi. Wiadomość druga - pozycja geograficzna statku, który znajduje się w niebezpieczeństwie. Wiadomość trzecia - informacja o czasie, w którym pozycja była określana. Wiadomość czwarta - jakie środki ratunkowe posiada statek",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "text": "Próba nadania przez statek w obszarze A1 sygnału alarmowego w paśmie VHF może być realizowana na:",
+        "answers": [
+          {
+            "text": "jednej częstotliwości",
+            "correct": false
+          },
+          {
+            "text": "dwóch częstotliwościach",
+            "correct": false
+          },
+          {
+            "text": "trzech częstotliwościach",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "text": "Określ jakie powinny być czynności operatora przy realizacji alarmu:",
+        "answers": [
+          {
+            "text": "Wprowadzenie: - pożądanego rodzaju późniejszej komunikacji - pozycji statku- jeżeli czas na to pozwoli - czasu określania pozycji – o ile nie jest wprowadzony automatycznie - rodzaju niebezpieczeństwa zagrażającego statkowi Wybranie częstotliwości niebezpieczeństwa, którą ma zamiar użyć Zainicjowanie próby wywołania w niebezpieczeństwie",
+            "correct": true
+          },
+          {
+            "text": "Wprowadzenie: - pożądanego rodzaju późniejszej komunikacji - pozycji statku - jeżeli czas na to pozwoli - czasu określania pozycji – o ile nie jest wprowadzony automatycznie - rodzaju niebezpieczeństwa zagrażającego statkowi Wybranie rodzaju komunikacji, aparatury Zainicjowanie próby wywołania w niebezpieczeństwie",
+            "correct": false
+          },
+          {
+            "text": "Wprowadzenie: - pożądanego rodzaju późniejszej komunikacji - pozycji statku- jeżeli czas na to pozwoli - rodzaju niebezpieczeństwa zagrażającego statkowi Wybranie częstotliwości niebezpieczeństwa, którą ma zamiar użyć Zainicjowanie próby wywołania w niebezpieczeństwie",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "text": "Zasady potwierdzania odbioru wywołania w niebezpieczeństwie to:",
+        "answers": [
+          {
+            "text": "potwierdzenie odbioru wywołania w niebezpieczeństwie powinno być zainicjowane ręcznie- na tej samej częstotliwości na której odebrano to wywołanie z opóźnieniem co najmniej jednominutowym",
+            "correct": true
+          },
+          {
+            "text": "potwierdzenie odbioru wywołania w niebezpieczeństwie powinno być zainicjowane ręcznie- na tej samej częstotliwości na której odebrano to wywołanie z opóźnieniem - nie większym jednak niż 2,75 min",
+            "correct": false
+          },
+          {
+            "text": "potwierdzenie odbioru wywołania w niebezpieczeństwie powinno być zainicjowane ręcznie na częstotliwości kanału 70",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "text": "Pośredniczenie w przekazywaniu alarmu w niebezpieczeństwie w paśmie VHF polega na:",
+        "answers": [
+          {
+            "text": "nadaniu typu pośrednictwo w niebezpieczeństwie do właściwej stacji nadbrzeżnej",
+            "correct": true
+          },
+          {
+            "text": "nadaniu typu pośrednictwo w niebezpieczeństwie do wszystkich statków",
+            "correct": false
+          },
+          {
+            "text": "nadaniu typu pośrednictwo w niebezpieczeństwie do wszystkich stacji nadbrzeżnych",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "text": "Przedstaw możliwości stosowania kanałów DSC w korespondencji publicznej w paśmie VHF.",
+        "answers": [
+          {
+            "text": "w paśmie VHF kanał 70 stosowany jest zarówno do wywołań DSC w niebezpieczeństwie jak i do celów zapewnienia bezpieczeństwa. Jest również stosowany do wywołań DSC w celu zrealizowania korespondencji publicznej",
+            "correct": true
+          },
+          {
+            "text": "w paśmie VHF kanał 70 nie może być stosowany w celu zrealizowania korespondencji publicznej",
+            "correct": false
+          },
+          {
+            "text": "w paśmie VHF kanał 70 nie może być stosowany do celów zapewnienia bezpieczeństwa",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "text": "Testowanie aparatury DSC na kanale 70 może być realizowane:",
+        "answers": [
+          {
+            "text": "tak często jak to jest niezbędne",
+            "correct": true
+          },
+          {
+            "text": "jeden raz w ciągu doby",
+            "correct": false
+          },
+          {
+            "text": "testowanie kanału 70 jest zabronione",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "text": "System NAVTEX służy do:",
+        "answers": [
+          {
+            "text": "transmisji map synoptycznych",
+            "correct": false
+          },
+          {
+            "text": "transmisji ostrzeżeń nawigacyjnych",
+            "correct": true
+          },
+          {
+            "text": "łączności z publiczną siecią telefoniczną",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "text": "Stacje systemu NAVTEX pracują na częstotliwości:",
+        "answers": [
+          {
+            "text": "2177 kHz",
+            "correct": false
+          },
+          {
+            "text": "490 kHz",
+            "correct": true
+          },
+          {
+            "text": "156,8 MHz",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "text": "Podstawową częstotliwością transmisji w systemie NAVTEX jest:",
+        "answers": [
+          {
+            "text": "518 kHz",
+            "correct": true
+          },
+          {
+            "text": "4125 kHz",
+            "correct": false
+          },
+          {
+            "text": "500 kHz",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "text": "Zasięg stacji systemu NAVTEX wynosi:",
+        "answers": [
+          {
+            "text": "50-100 Mm",
+            "correct": false
+          },
+          {
+            "text": "350 – 1000 Mm",
+            "correct": true
+          },
+          {
+            "text": "200 – 400 Mm",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "text": "Zasięg stacji systemu NAVTEX jest największy:",
+        "answers": [
+          {
+            "text": "w dzień",
+            "correct": false
+          },
+          {
+            "text": "w nocy",
+            "correct": true
+          },
+          {
+            "text": "rano",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "text": "W jaki sposób dokonuje się w odbiorniku NAVTEX ustawienia stacji:",
+        "answers": [
+          {
+            "text": "przez wpisanie nazwy stacji",
+            "correct": false
+          },
+          {
+            "text": "przez podanie pozycji geograficznej odbiornika",
+            "correct": false
+          },
+          {
+            "text": "przez ustawienie litery odpowiadającej nazwie stacji",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "text": "W jaki sposób dokonuje się w odbiorniku NAVTEX ustawienia rodzaju odbieranych informacji:",
+        "answers": [
+          {
+            "text": "przez wpisanie numeru informacji",
+            "correct": false
+          },
+          {
+            "text": "przez ustawienie litery odpowiadającej typowi informacji",
+            "correct": true
+          },
+          {
+            "text": "w odbiorniku nie ma możliwości wyboru odbieranych informacji",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "text": "'ZCZC JA23' w nagłówku komunikatu odebranego ze stacji NAVTEX oznacza że:",
+        "answers": [
+          {
+            "text": "komunikat nadany został przez stację 'A'",
+            "correct": false
+          },
+          {
+            "text": "komunikat nadany został przez stację 'J'",
+            "correct": true
+          },
+          {
+            "text": "komunikat dotyczy ostrzeżenia meteorologicznego",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "text": "'ZCZC UB66' w nagłówku komunikatu odebranego ze stacji NAVTEX oznacza że:",
+        "answers": [
+          {
+            "text": "komunikat nadany został przez stację 'U'",
+            "correct": true
+          },
+          {
+            "text": "komunikat nadany został przez stację 'J'",
+            "correct": false
+          },
+          {
+            "text": "komunikat dotyczy ostrzeżenia nawigacyjnego",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "text": "Jakie komunikaty będą zawsze odbierane przez odbiornik systemu NAVTEX:",
+        "answers": [
+          {
+            "text": "ostrzeżenia meteorologiczne",
+            "correct": true
+          },
+          {
+            "text": "prognozy pogody",
+            "correct": false
+          },
+          {
+            "text": "raporty lodowe",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "text": "Druga litera B w nagłówku komunikatu stacji NAVTEX (np. LB47) oznacza, że jest to:",
+        "answers": [
+          {
+            "text": "ostrzeżenie meteorologiczne",
+            "correct": true
+          },
+          {
+            "text": "informacja dotycząca ataku piratów",
+            "correct": false
+          },
+          {
+            "text": "prognoza pogody",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "text": "Stacje systemu NAVTEX nadają komunikaty:",
+        "answers": [
+          {
+            "text": "dwa razy na dobę",
+            "correct": false
+          },
+          {
+            "text": "o godz. 0700 i 2300 UTC",
+            "correct": false
+          },
+          {
+            "text": "nie częściej niż co cztery godziny",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "text": "Sekwencja 'NNN' w wydruku komunikatu odbiornika NAVTEX oznacza:",
+        "answers": [
+          {
+            "text": "komunikat pilny",
+            "correct": true
+          },
+          {
+            "text": "komunikat odebrany poprawnie",
+            "correct": false
+          },
+          {
+            "text": "komunikat odebrany niepoprawnie",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "text": "Sekwencja 'NNNN' w wydruku komunikatu odbiornika NAVTEX oznacza:",
+        "answers": [
+          {
+            "text": "komunikat pilny",
+            "correct": false
+          },
+          {
+            "text": "komunikat który odebrany został ze stopą błędu mniejszą od 4%",
+            "correct": true
+          },
+          {
+            "text": "komunikat odebrany niepoprawnie",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "text": "Komunikaty transmitowane na częstotliwości 518 kHz nadawane są w języku:",
+        "answers": [
+          {
+            "text": "angielskim",
+            "correct": true
+          },
+          {
+            "text": "angielskim i francuskim",
+            "correct": false
+          },
+          {
+            "text": "w języku państwa, z terenu którego nadaje stacja NAVTEX",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "text": "'ZCZC BB01' w nagłówku komunikatu odebranego ze stacji NAVTEX oznacza:",
+        "answers": [
+          {
+            "text": "ostrzeżenie nawigacyjne",
+            "correct": true
+          },
+          {
+            "text": "ostrzeżenie meteorologiczne",
+            "correct": false
+          },
+          {
+            "text": "komunikat nadany został dla obszaru morza A1",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "text": "Odbiornik systemu NAVTEX odbiera i drukuje:",
+        "answers": [
+          {
+            "text": "wszystkie komunikaty z zaprogramowanych stacji",
+            "correct": false
+          },
+          {
+            "text": "wszystkie komunikaty dotyczące ostrzeżeń nawigacyjnych, meteorologicznych i informacji o akcjach SAR z wszystkich stacji w zasięgu odbioru",
+            "correct": false
+          },
+          {
+            "text": "wszystkie komunikaty dotyczące ostrzeżeń nawigacyjne, meteorologicznych i informacji o akcjach SAR z zaprogramowanych stacji",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "text": "Częstotliwość 490 kHz jest stosowana w systemie NAVTEX do:",
+        "answers": [
+          {
+            "text": "transmisji komunikatów w obszarach tropikalnych",
+            "correct": false
+          },
+          {
+            "text": "transmisji komunikatów w rejonach polarnych",
+            "correct": false
+          },
+          {
+            "text": "transmisji komunikatów w językach innych niż angielski",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "text": "W systemie NAVTEX sygnały transmitowane są:",
+        "answers": [
+          {
+            "text": "w trybie teleksowym FEC",
+            "correct": true
+          },
+          {
+            "text": "z zastosowaniem modulacji G2B",
+            "correct": false
+          },
+          {
+            "text": "głosowo",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "text": "W nocy zasięg odbioru sygnałów w systemie NAVTEX jest:",
+        "answers": [
+          {
+            "text": "większy niż w dzień",
+            "correct": true
+          },
+          {
+            "text": "taki sam jak w dzień",
+            "correct": false
+          },
+          {
+            "text": "mniejszy niż w dzień",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "text": "W rejonach tropikalnych zasięg odbioru sygnałów transmitowanych na częstotliwości 518 kHz:",
+        "answers": [
+          {
+            "text": "zależy od pory doby",
+            "correct": true
+          },
+          {
+            "text": "wynosi 75 Mm",
+            "correct": false
+          },
+          {
+            "text": "nie zależy od pory doby",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "text": "Nadanie komunikatowi NAVTEX numeru 00 (np. JD00) spowoduje:",
+        "answers": [
+          {
+            "text": "że komunikat o tym numerze zostanie zignorowany",
+            "correct": false
+          },
+          {
+            "text": "że wszystkie odbiorniki NAVTEX znajdujące się w zasięgu stacji nadającej wydrukują tak oznaczony komunikat, niezależnie od dokonanego przez użytkownika ustawienia stacji",
+            "correct": true
+          },
+          {
+            "text": "że komunikat nadany został o godz. 00:00",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "text": "Stacje NAVTEX powtarzają w kolejnych transmisjach komunikaty:",
+        "answers": [
+          {
+            "text": "tak długo, dopóki nie ustanie powód z którego dany komunikat jest nadawany",
+            "correct": true
+          },
+          {
+            "text": "przez 7 dni",
+            "correct": false
+          },
+          {
+            "text": "dwa razy",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "text": "Informacje o rozmieszczeniu, zasięgach i czasach nadawania stacji NAVTEX można znaleźć w:",
+        "answers": [
+          {
+            "text": "List of Radiodetermination and Special Service Station - ITU",
+            "correct": false
+          },
+          {
+            "text": "Admirality List Of Radiosignals Vol. 1",
+            "correct": true
+          },
+          {
+            "text": "List Of Ship Stations - ITU",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "text": "Zainstalowanie na statku odbiornika systemu NAVTEX wymaga zgody:",
+        "answers": [
+          {
+            "text": "Urzędu Komunikacji Elektronicznej",
+            "correct": false
+          },
+          {
+            "text": "Urzędu Morskiego",
+            "correct": false
+          },
+          {
+            "text": "żadnego z powyższych",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "text": "Koordynatorem odpowiedzialnym za gromadzenie i dystrybucję morskich informacji bezpieczeństwa w obszarze polskiej strefy ekonomicznej jest:",
+        "answers": [
+          {
+            "text": "Urząd Morski w Gdyni",
+            "correct": true
+          },
+          {
+            "text": "Urząd Morski w Szczecinie",
+            "correct": false
+          },
+          {
+            "text": "Biuro Hydrograficzne Marynarki Wojennej",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "text": "Informacje o transmisjach morskich informacji bezpieczeństwa za pomocą innych systemów niż NAVTEX znaleźć można w:",
+        "answers": [
+          {
+            "text": "List of Radiodetermination and Special Service Station - ITU",
+            "correct": false
+          },
+          {
+            "text": "Admirality List Of Radiosignals Vol. 1",
+            "correct": false
+          },
+          {
+            "text": "Admirality List Of Radiosignals Vol. 5",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "text": "W systemie GMDSS stosuje się radiopławy:",
+        "answers": [
+          {
+            "text": "systemu COSPAS-SARSAT nadające sygnały na częstotliwości 406 MHz i 121,5 MHz",
+            "correct": true
+          },
+          {
+            "text": "systemu INMARSAT-E pracujące w paśmie 1,6 GHz",
+            "correct": false
+          },
+          {
+            "text": "systemu COSPAS-SARSAT nadające sygnały na częstotliwości 406 MHz i 243 MHz",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "text": "W skład systemu COSPAS-SARSAT wchodzi blok satelitów poruszających się po orbitach polarnych. Które z poniższych stwierdzeń jest prawdziwe:",
+        "answers": [
+          {
+            "text": "wysokość orbit polarnych wynosi około 3000 km",
+            "correct": false
+          },
+          {
+            "text": "wysokość orbit polarnych wynosi 850 - 1000 km",
+            "correct": true
+          },
+          {
+            "text": "wysokość orbit polarnych wynosi około 240 km",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "text": "W skład systemu COSPAS-SARSAT wchodzi blok satelitów poruszających się po orbitach polarnych. Czas obiegu Ziemi przez satelitę poruszającego się po orbicie polarnej wynosi:",
+        "answers": [
+          {
+            "text": "około 105 minut",
+            "correct": true
+          },
+          {
+            "text": "około 12 godzin",
+            "correct": false
+          },
+          {
+            "text": "około 24 godziny",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "text": "W skład systemu COSPAS-SARSAT wchodzi blok satelitów poruszających się po orbitach polarnych. Przelatujący satelita 'widzi' z orbity radiopławę przez:",
+        "answers": [
+          {
+            "text": "około 12-16 minut",
+            "correct": true
+          },
+          {
+            "text": "około 3 minuty",
+            "correct": false
+          },
+          {
+            "text": "około 30 minut",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "text": "W skład systemu COSPAS-SARSAT wchodzi blok satelitów geostacjonarnych składający się z:",
+        "answers": [
+          {
+            "text": "3 satelitów",
+            "correct": true
+          },
+          {
+            "text": "12 satelitów",
+            "correct": false
+          },
+          {
+            "text": "5 satelitów",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "text": "Do określenia położenia radiopławy w systemie COSPAS-SARSAT wykorzystujemy:",
+        "answers": [
+          {
+            "text": "pomiar czasu przelotu sygnałów na trasie radiopława - satelita",
+            "correct": false
+          },
+          {
+            "text": "pomiar czasu przelotu sygnałów na trasie radiopława - satelita - stacja LUT",
+            "correct": false
+          },
+          {
+            "text": "zjawisko Dopplera",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "text": "Bateria litowa zasilająca radiopławę powinna zapewnić:",
+        "answers": [
+          {
+            "text": "nieprzerwaną pracę radiopławy przez 96 godzin",
+            "correct": false
+          },
+          {
+            "text": "nieprzerwaną pracę radiopławy przez 48 godzin",
+            "correct": true
+          },
+          {
+            "text": "nieprzerwaną pracę radiopławy do momentu odbioru sygnałów przez satelitę",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "text": "Sygnał o częstotliwość 121,5 MHz nadawany przez radiopławę systemu COSPAS-SARSAT służy do:",
+        "answers": [
+          {
+            "text": "końcowego naprowadzania jednostek SAR na rozbitków (na radiopławę)",
+            "correct": true
+          },
+          {
+            "text": "do rozwiązania problemu niejednoznaczności określanej pozycji",
+            "correct": false
+          },
+          {
+            "text": "do lokalizacji położenia radiopław w obszarze pokrycia satelitów geostacjonarnych",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "text": "Dokładność lokalizacji radioławy w systemie COSPAS-SARSAT wynosi:",
+        "answers": [
+          {
+            "text": "około 5 km w przypadku wykorzystania sygnałów o częstotliwości 406 MHz",
+            "correct": true
+          },
+          {
+            "text": "około 1 km w przypadku wykorzystania sygnałów o częstotliwości 406 MHz i 121,5 MHz",
+            "correct": false
+          },
+          {
+            "text": "około 2 km w przypadku wykorzystania sygnałów o częstotliwości 121,5 MHz",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "text": "Sygnały nadawane przez radiopławę na częstotliwości 406 MHz:",
+        "answers": [
+          {
+            "text": "nadawane są przez około 0,5 sekundy i powtarzane co 2 minuty",
+            "correct": false
+          },
+          {
+            "text": "nadawane są przez około 0,5 sekundy i powtarzane co 50 +/- 2,5 sekundy",
+            "correct": true
+          },
+          {
+            "text": "zawierają dane armatora",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "text": "Sygnały nadawane przez radiopławę na częstotliwości 406 MHz zawierają:",
+        "answers": [
+          {
+            "text": "informacje o producencie radioławy",
+            "correct": false
+          },
+          {
+            "text": "MID (Maritime Identification Digits) kod kraju",
+            "correct": true
+          },
+          {
+            "text": "datę i czas uruchomienia radiopławy",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "text": "Sygnały nadawane przez radiopławę na częstotliwości 406 MHz pozwalają na identyfikację statku z którego pochodzi radiopława na podstawie zakodowanego:",
+        "answers": [
+          {
+            "text": "numeru MMSI",
+            "correct": true
+          },
+          {
+            "text": "MID (Maritime Identification Digits) - kodu kraju",
+            "correct": false
+          },
+          {
+            "text": "kodu armatora",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "text": "Radiopława systemu COSPAS-SARSAT powinna:",
+        "answers": [
+          {
+            "text": "mieć wbudowany odbiornik GPS",
+            "correct": false
+          },
+          {
+            "text": "mieć wbudowane źródło światła ciągłego",
+            "correct": false
+          },
+          {
+            "text": "mieć wbudowany nadajnik do lokalizacji końcowego miejsca katastrofy (do naprowadzania jednostek SAR)",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "text": "Radiopławy systemu COSPAS-SARSAT mogą być uruchomione:",
+        "answers": [
+          {
+            "text": "automatycznie za pomocą zwalniaka hydrostatycznego, gdy statek tonie",
+            "correct": true
+          },
+          {
+            "text": "przez wpisanie właściwego kodu",
+            "correct": false
+          },
+          {
+            "text": "zdalnie z RCC",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "text": "W przypadku uruchomienia radiopławy systemu COSPAS-SARSAT, czas jaki upływa od jej uruchomienia do powiadomienia RCC wynosi:",
+        "answers": [
+          {
+            "text": "około 5 minut jeżeli radiopława znajduje się w zasięgu satelitów geostacjonarnych",
+            "correct": true
+          },
+          {
+            "text": "około 15 minut jeżeli radiopława została uruchomiona w dzień",
+            "correct": false
+          },
+          {
+            "text": "około 25 minut jeżeli radiopława została uruchomiona w nocy",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 75,
+        "text": "Obieg informacji o alarmowaniu w systemie COSPAS-SARSAT przebiega wg schematu:",
+        "answers": [
+          {
+            "text": "radiopława → satelita biegunowy→LUT→MCC→RCC→jednostki SAR",
+            "correct": true
+          },
+          {
+            "text": "radiopława → satelita biegunowy→LUT→RCC→jednostki SAR",
+            "correct": false
+          },
+          {
+            "text": "radiopława→ satelita geostacjonarny→LUT→MCC→RCC→jednostki SAR",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "text": "W celu dokonania rejestracji radiopławy należy:",
+        "answers": [
+          {
+            "text": "zgłosić się do lokalnego oddziału Urzędu Komunikacji Elektronicznej",
+            "correct": false
+          },
+          {
+            "text": "zgłosić się do właściwego terytorialnie Urzędu Morskiego",
+            "correct": true
+          },
+          {
+            "text": "zgłosić się do MRCC Gdynia",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "text": "Satelita biegunowy po odebraniu sygnałów z radiopławy 406 MHz (z GPS):",
+        "answers": [
+          {
+            "text": "określa pozycję radiopławy i przekazuje tę informację do LUT",
+            "correct": true
+          },
+          {
+            "text": "retransmituje odebrane z radiopławy sygnały do satelity geostacjonarnego",
+            "correct": false
+          },
+          {
+            "text": "retransmituje odebrane z radiopławy sygnały do stacji LUT",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "text": "Określenie pozycji radiopławy w systemie COSPAS-SARSAT następuje w:",
+        "answers": [
+          {
+            "text": "RCC",
+            "correct": false
+          },
+          {
+            "text": "LUT",
+            "correct": true
+          },
+          {
+            "text": "na pokładzie satelity biegunowego",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "text": "Testowanie radiopławy polega na:",
+        "answers": [
+          {
+            "text": "wykonaniu raz w miesiącu testu zgodnie z instrukcją na obudowie radiopławy",
+            "correct": true
+          },
+          {
+            "text": "ręcznym uruchomieniu radiopławy i sprawdzeniu, czy zareagowały RCC",
+            "correct": false
+          },
+          {
+            "text": "wrzuceniu radiopławy do wody i sprawdzeniu, czy zacznie działać światło błyskowe",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "text": "Końcowa lokalizacja radiopławy VHF DSC CH 70 możliwa jest dzięki:",
+        "answers": [
+          {
+            "text": "namiarom radiowym dokonywanym przez jednostki SAR na częstotliwości kanału 70",
+            "correct": true
+          },
+          {
+            "text": "wbudowanemu w radiopławę transponderowi radarowemu (SART)",
+            "correct": false
+          },
+          {
+            "text": "nadawaniu przez radiopławę sygnałów akustycznych",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 81,
+        "text": "W przypadku uruchomienia radiopławy w sytuacji ,gdy nie ma zagrożenia, należy:",
+        "answers": [
+          {
+            "text": "natychmiast wyłączyć radiopławę",
+            "correct": false
+          },
+          {
+            "text": "natychmiast wyłączyć radiopławę i powiadomić o zaistniałym fakcie najbliższe RCC",
+            "correct": true
+          },
+          {
+            "text": "natychmiast wyłączyć radiopławę i powiadomić o zaistniałym fakcie znajdujące się w pobliżu statki",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 82,
+        "text": "Transponder radarowy służy do:",
+        "answers": [
+          {
+            "text": "lokalizacji rozbitków na miejscu katastrofy",
+            "correct": true
+          },
+          {
+            "text": "szybkiego powiadamiania RCC o katastrofie",
+            "correct": false
+          },
+          {
+            "text": "wykrywania jednostek znajdujących się w pobliżu",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "text": "Transponder radarowy współpracuje z radarami:",
+        "answers": [
+          {
+            "text": "w paśmie S",
+            "correct": false
+          },
+          {
+            "text": "w paśmie X",
+            "correct": true
+          },
+          {
+            "text": "pracującymi w paśmie 3 GHz",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 84,
+        "text": "Transponder radarowy nadaje swój sygnał:",
+        "answers": [
+          {
+            "text": "natychmiast po włączeniu",
+            "correct": false
+          },
+          {
+            "text": "po włączeniu i pobudzeniu przez radar pracujący w paśmie 9 GHz",
+            "correct": true
+          },
+          {
+            "text": "po zanurzeniu w wodzie morskiej",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 85,
+        "text": "Zasięg transpondera radarowego zależy:",
+        "answers": [
+          {
+            "text": "wysokości umieszczenia transpondera na tratwie ratunkowej",
+            "correct": true
+          },
+          {
+            "text": "od tego czy nadaje w paśmie X czy S",
+            "correct": false
+          },
+          {
+            "text": "od temperatury otoczenia",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 86,
+        "text": "Przy wysokości umieszczenia transpondera radarowego 1 m i antenie radaru statku wykrywającego na wysokości 10 m, zasięg będzie wynosił:",
+        "answers": [
+          {
+            "text": "około 12 mil",
+            "correct": true
+          },
+          {
+            "text": "poniżej 2 mil",
+            "correct": false
+          },
+          {
+            "text": "5 do 7 mil",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 87,
+        "text": "Maksymalny zasięg transpondera radarowego przy wykrywaniu z helikoptera wynosi:",
+        "answers": [
+          {
+            "text": "15 mil",
+            "correct": false
+          },
+          {
+            "text": "40 mil",
+            "correct": true
+          },
+          {
+            "text": "60 mil",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 88,
+        "text": "Pojemność baterii transpondera radarowego powinna zapewnić pracę:",
+        "answers": [
+          {
+            "text": "minimum 96 godz. w stanie gotowości plus 8 godz. nadawania",
+            "correct": true
+          },
+          {
+            "text": "minimum 48 godz. w stanie gotowości plus 8 godz. nadawania",
+            "correct": false
+          },
+          {
+            "text": "minimum 24 godz. w stanie gotowości plus 8 godz. nadawania",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 89,
+        "text": "Sygnał z transpondera radarowego widziany jest na ekranie radaru w postaci:",
+        "answers": [
+          {
+            "text": "jasnego kółka w pozycji transpondera",
+            "correct": false
+          },
+          {
+            "text": "serii równo oddalonych od siebie kropek",
+            "correct": true
+          },
+          {
+            "text": "jasnego trójkąta w pozycji transpondera",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 90,
+        "text": "Transponder radarowy nadaje po pobudzeniu sygnał:",
+        "answers": [
+          {
+            "text": "na stałej częstotliwości 9,5 GHz",
+            "correct": false
+          },
+          {
+            "text": "w paśmie 9,2 – 9,5 GHz",
+            "correct": true
+          },
+          {
+            "text": "w paśmie 9,0 – 9,4 GHz",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 91,
+        "text": "Sygnał z transpondera radarowego widziany jest na ekranie radaru:",
+        "answers": [
+          {
+            "text": "w postaci łuków przy odległości do rozbitków poniżej 1 mili",
+            "correct": true
+          },
+          {
+            "text": "w postaci łuków przy odległości do rozbitków poniżej 3 mil",
+            "correct": false
+          },
+          {
+            "text": "w postaci koncentrycznych okręgów przy odległości do rozbitków poniżej 5 mil",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 92,
+        "text": "Sygnał z transpondera radarowego widziany jest na ekranie radaru:",
+        "answers": [
+          {
+            "text": "w postaci koncentrycznych okręgów przy odległości do rozbitków poniżej 1 mili",
+            "correct": true
+          },
+          {
+            "text": "w postaci koncentrycznych okręgów przy odległości do rozbitków poniżej 0,1 mili",
+            "correct": false
+          },
+          {
+            "text": "w postaci koncentrycznych okręgów przy odległości do rozbitków poniżej 2 mil",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 93,
+        "text": "Pozycję rozbitków na ekranie radaru wyznacza:",
+        "answers": [
+          {
+            "text": "najdalsza kropka",
+            "correct": true
+          },
+          {
+            "text": "najbliższy łuk",
+            "correct": false
+          },
+          {
+            "text": "najdalszy łuk",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 94,
+        "text": "Pozycję rozbitków na ekranie radaru wyznacza:",
+        "answers": [
+          {
+            "text": "najdalsza kropka",
+            "correct": false
+          },
+          {
+            "text": "najdalszy łuk",
+            "correct": true
+          },
+          {
+            "text": "najbliższa kropka",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "text": "Transponder radarowy nadaje swój sygnał w paśmie 9,2 – 9,5 GHz:",
+        "answers": [
+          {
+            "text": "aby uzyskać większą odległość wykrywania",
+            "correct": false
+          },
+          {
+            "text": "ponieważ trudno jest utrzymać stałą częstotliwość",
+            "correct": false
+          },
+          {
+            "text": "by umożliwić współpracę z wszystkimi radarami w paśmie X",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 96,
+        "text": "Rozbitkowie mogą poznać, że sygnał z transpondera radarowego został wykryty:",
+        "answers": [
+          {
+            "text": "przez sygnalizację świetlną lub akustyczną na transponderze",
+            "correct": true
+          },
+          {
+            "text": "ponieważ zostaną powiadomieni przez przenośny radiotelefon VHF",
+            "correct": false
+          },
+          {
+            "text": "nie wiedzą czy zostali wykryci",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 97,
+        "text": "Rozbitkowie mogą zwiększyć zasięg transpondera radarowego przez:",
+        "answers": [
+          {
+            "text": "podgrzanie transpondera własnym ciałem",
+            "correct": false
+          },
+          {
+            "text": "umieszczenie go jak najwyżej",
+            "correct": true
+          },
+          {
+            "text": "załączanie transpondera w cyklu: minuta pracy, minuta przerwy",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 98,
+        "text": "Przy wykrywaniu transpondera można wyeliminować zakłócenia od opadów przez:",
+        "answers": [
+          {
+            "text": "zmianę zakresu",
+            "correct": true
+          },
+          {
+            "text": "zmianę jasności zobrazowania",
+            "correct": false
+          },
+          {
+            "text": "odstrojenie radaru",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 99,
+        "text": "W sytuacji, gdy na ekranie radaru widoczne są łuki, można przywrócić kropki przez:",
+        "answers": [
+          {
+            "text": "zmianę jasności zobrazowania",
+            "correct": false
+          },
+          {
+            "text": "odstrojenie radaru",
+            "correct": true
+          },
+          {
+            "text": "zmniejszenie wzmocnienia radaru",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 100,
+        "text": "W radiotelefonii używana jest fala nośna:",
+        "answers": [
+          {
+            "text": "prostokątna",
+            "correct": false
+          },
+          {
+            "text": "trójkątna",
+            "correct": false
+          },
+          {
+            "text": "sinusoidalna",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 101,
+        "text": "Częstotliwość fali nośnej zależy od jej:",
+        "answers": [
+          {
+            "text": "amplitudy",
+            "correct": false
+          },
+          {
+            "text": "fazy",
+            "correct": false
+          },
+          {
+            "text": "długości",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "text": "Fala radiowa o częstotliwości 156 MHz ma długość:",
+        "answers": [
+          {
+            "text": "około 20 metrów",
+            "correct": false
+          },
+          {
+            "text": "około 15 metrów",
+            "correct": false
+          },
+          {
+            "text": "około 2 metrów",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 103,
+        "text": "Fala radiowa o długości 2 metrów ma częstotliwość:",
+        "answers": [
+          {
+            "text": "150 MHz",
+            "correct": true
+          },
+          {
+            "text": "1500 MHz",
+            "correct": false
+          },
+          {
+            "text": "1500 kHz",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 104,
+        "text": "Fale z zakresu VHF to inaczej fale:",
+        "answers": [
+          {
+            "text": "pośrednie",
+            "correct": false
+          },
+          {
+            "text": "średnie",
+            "correct": false
+          },
+          {
+            "text": "ultrakrótkie",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 105,
+        "text": "Prędkość rozchodzenia się fal to:",
+        "answers": [
+          {
+            "text": "300 000 km/sec",
+            "correct": true
+          },
+          {
+            "text": "300 000 m/sec",
+            "correct": false
+          },
+          {
+            "text": "300 000 km/godz",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 106,
+        "text": "Maksymalna moc statkowych radiotelefonów VHF wynosi:",
+        "answers": [
+          {
+            "text": "200 W",
+            "correct": false
+          },
+          {
+            "text": "5W",
+            "correct": false
+          },
+          {
+            "text": "25 W",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 107,
+        "text": "Zmiana mocy radiotelefonu ma wpływ na:",
+        "answers": [
+          {
+            "text": "słyszalność dalekich stacji",
+            "correct": false
+          },
+          {
+            "text": "poziom szumów",
+            "correct": false
+          },
+          {
+            "text": "jego zasięg",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 108,
+        "text": "Funkcja podwójnego nasłuchu w radiotelefonie VHF pozwala na:",
+        "answers": [
+          {
+            "text": "jednoczesny nasłuch dwóch dowolnych kanałów",
+            "correct": false
+          },
+          {
+            "text": "jednoczesny nasłuch kanału 16 i 70",
+            "correct": false
+          },
+          {
+            "text": "jednoczesny nasłuch kanału 16 i dowolnego roboczego",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 109,
+        "text": "Przełączenie kanałów międzynarodowych na amerykańskie:",
+        "answers": [
+          {
+            "text": "zmienia moc nadawania we wszystkich kanałach",
+            "correct": false
+          },
+          {
+            "text": "zmienia niektóre kanały z simpleksowych na dupleksowe",
+            "correct": false
+          },
+          {
+            "text": "zmienia niektóre kanały z dupleksowych na simpleksowe",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 110,
+        "text": "Funkcja blokady szumów odcina szumy i zakłócenia od głośnika poprzez:",
+        "answers": [
+          {
+            "text": "blokadę wzmacniacza wysokiej częstotliwości dla słabych sygnałów",
+            "correct": true
+          },
+          {
+            "text": "blokadę wzmacniacza częstotliwości akustycznej dla słabych sygnałów",
+            "correct": false
+          },
+          {
+            "text": "blokadę wzmacniacza wysokiej częstotliwości dla silnych sygnałów",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 111,
+        "text": "Morskie pasmo VHF to częstotliwości w paśmie:",
+        "answers": [
+          {
+            "text": "156 – 174 MHz",
+            "correct": true
+          },
+          {
+            "text": "121,5 – 156 MHz",
+            "correct": false
+          },
+          {
+            "text": "156 – 162 kHz",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 112,
+        "text": "Długość anteny nadajnika jest przede wszystkim uzależniona od:",
+        "answers": [
+          {
+            "text": "mocy nadajnika",
+            "correct": false
+          },
+          {
+            "text": "częstotliwości nadajnika",
+            "correct": true
+          },
+          {
+            "text": "amplitudy napięcia",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 113,
+        "text": "Regulacja głośności odbiornika VHF odbywa się przez:",
+        "answers": [
+          {
+            "text": "zmianę wzmocnienia wzmacniacza akustycznego",
+            "correct": true
+          },
+          {
+            "text": "zastosowanie blokady szumów",
+            "correct": false
+          },
+          {
+            "text": "zmianę wzmocnienia wzmacniacza pośredniej częstotliwości",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 114,
+        "text": "W akumulatorach kwasowych elektrolitem jest:",
+        "answers": [
+          {
+            "text": "kwas siarkowy",
+            "correct": false
+          },
+          {
+            "text": "wodny roztwór kwasu siarkowego",
+            "correct": true
+          },
+          {
+            "text": "wodny roztwór kwasu solnego",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 115,
+        "text": "W trakcie ładowania akumulatorów kwasowych wydzielane są gazy. Jest to:",
+        "answers": [
+          {
+            "text": "wodór",
+            "correct": true
+          },
+          {
+            "text": "chlor",
+            "correct": false
+          },
+          {
+            "text": "azot",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 116,
+        "text": "Na zaciskach kwasowego akumulatora statkowego o napięciu znamionowym 24 V zmierzone napięcie wynosi 21 V. Oznacza to, że:",
+        "answers": [
+          {
+            "text": "akumulator jest całkowicie rozładowany",
+            "correct": true
+          },
+          {
+            "text": "akumulator jest częściowo rozładowany",
+            "correct": false
+          },
+          {
+            "text": "akumulator jest naładowany",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 117,
+        "text": "Akumulatorów kwasowych nie wolno wyładowywać poniżej dopuszczalnego napięcia końcowego które wynosi:",
+        "answers": [
+          {
+            "text": "1,75 V/ogniwo",
+            "correct": true
+          },
+          {
+            "text": "1,95 V/ogniwo",
+            "correct": false
+          },
+          {
+            "text": "1,6 V/ogniwo",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 118,
+        "text": "Gęstość elektrolitu w akumulatorach kwasowych jest miarą naładowania akumulatora. Zmierzona gęstość elektrolitu zwykłego akumulatora kwasowego w temperaturze 20o C wynosi 1,28 g/cm3. Oznacza to, że:",
+        "answers": [
+          {
+            "text": "akumulator jest całkowicie rozładowany",
+            "correct": false
+          },
+          {
+            "text": "akumulator jest częściowo rozładowany",
+            "correct": false
+          },
+          {
+            "text": "akumulator jest całkowicie naładowany",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 119,
+        "text": "Gęstość elektrolitu w akumulatorach kwasowych jest miarą naładowania akumulatora. Zmierzona gęstość elektrolitu zwykłego akumulatora kwasowego w temperaturze 20o C wynosi 1,10 g/cm3. Oznacza to, że:",
+        "answers": [
+          {
+            "text": "akumulator jest całkowicie rozładowany",
+            "correct": true
+          },
+          {
+            "text": "akumulator jest częściowo rozładowany",
+            "correct": false
+          },
+          {
+            "text": "akumulator jest całkowicie naładowany",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 120,
+        "text": "Akumulatory kwasowe powinny być ładowane prądem dziesięciogodzinnym. Oznacza to że:",
+        "answers": [
+          {
+            "text": "nie wolno ładować akumulatora przez czas dłuższy niż 10 godzin",
+            "correct": false
+          },
+          {
+            "text": "akumulator powinien być ładowany prądem wynoszącym 0,1 Q przez 10 godzin (Q – pojemność znamionowa akumulatora)",
+            "correct": true
+          },
+          {
+            "text": "co 10 godzin należy robić przerwy w ładowaniu akumulatora",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 121,
+        "text": "Maksymalny prąd ładowania akumulatora kwasowego nie powinien przekroczyć:",
+        "answers": [
+          {
+            "text": "1,0 Q (Q – pojemność znamionowa akumulatora)",
+            "correct": false
+          },
+          {
+            "text": "0,8 Q (Q – pojemność znamionowa akumulatora)",
+            "correct": false
+          },
+          {
+            "text": "0,5 Q (Q – pojemność znamionowa akumulatora)",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 122,
+        "text": "Wraz ze spadkiem temperatury pojemność akumulatorów kwasowych:",
+        "answers": [
+          {
+            "text": "nie zmienia się",
+            "correct": false
+          },
+          {
+            "text": "spada o 0,5-1,0 % na stopień C",
+            "correct": true
+          },
+          {
+            "text": "wzrasta o około 1 % na stopień C",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 123,
+        "text": "Gęstość elektrolitu całkowicie naładowanego akumulatora kwasowego w tropiku jest:",
+        "answers": [
+          {
+            "text": "mniejsza niż gęstość elektrolitu w temperaturze 20o C i wynosi 1,23 g/cm3",
+            "correct": true
+          },
+          {
+            "text": "mniejsza niż gęstość elektrolitu w temperaturze 20o C i wynosi 1,15 g/cm3",
+            "correct": false
+          },
+          {
+            "text": "taka sama jak w strefie umiarkowanej",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 124,
+        "text": "Akumulatory kwasowe w przypadku wyłączenia z eksploatacji powinny być przechowywane w stanie:",
+        "answers": [
+          {
+            "text": "naładowanym",
+            "correct": true
+          },
+          {
+            "text": "całkowicie rozładowanym",
+            "correct": false
+          },
+          {
+            "text": "naładowanym do 50 % pojemności znamionowej",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 125,
+        "text": "W trakcie eksploatacji akumulatorów kwasowych zachodzi konieczność uzupełniania elektrolitu. Uzupełnianie elektrolitu polega na dolewaniu do poszczególnych cel akumulatora:",
+        "answers": [
+          {
+            "text": "kwasu siarkowego",
+            "correct": false
+          },
+          {
+            "text": "wody destylowanej",
+            "correct": true
+          },
+          {
+            "text": "wody",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 126,
+        "text": "W trakcie niewłaściwej eksploatacji akumulatorów kwasowych następuje ich zasiarczenie. Które z poniższych zjawisk świadczą o zasiarczeniu akumulatora:",
+        "answers": [
+          {
+            "text": "niski poziom elektrolitu",
+            "correct": false
+          },
+          {
+            "text": "silne grzanie elektrolitu w trakcie ładowania",
+            "correct": true
+          },
+          {
+            "text": "nalot na zaciskach akumulatora",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 127,
+        "text": "W używanych do zasilania urządzeń radiokomunikacyjnych na statkach zasadowych akumulatorach niklowo-kadmowych elektrolitem jest:",
+        "answers": [
+          {
+            "text": "wodny roztwór kwasu siarkowego",
+            "correct": false
+          },
+          {
+            "text": "wodny roztwór wodorotlenku potasu",
+            "correct": true
+          },
+          {
+            "text": "wodorotlenek litu",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 128,
+        "text": "W używanych do zasilania urządzeń radiokomunikacyjnych na statkach zasadowych akumulatorach niklowo-kadmowych gęstość elektrolitu wynosi:",
+        "answers": [
+          {
+            "text": "1,28-1,32 g/cm3",
+            "correct": false
+          },
+          {
+            "text": "1,17-1,19 g/cm3",
+            "correct": true
+          },
+          {
+            "text": "1,25-1,27 g/cm3",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 129,
+        "text": "Napięcie znamionowe w używanych do zasilania urządzeń radiowych akumulatorach niklowo-kadmowych wynosi:",
+        "answers": [
+          {
+            "text": "1,2 V/ ogniwo",
+            "correct": true
+          },
+          {
+            "text": "1,05 V/ ogniwo",
+            "correct": false
+          },
+          {
+            "text": "1,85 V/ ogniwo",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 130,
+        "text": "Końcowe napięcie ładowania w używanych do zasilania urządzeń radiowych akumulatorach niklowo-kadmowych wynosi:",
+        "answers": [
+          {
+            "text": "2,3 V/ ogniwo",
+            "correct": true
+          },
+          {
+            "text": "1,8 V/ ogniwo",
+            "correct": false
+          },
+          {
+            "text": "1,9 V / ogniwo",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 131,
+        "text": "Znamionowe natężenie prądu ładowania używanych do zasilania urządzeń radiowych akumulatorów niklowo-kadmowych wynosi:",
+        "answers": [
+          {
+            "text": "0,1 Q (Q – pojemność znamionowa akumulatora)",
+            "correct": true
+          },
+          {
+            "text": "0,5 Q (Q – pojemność znamionowa akumulatora)",
+            "correct": false
+          },
+          {
+            "text": "0,25 Q (Q – pojemność znamionowa akumulatora)",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 132,
+        "text": "Elektrolit w używanych do zasilania urządzeń radiowych akumulatorach niklowo-kadmowych wymienia się co:",
+        "answers": [
+          {
+            "text": "sezon",
+            "correct": false
+          },
+          {
+            "text": "rok",
+            "correct": false
+          },
+          {
+            "text": "2-3 lata",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 133,
+        "text": "Akumulatory kwasowe charakteryzują się:",
+        "answers": [
+          {
+            "text": "wyższą rezystancją wewnętrzną niż akumulatory zasadowe",
+            "correct": false
+          },
+          {
+            "text": "wyższą sprawnością energetyczną niż akumulatory zasadowe",
+            "correct": false
+          },
+          {
+            "text": "są mniej wrażliwe na niewłaściwą eksploatację niż akumulatory zasadowe",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 134,
+        "text": "Baterie przeznaczone do zasilania przenośnych radiotelefonów awaryjnych VHF:",
+        "answers": [
+          {
+            "text": "powinny posiadać pojemność zapewniającą co najmniej 8 godzin pracy radiotelefonu z pełną mocą w cyklu pracy 1:9 (6 sekund nadawanie, 6 sekund odbiór bez blokady szumów, 48 sekund odbiór z blokada szumów)",
+            "correct": true
+          },
+          {
+            "text": "powinny posiadać pojemność zapewniającą co najmniej 48 godzin pracy radiotelefonu z pełną mocą w cyklu pracy 1:9 (6 sekund nadawanie, 6 sekund odbiór bez blokady szumów, 48 sekund odbiór z blokada szumów)",
+            "correct": false
+          },
+          {
+            "text": "powinny posiadać pojemność zapewniającą co najmniej 8 godzin pracy radiotelefonu z pełną mocą",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 135,
+        "text": "Baterie przeznaczone do zasilania awaryjnych transponderów radarowych (SART):",
+        "answers": [
+          {
+            "text": "powinny posiadać pojemność zapewniającą co najmniej 96 godzin pracy w stanie czuwania i następnie umożliwiać nadawanie sygnałów przez 8 godzin",
+            "correct": true
+          },
+          {
+            "text": "powinny posiadać pojemność zapewniającą co najmniej 96 godzin pracy",
+            "correct": false
+          },
+          {
+            "text": "powinny posiadać pojemność zapewniającą co najmniej 48 godzin pracy w stanie czuwania i następnie umożliwiać nadawanie sygnałów przez 8 godzin",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 136,
+        "text": "Baterie przeznaczone do zasilania radiopław awaryjnych:",
+        "answers": [
+          {
+            "text": "powinny posiadać pojemność zapewniającą co najmniej 48 godzin pracy w stanie czuwania i następnie umożliwiać nadawanie sygnałów przez 8 godzin",
+            "correct": true
+          },
+          {
+            "text": "powinny posiadać pojemność zapewniającą co najmniej 96 godzin pracy w stanie czuwania i następnie umożliwiać nadawanie sygnałów przez 8 godzin",
+            "correct": false
+          },
+          {
+            "text": "powinny posiadać pojemność zapewniającą co najmniej 8 godzin pracy w stanie czuwania i następnie umożliwiać nadawanie sygnałów przez 8 godzin",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 137,
+        "text": "Baterie przeznaczone do zasilania przenośnych radiotelefonów awaryjnych VHF powinny być:",
+        "answers": [
+          {
+            "text": "ładowane co najmniej raz w roku",
+            "correct": false
+          },
+          {
+            "text": "wymieniane co najmniej raz w roku",
+            "correct": true
+          },
+          {
+            "text": "ładowane co najmniej raz na 2 lata",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 138,
+        "text": "Baterie przeznaczone do zasilania awaryjnych transponderów radarowych (SART) powinny być:",
+        "answers": [
+          {
+            "text": "ładowane co najmniej raz w roku",
+            "correct": false
+          },
+          {
+            "text": "wymieniane co najmniej raz w roku",
+            "correct": true
+          },
+          {
+            "text": "ładowane co najmniej raz na 2 lata",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 139,
+        "text": "Baterie przeznaczone do zasilania radiopław awaryjnych powinny być:",
+        "answers": [
+          {
+            "text": "ładowane co najmniej raz w roku",
+            "correct": false
+          },
+          {
+            "text": "wymieniane co najmniej raz w roku",
+            "correct": true
+          },
+          {
+            "text": "ładowane co najmniej raz na 2 lata",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 140,
+        "text": "Radiopława awaryjna powinna być wyposażona w:",
+        "answers": [
+          {
+            "text": "nadajnik radiowy i światło błyskowe",
+            "correct": true
+          },
+          {
+            "text": "nadajnik radiowy i światło ciągłe",
+            "correct": false
+          },
+          {
+            "text": "nadajnik radiowy i światło czerwone",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 141,
+        "text": "Radiopława awaryjna powinna być uruchamiana:",
+        "answers": [
+          {
+            "text": "automatycznie po zanurzeniu w wodzie",
+            "correct": true
+          },
+          {
+            "text": "ręcznie przez operatora",
+            "correct": false
+          },
+          {
+            "text": "zdalnie przez RCC",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 142,
+        "text": "Radiopława awaryjna powinna nadawać sygnały na częstotliwości:",
+        "answers": [
+          {
+            "text": "406 MHz i 121,5 MHz",
+            "correct": true
+          },
+          {
+            "text": "406 MHz i 243 MHz",
+            "correct": false
+          },
+          {
+            "text": "121,5 MHz i 243 MHz",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 143,
+        "text": "Radiopława awaryjna powinna być wyposażona w:",
+        "answers": [
+          {
+            "text": "odbiornik GPS",
+            "correct": true
+          },
+          {
+            "text": "odbiornik GLONASS",
+            "correct": false
+          },
+          {
+            "text": "odbiornik Galileo",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 144,
+        "text": "Radiopława awaryjna powinna być zarejestrowana:",
+        "answers": [
+          {
+            "text": "w Urzędzie Morskim",
+            "correct": true
+          },
+          {
+            "text": "w Urzędzie Komunikacji Elektronicznej",
+            "correct": false
+          },
+          {
+            "text": "w MRCC Gdynia",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 145,
+        "text": "Radiopława awaryjna powinna być oznakowana:",
+        "answers": [
+          {
+            "text": "numerem MMSI statku",
+            "correct": true
+          },
+          {
+            "text": "numerem IMO statku",
+            "correct": false
+          },
+          {
+            "text": "numerem rejestracyjnym statku",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 146,
+        "text": "Najczęściej stosowaną anteną do radiopław awaryjnych jest:",
+        "answers": [
+          {
+            "text": "antena teleskopowa",
+            "correct": false
+          },
+          {
+            "text": "antena prętowa",
+            "correct": true
+          },
+          {
+            "text": "antena typu Yagi",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "regulamnin",
+    "description": "REGULAMINY I PODSTAWOWE TERMINY ANGLOJĘZYCZNE STOSOWANE W SŁUŻBIE RADIOKOMUNIKACYJNEJ MORSKIEJ",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Zgodnie z kolejnością pierwszeństwa łączności:",
+        "answers": [
+          {
+            "text": "łączność ostrzegawcza ma pierwszeństwo przed łącznością pilną",
+            "correct": false
+          },
+          {
+            "text": "łączność ostrzegawcza ma pierwszeństwo przed łącznością publiczną",
+            "correct": true
+          },
+          {
+            "text": "łączność pilna ma pierwszeństwo przed łącznością w niebezpieczeństwie",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Łączność publiczna to łączność:",
+        "answers": [
+          {
+            "text": "dla uzyskania porady medycznej",
+            "correct": false
+          },
+          {
+            "text": "pomiędzy stacją statkową i stacją nadbrzeżną",
+            "correct": true
+          },
+          {
+            "text": "do przekazywania ostrzeżeń",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Stacja nadbrzeżna to stacja prowadząca łączność:",
+        "answers": [
+          {
+            "text": "ruchu portowego",
+            "correct": false
+          },
+          {
+            "text": "ruchu statków",
+            "correct": false
+          },
+          {
+            "text": "publiczną",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Ratowniczy Ośrodek Koordynacyjny odpowiedzialny jest za:",
+        "answers": [
+          {
+            "text": "prowadzenie łączności na miejscu akcji ratowniczej",
+            "correct": false
+          },
+          {
+            "text": "przygotowanie służb portowych",
+            "correct": false
+          },
+          {
+            "text": "kierowanie akcją SAR",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Zakres VHF obejmuje częstotliwości:",
+        "answers": [
+          {
+            "text": "3 ÷ 30 MHz",
+            "correct": false
+          },
+          {
+            "text": "30 ÷ 300 MHz",
+            "correct": true
+          },
+          {
+            "text": "10 ÷ 100 MHz",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Morski zakres V obejmuje częstotliwości:",
+        "answers": [
+          {
+            "text": "10 ÷ 30 MHz",
+            "correct": false
+          },
+          {
+            "text": "300 ÷ 3000 kHz",
+            "correct": false
+          },
+          {
+            "text": "156 ÷ 174 MHz",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Emisja G3E to emisja:",
+        "answers": [
+          {
+            "text": "z modulacją fazy",
+            "correct": false
+          },
+          {
+            "text": "cyfrowa",
+            "correct": false
+          },
+          {
+            "text": "z jednowstęgową modulacją amplitudy",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Emisję G3E należy stosować w zakresie częstotliwości:",
+        "answers": [
+          {
+            "text": "LF",
+            "correct": false
+          },
+          {
+            "text": "HF",
+            "correct": false
+          },
+          {
+            "text": "VHF",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Simpleks to sposób pracy w kanale radiowym przy którym:",
+        "answers": [
+          {
+            "text": "nadawanie jest możliwe jednocześnie w obu kierunkach łączności",
+            "correct": false
+          },
+          {
+            "text": "obie stacje pracują simpleksem wykorzystując kanał dupleksowy",
+            "correct": false
+          },
+          {
+            "text": "nadawanie jest możliwe jedynie na zmianę w każdym kierunku łączności",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Semidupleks to sposób pracy w kanale radiowym przy którym:",
+        "answers": [
+          {
+            "text": "nadawanie jest możliwe jednocześnie w obu kierunkach łączności",
+            "correct": false
+          },
+          {
+            "text": "nadawanie jest możliwe jedynie na zmianę w każdym kierunku łączności",
+            "correct": true
+          },
+          {
+            "text": "jedna stacja pracuje simpleksem a druga dupleksem",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "text": "Dupleks to sposób pracy w kanale radiowym przy którym:",
+        "answers": [
+          {
+            "text": "nadawanie jest możliwe jednocześnie w obu kierunkach łączności",
+            "correct": true
+          },
+          {
+            "text": "nadawanie jest możliwe jedynie na zmianę w każdym kierunku łączności",
+            "correct": false
+          },
+          {
+            "text": "jedna stacja pracuje simpleksem a druga dupleksem",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "text": "Kanał simpleksowy to kanał w którym:",
+        "answers": [
+          {
+            "text": "nadajemy i odbieramy na tej samej częstotliwości",
+            "correct": true
+          },
+          {
+            "text": "tylko nadajemy na określonej częstotliwości",
+            "correct": false
+          },
+          {
+            "text": "tylko odbieramy na określonej częstotliwości",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "text": "Kanał dupleksowy to kanał w którym:",
+        "answers": [
+          {
+            "text": "nadajemy i odbieramy na tej samej częstotliwości",
+            "correct": false
+          },
+          {
+            "text": "tylko nadajemy na określonej częstotliwości",
+            "correct": false
+          },
+          {
+            "text": "nadajemy i odbieramy na różnych częstotliwościach",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "text": "Kanał 16 VHF jest kanałem:",
+        "answers": [
+          {
+            "text": "dupleksowym",
+            "correct": false
+          },
+          {
+            "text": "jednoczęstotliwościowym",
+            "correct": true
+          },
+          {
+            "text": "dwuczęstotliwościowym",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "text": "Kanał 6 VHF jest kanałem:",
+        "answers": [
+          {
+            "text": "dupleksowym",
+            "correct": false
+          },
+          {
+            "text": "dwuczęstotliwościowym",
+            "correct": false
+          },
+          {
+            "text": "simpleksowym",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "text": "Kanał 15 VHF jest kanałem:",
+        "answers": [
+          {
+            "text": "dupleksowym",
+            "correct": false
+          },
+          {
+            "text": "jednoczęstotliwościowym",
+            "correct": true
+          },
+          {
+            "text": "semidupleksowym",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "text": "Kanał 13 VHF jest kanałem:",
+        "answers": [
+          {
+            "text": "dupleksowym",
+            "correct": false
+          },
+          {
+            "text": "duosimpleksowym",
+            "correct": false
+          },
+          {
+            "text": "simpleksowym",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "text": "Kanał 70 VHF jest kanałem:",
+        "answers": [
+          {
+            "text": "dupleksowym",
+            "correct": false
+          },
+          {
+            "text": "jednoczęstotliwościowym",
+            "correct": true
+          },
+          {
+            "text": "semiduplwksowym",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "text": "W zakresie VHF, do wywołań ogólnych DSC można stosować kanał:",
+        "answers": [
+          {
+            "text": "26",
+            "correct": false
+          },
+          {
+            "text": "6",
+            "correct": false
+          },
+          {
+            "text": "70",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "text": "W zakresie VHF, do wywołań międzystatkowych DSC można stosować kanał:",
+        "answers": [
+          {
+            "text": "15",
+            "correct": false
+          },
+          {
+            "text": "27",
+            "correct": false
+          },
+          {
+            "text": "70",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "text": "Znak wywoławczy stacji statkowej to identyfikacja stosowana w łączności:",
+        "answers": [
+          {
+            "text": "jedynie publicznej",
+            "correct": false
+          },
+          {
+            "text": "radiotelefonicznej",
+            "correct": true
+          },
+          {
+            "text": "DSC",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "text": "MMSI to identyfikacja stosowana w łączności:",
+        "answers": [
+          {
+            "text": "międzystatkowej",
+            "correct": true
+          },
+          {
+            "text": "radiotelefonicznej",
+            "correct": false
+          },
+          {
+            "text": "jedynie międzystatkowej",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "text": "Znak wywoławczy stacji statkowej to identyfikacja przyznawana:",
+        "answers": [
+          {
+            "text": "przez właściciela jednostki",
+            "correct": false
+          },
+          {
+            "text": "tylko do łączności bezpieczeństwa",
+            "correct": false
+          },
+          {
+            "text": "przez administrację krajową z międzynarodowej serii znaków wywoławczych",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "text": "Obszar morza w którym zapewniona jest pewna łączność DSC i radiotelefoniczna, przynajmniej z jedną stacją brzegową VHF to obszar:",
+        "answers": [
+          {
+            "text": "AOR",
+            "correct": false
+          },
+          {
+            "text": "A3",
+            "correct": false
+          },
+          {
+            "text": "A1",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "text": "Ratowniczy Ośrodek Koordynacyjny oznacza się skrótem:",
+        "answers": [
+          {
+            "text": "RSC",
+            "correct": false
+          },
+          {
+            "text": "OSC",
+            "correct": false
+          },
+          {
+            "text": "RCC",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "text": "Podcentrum Ratownicze oznacza się skrótem:",
+        "answers": [
+          {
+            "text": "RSC",
+            "correct": true
+          },
+          {
+            "text": "OSC",
+            "correct": false
+          },
+          {
+            "text": "RCC",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "text": "Stację nadbrzeżną zaangażowaną w akcję SAR oznacza się skrótem:",
+        "answers": [
+          {
+            "text": "RSC",
+            "correct": false
+          },
+          {
+            "text": "OSC",
+            "correct": false
+          },
+          {
+            "text": "CRS",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "text": "Jednostkę koordynującą poszukiwanie i ratowanie oznacza się skrótem:",
+        "answers": [
+          {
+            "text": "RSC",
+            "correct": false
+          },
+          {
+            "text": "OSC",
+            "correct": true
+          },
+          {
+            "text": "RCC",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "text": "Zalecanymi kanałami VHF do łączności w akcjach SAR są:",
+        "answers": [
+          {
+            "text": "26",
+            "correct": false
+          },
+          {
+            "text": "16",
+            "correct": true
+          },
+          {
+            "text": "6",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "text": "Alarmowanie w niebezpieczeństwie zawiera:",
+        "answers": [
+          {
+            "text": "identyfikację i pozycję jednostki zagrożonej",
+            "correct": false
+          },
+          {
+            "text": "identyfikację, pozycję jednostki zagrożonej i liczbę osób na pokładzie jednostki",
+            "correct": true
+          },
+          {
+            "text": "znak wywoławczy, pozycję jednostki zagrożonej i liczbę rannych",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "text": "Alarmowanie w niebezpieczeństwie DSC adresowane jest:",
+        "answers": [
+          {
+            "text": "jedynie do najbliższej stacji nadbrzeżnej",
+            "correct": false
+          },
+          {
+            "text": "do wszystkich stacji",
+            "correct": true
+          },
+          {
+            "text": "jedynie do najbliższej stacji statkowej",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "text": "Operator stacji statkowej po odbiorze pośredniego alarmowania DSC nadanego przez stację nadbrzeżną powinien:",
+        "answers": [
+          {
+            "text": "potwierdzić odbiór za pomocą DSC",
+            "correct": false
+          },
+          {
+            "text": "potwierdzić odbiór za pomocą radiotelefonii",
+            "correct": true
+          },
+          {
+            "text": "tylko dokonać zapisu w dzienniku radiowym",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "text": "Operator stacji statkowej może nadać pośrednie alarmowanie w niebezpieczeństwie w sytuacji gdy:",
+        "answers": [
+          {
+            "text": "jednostka zagrożona sama nie jest w stanie nadać alarmowania",
+            "correct": true
+          },
+          {
+            "text": "tylko na prośbę stacji zagrożonej",
+            "correct": false
+          },
+          {
+            "text": "tylko na polecenie RCC",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "text": "W zakresie VHF, operator stacji statkowej może nadać pośrednie alarmowanie DSC po odbiorze alarmowania DSC:",
+        "answers": [
+          {
+            "text": "nigdy nie wolno mu tego uczynić",
+            "correct": false
+          },
+          {
+            "text": "tylko na prośbę stacji zagrożonej",
+            "correct": false
+          },
+          {
+            "text": "gdy osoba odpowiedzialna za jednostkę uzna, iż wymagana jest dalsza pomoc dla jednostki zagrożonej",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "text": "W zakresie VHF, operator stacji statkowej może nadać potwierdzenie odbioru alarmowania DSC za pomocą:",
+        "answers": [
+          {
+            "text": "tylko DSC",
+            "correct": false
+          },
+          {
+            "text": "radiotelefonii lub DSC",
+            "correct": true
+          },
+          {
+            "text": "tylko radiotelefonii",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "text": "Operator stacji nadbrzeżnej może nadać potwierdzenie odbioru alarmowania DSC za pomocą:",
+        "answers": [
+          {
+            "text": "tylko DSC",
+            "correct": false
+          },
+          {
+            "text": "radiotelefonii lub DSC",
+            "correct": true
+          },
+          {
+            "text": "tylko radiotelefonii",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "text": "Przed każdym wywołaniem poprzedzającym korespondencje w niebezpieczeństwie należy użyć sygnału niebezpieczeństwa:",
+        "answers": [
+          {
+            "text": "PAN PAN",
+            "correct": false
+          },
+          {
+            "text": "MAYDAY",
+            "correct": false
+          },
+          {
+            "text": "MAYDAY MAYDAY MAYDAY",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "text": "Stację zakłócającą korespondencję w niebezpieczeństwie może uciszać:",
+        "answers": [
+          {
+            "text": "tylko RCC",
+            "correct": false
+          },
+          {
+            "text": "każda stacja statkowa i nadbrzeżna",
+            "correct": true
+          },
+          {
+            "text": "OSC",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "text": "Sygnałem uciszania stacji zakłócającej korespondencje w niebezpieczeństwie jest sygnał:",
+        "answers": [
+          {
+            "text": "PAN PAN",
+            "correct": false
+          },
+          {
+            "text": "SEELONCE MAYDAY",
+            "correct": true
+          },
+          {
+            "text": "MAYDAY",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "text": "Informację o zakończeniu korespondencji w niebezpieczeństwie może nadać:",
+        "answers": [
+          {
+            "text": "tylko RCC",
+            "correct": false
+          },
+          {
+            "text": "każda stacja statkowa i nadbrzeżna",
+            "correct": true
+          },
+          {
+            "text": "OSC",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "text": "Sygnałem zakończenia korespondencji w niebezpieczeństwie jest sygnał:",
+        "answers": [
+          {
+            "text": "PAN PAN",
+            "correct": false
+          },
+          {
+            "text": "SEELONCE MAYDAY",
+            "correct": false
+          },
+          {
+            "text": "SEELONCE FEENEE",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "text": "Korespondencją na miejscu akcji ratunkowej kieruje:",
+        "answers": [
+          {
+            "text": "RCC",
+            "correct": false
+          },
+          {
+            "text": "wyłącznie stacja nadbrzeżna",
+            "correct": false
+          },
+          {
+            "text": "OSC",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "text": "Korespondencją koordynacyjną SAR kieruje:",
+        "answers": [
+          {
+            "text": "RCC",
+            "correct": true
+          },
+          {
+            "text": "OSC",
+            "correct": false
+          },
+          {
+            "text": "jedynie stacja nadbrzeżna",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "text": "Łączność pilną stosuje się dla uzyskania:",
+        "answers": [
+          {
+            "text": "porady i pomocy medycznej",
+            "correct": true
+          },
+          {
+            "text": "jedynie pomocy medycznej",
+            "correct": false
+          },
+          {
+            "text": "ostrzeżeń meteorologicznych",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "text": "W zakresie VHF, wywołanie pilne DSC można nadać na kanale:",
+        "answers": [
+          {
+            "text": "26",
+            "correct": false
+          },
+          {
+            "text": "13",
+            "correct": false
+          },
+          {
+            "text": "70",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "text": "Wywołanie pilne DSC powinno zawierać kategorię:",
+        "answers": [
+          {
+            "text": "URGENCY",
+            "correct": true
+          },
+          {
+            "text": "SAFETY",
+            "correct": false
+          },
+          {
+            "text": "DISTRESS",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "text": "Przy braku potwierdzenia odbioru wywołania pilnego DSC do jednej stacji, może być ono powtórzone po:",
+        "answers": [
+          {
+            "text": "3 a następnie 10 minutach",
+            "correct": true
+          },
+          {
+            "text": "5 a następnie 10 minutach",
+            "correct": false
+          },
+          {
+            "text": "5 a następnie 15 minutach",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "text": "Radiotelefonicznym sygnałem pilności jest sygnał:",
+        "answers": [
+          {
+            "text": "URGENCY",
+            "correct": false
+          },
+          {
+            "text": "PAN PAN",
+            "correct": true
+          },
+          {
+            "text": "DISTRESS",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "text": "W radiotelefonii sygnał pilności wymawia się:",
+        "answers": [
+          {
+            "text": "1 raz",
+            "correct": false
+          },
+          {
+            "text": "2 razy",
+            "correct": false
+          },
+          {
+            "text": "3 razy",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "text": "Łączność ostrzegawczą stosuje się dla:",
+        "answers": [
+          {
+            "text": "nadania porady medycznej",
+            "correct": false
+          },
+          {
+            "text": "odbioru ostrzeżeń pogodowych",
+            "correct": true
+          },
+          {
+            "text": "nadania alarmowania w niebezpieczeństwie",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "text": "W zakresie VHF, wywołanie ostrzegawcze DSC można nadać na kanale:",
+        "answers": [
+          {
+            "text": "12",
+            "correct": false
+          },
+          {
+            "text": "6",
+            "correct": false
+          },
+          {
+            "text": "70",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "text": "Wywołanie ostrzegawcze DSC powinno zawierać kategorie:",
+        "answers": [
+          {
+            "text": "URGENCY",
+            "correct": false
+          },
+          {
+            "text": "SAFETY",
+            "correct": true
+          },
+          {
+            "text": "DISTRESS",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "text": "Radiotelefonicznym sygnałem ostrzegawczy jest sygnał:",
+        "answers": [
+          {
+            "text": "URGENCY",
+            "correct": false
+          },
+          {
+            "text": "PAN PAN",
+            "correct": false
+          },
+          {
+            "text": "SECURITE",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "text": "W radiotelefonii sygnał ostrzegawczy wymawia się:",
+        "answers": [
+          {
+            "text": "1 raz",
+            "correct": false
+          },
+          {
+            "text": "2 razy",
+            "correct": false
+          },
+          {
+            "text": "3 razy",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "text": "Jeżeli urządzenie DSC nie jest podłączona do urządzeń nawigacyjnych, operator powinien wprowadzać do niego aktualną pozycję statku co najmniej:",
+        "answers": [
+          {
+            "text": "co 1 godzinę",
+            "correct": false
+          },
+          {
+            "text": "2 razy na dobę",
+            "correct": false
+          },
+          {
+            "text": "co 4 godziny",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "text": "W zakresie VHF, radiotelefoniczne wezwanie w niebezpieczeństwie powinno być nadane na kanale:",
+        "answers": [
+          {
+            "text": "13",
+            "correct": false
+          },
+          {
+            "text": "16",
+            "correct": true
+          },
+          {
+            "text": "6",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "text": "Wezwanie w niebezpieczeństwie nadane na kanale 16 VHF powinno rozpoczynać się od wywołania zawierającego sygnał niebezpieczeństwa MAYDAY wymówiony:",
+        "answers": [
+          {
+            "text": "1 raz",
+            "correct": false
+          },
+          {
+            "text": "2 razy",
+            "correct": false
+          },
+          {
+            "text": "3 razy",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "text": "Zawiadomienie w niebezpieczeństwie nadane na kanale 16 VHF powinno rozpoczynać się od sygnału niebezpieczeństwa MAYDAY wymówionego:",
+        "answers": [
+          {
+            "text": "1 raz",
+            "correct": true
+          },
+          {
+            "text": "2 razy",
+            "correct": false
+          },
+          {
+            "text": "3 razy",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "text": "Potwierdzenie odbioru zawiadomienia w niebezpieczeństwie nadanego na kanale 16 VHF powinno być nadane na kanale:",
+        "answers": [
+          {
+            "text": "13",
+            "correct": false
+          },
+          {
+            "text": "26",
+            "correct": false
+          },
+          {
+            "text": "16",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "text": "Potwierdzenie odbioru zawiadomienia w niebezpieczeństwie nadane na kanale 16 VHF powinno rozpoczynać się od sygnału niebezpieczeństwa MAYDAY wymówionego:",
+        "answers": [
+          {
+            "text": "1 raz",
+            "correct": true
+          },
+          {
+            "text": "2 razy",
+            "correct": false
+          },
+          {
+            "text": "3 razy",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "text": "Nadanie radiotelefonicznego zawiadomienia o niebezpieczeństwie przez stację w nim nie będącą powinno być poprzedzone sygnałem:",
+        "answers": [
+          {
+            "text": "MAYDAY",
+            "correct": false
+          },
+          {
+            "text": "MAYDAY MAYDAY MAYDAY",
+            "correct": false
+          },
+          {
+            "text": "MAYDAY RELAY MAYDAY RELAY MAYDAY RELAY",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "text": "Sygnał pilności PAN PAN należy stosować przed wywołaniem dotyczącym:",
+        "answers": [
+          {
+            "text": "wypadnięcia człowieka za burtę",
+            "correct": false
+          },
+          {
+            "text": "uzyskania porady medycznej",
+            "correct": true
+          },
+          {
+            "text": "uzyskania ostrzeżenia nawigacyjnego",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "text": "Jeżeli stacja statkowa VHF nie posiada urządzenia DSC, wywołanie pilne (PAN PAN) powinno być nadane na kanale:",
+        "answers": [
+          {
+            "text": "12",
+            "correct": false
+          },
+          {
+            "text": "6",
+            "correct": false
+          },
+          {
+            "text": "16",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "text": "Sygnał ostrzegawczy SECURITE należy stosować przed wywołaniem dotyczącym:",
+        "answers": [
+          {
+            "text": "wypadnięcia człowieka za burtę",
+            "correct": false
+          },
+          {
+            "text": "uzyskania porady medycznej",
+            "correct": false
+          },
+          {
+            "text": "nadania ostrzeżenia",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "text": "Jeżeli stacja statkowa VHF nie posiada urządzenia DSC, wywołanie ostrzegawcze (SECURITE) powinno być nadane na kanale:",
+        "answers": [
+          {
+            "text": "12",
+            "correct": false
+          },
+          {
+            "text": "6",
+            "correct": false
+          },
+          {
+            "text": "16",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "text": "Kanał 75 VHF jest kanałem:",
+        "answers": [
+          {
+            "text": "do łączności w niebezpieczeństwie",
+            "correct": false
+          },
+          {
+            "text": "zabronionym dla zwykłej łączności publicznej",
+            "correct": false
+          },
+          {
+            "text": "bezpieczeństwa",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "text": "Kanał 76 VHF jest kanałem:",
+        "answers": [
+          {
+            "text": "do łączności w niebezpieczeństwie",
+            "correct": false
+          },
+          {
+            "text": "zabronionym dla zwykłej łączności publicznej",
+            "correct": false
+          },
+          {
+            "text": "bezpieczeństwa",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "text": "Kanał 15 VHF w pierwszej kolejności jest kanałem:",
+        "answers": [
+          {
+            "text": "do łączności w niebezpieczeństwie",
+            "correct": false
+          },
+          {
+            "text": "zabronionym dla łączności publicznej",
+            "correct": false
+          },
+          {
+            "text": "do łączności wewnątrzstatkowej z mocą zredukowaną do 1 W",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "text": "Kanał 17 VHF w pierwszej kolejności jest kanałem:",
+        "answers": [
+          {
+            "text": "do łączności wewnątrzstatkowej z mocą zredukowaną do 1 W",
+            "correct": true
+          },
+          {
+            "text": "zabronionym dla łączności publicznej",
+            "correct": false
+          },
+          {
+            "text": "do łączności w niebezpieczeństwie",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "text": "Kanał 13 VHF w pierwszej kolejności jest kanałem:",
+        "answers": [
+          {
+            "text": "do łączności związanej z bezpieczeństwem żeglugi",
+            "correct": true
+          },
+          {
+            "text": "zabronionym dla łączności publicznej",
+            "correct": false
+          },
+          {
+            "text": "wyłącznie do łączności międzystatkowej z mocą zredukowaną do 1 W",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "text": "Kanał 16 VHF w pierwszej kolejności jest kanałem:",
+        "answers": [
+          {
+            "text": "do łączności w niebezpieczeństwie",
+            "correct": true
+          },
+          {
+            "text": "zabronionym dla łączności publicznej",
+            "correct": false
+          },
+          {
+            "text": "do łączności międzystatkowej z mocą zredukowaną do 1 W",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "text": "W zakresie VHF, testowanie urządzenia DSC polega na przeprowadzeniu testu:",
+        "answers": [
+          {
+            "text": "\"wewnętrznego\"",
+            "correct": false
+          },
+          {
+            "text": "\"wewnętrznego i zewnętrznego\"",
+            "correct": false
+          },
+          {
+            "text": "\"wewnętrznego albo zewnętrznego\"",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "text": "Testowanie \"zewnętrzne\" urządzenia DSC w zakresie VHF powinno być przeprowadzane:",
+        "answers": [
+          {
+            "text": "codziennie",
+            "correct": false
+          },
+          {
+            "text": "raz w tygodniu",
+            "correct": false
+          },
+          {
+            "text": "zabronione jest takie testowanie",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "text": "W zakresie VHF, odwołanie fałszywego alarmowania DSC powinno być nadane na kanale:",
+        "answers": [
+          {
+            "text": "13",
+            "correct": false
+          },
+          {
+            "text": "70",
+            "correct": false
+          },
+          {
+            "text": "16",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 75,
+        "text": "Odwołanie fałszywego alarmowania nadanego za pomocą DSC powinno być skierowane:",
+        "answers": [
+          {
+            "text": "do najbliższej stacji nadbrzeżnej",
+            "correct": false
+          },
+          {
+            "text": "do najbliższej stacji statkowej",
+            "correct": false
+          },
+          {
+            "text": "do wszystkich stacji",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "text": "Odwołanie fałszywego alarmowania nadanego za pomocą EPIRB powinno być skierowane do:",
+        "answers": [
+          {
+            "text": "stacji nadbrzeżnej",
+            "correct": true
+          },
+          {
+            "text": "najbliższej stacji statkowej",
+            "correct": false
+          },
+          {
+            "text": "wszystkich stacji",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "text": "Odwołując fałszywe alarmowanie należy podać następujące informacje:",
+        "answers": [
+          {
+            "text": "pozycję jednostki, rodzaj odwoływanego alarmowania, godzinę nadania i odwołania fałszywego alarmowania",
+            "correct": true
+          },
+          {
+            "text": "rodzaj odwoływanego alarmowania, godzinę nadania i ostatni port postoju jednostki",
+            "correct": false
+          },
+          {
+            "text": "tylko godzinę nadania fałszywego alarmowania i ostatni port postoju jednostki",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "text": "Nadając wywołanie publiczne DSC należy wybrać priorytet (kategorie):",
+        "answers": [
+          {
+            "text": "DISTRESS",
+            "correct": false
+          },
+          {
+            "text": "URGENCY",
+            "correct": false
+          },
+          {
+            "text": "ROUTINE",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "text": "Stacja statkowa VHF nadając wywołanie publiczne DSC do innej stacji statkowej powinna użyć kanału:",
+        "answers": [
+          {
+            "text": "70",
+            "correct": true
+          },
+          {
+            "text": "67",
+            "correct": false
+          },
+          {
+            "text": "26",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 81,
+        "text": "Stacja statkowa nadając wywołanie publiczne DSC do innej stacji statkowej:",
+        "answers": [
+          {
+            "text": "zawsze powinna podać kanał roboczy",
+            "correct": false
+          },
+          {
+            "text": "nie powinna podawać kanału roboczego",
+            "correct": false
+          },
+          {
+            "text": "może podać kanał roboczy",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 82,
+        "text": "Stacja statkowa nadając wywołanie publiczne DSC do stacji nadbrzeżnej:",
+        "answers": [
+          {
+            "text": "powinna podać kanał roboczy",
+            "correct": false
+          },
+          {
+            "text": "nie powinna podawać kanału roboczego",
+            "correct": true
+          },
+          {
+            "text": "może podać kanał roboczy",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "text": "Po przejściu na kanał roboczy, łączność publiczną inicjuje:",
+        "answers": [
+          {
+            "text": "stacja wywołująca za pomocą DSC",
+            "correct": false
+          },
+          {
+            "text": "zawsze stacja wywoływana za pomocą DSC",
+            "correct": false
+          },
+          {
+            "text": "stacja wywoływana za pomocą DSC jeżeli tak podano w wywołaniu DSC",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 84,
+        "text": "Stacja statkowa VHF nadając wywołanie publiczne do innej stacji statkowej może użyć kanału:",
+        "answers": [
+          {
+            "text": "25",
+            "correct": false
+          },
+          {
+            "text": "70",
+            "correct": true
+          },
+          {
+            "text": "26",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 85,
+        "text": "Stacja statkowa VHF nadając wywołanie publiczne do stacji nadbrzeżnej może użyć kanału:",
+        "answers": [
+          {
+            "text": "15",
+            "correct": false
+          },
+          {
+            "text": "70",
+            "correct": true
+          },
+          {
+            "text": "6",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 86,
+        "text": "Radiotelefoniczne wywołanie publiczne w zakresie VHF powinno mieć formę:",
+        "answers": [
+          {
+            "text": "nazwa stacji wywoływanej /1x This is nazwa stacji wywołującej /2x",
+            "correct": false
+          },
+          {
+            "text": "nazwa stacji wywoływanej /1x This is nazwa stacji wywołującej /3x",
+            "correct": false
+          },
+          {
+            "text": "nazwa stacji wywoływanej /2x This is nazwa stacji wywołującej /2x",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 87,
+        "text": "Radiotelefoniczna odpowiedź na wywołanie publiczne w zakresie VHF powinno mieć formę:",
+        "answers": [
+          {
+            "text": "nazwa stacji wywołującej /1x This is nazwa stacji wywoływanej /2x",
+            "correct": false
+          },
+          {
+            "text": "nazwa stacji wywoływanej /4x This is nazwa stacji wywołującej /4x",
+            "correct": false
+          },
+          {
+            "text": "nazwa stacji wywołującej /2x This is nazwa stacji wywoływanej /2x",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 88,
+        "text": "Stacja statkowa VHF, gdy znajduje się w morzu, powinna utrzymywać ciągły nasłuch radiowy na kanałach:",
+        "answers": [
+          {
+            "text": "26",
+            "correct": false
+          },
+          {
+            "text": "70",
+            "correct": false
+          },
+          {
+            "text": "6",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 89,
+        "text": "W łączności stacji statkowej ze stacją nadbrzeżną, o przebiegu korespondencji decyduje:",
+        "answers": [
+          {
+            "text": "stacja statkowa",
+            "correct": false
+          },
+          {
+            "text": "RCC",
+            "correct": false
+          },
+          {
+            "text": "stacja nadbrzeżna",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 90,
+        "text": "Wykaz korespondencji (traffic list) nadawany jest przez:",
+        "answers": [
+          {
+            "text": "stację statkową",
+            "correct": false
+          },
+          {
+            "text": "RCC",
+            "correct": false
+          },
+          {
+            "text": "stację nadbrzeżną",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 91,
+        "text": "Jeżeli wywoływana stacja nie odpowiada na wywołanie publiczne DSC, kolejne można powtórzyć po:",
+        "answers": [
+          {
+            "text": "3 minutach",
+            "correct": false
+          },
+          {
+            "text": "5 minutach",
+            "correct": true
+          },
+          {
+            "text": "8 minutach",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 92,
+        "text": "Jeżeli wywoływana stacja nie odpowiada na radiotelefoniczne wywołanie publiczne, kolejne można powtórzyć po:",
+        "answers": [
+          {
+            "text": "3 minutach",
+            "correct": false
+          },
+          {
+            "text": "5 minutach",
+            "correct": false
+          },
+          {
+            "text": "2 minutach",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 93,
+        "text": "Jednostka pływająca może zrealizować radiotelefoniczną łączność publiczną z abonentem telekomunikacyjnej sieci lądowej:",
+        "answers": [
+          {
+            "text": "bezpośrednio przez telekomunikacyjną sieć lądową",
+            "correct": false
+          },
+          {
+            "text": "za pośrednictwem innej, większej stacji statkowej",
+            "correct": false
+          },
+          {
+            "text": "za pośrednictwem stacji nadbrzeżnej",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 94,
+        "text": "Radiotelefoniczną łączność publiczną z telekomunikacyjną siecią lądową, prowadzi się na kanale:",
+        "answers": [
+          {
+            "text": "16",
+            "correct": false
+          },
+          {
+            "text": "13",
+            "correct": false
+          },
+          {
+            "text": "wskazanym przez stację nadbrzeżną",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "text": "Prowadząc rozmowę radiotelefoniczną ze stacją nadbrzeżną, sygnałem zakończenia wypowiedzi jest sygnał:",
+        "answers": [
+          {
+            "text": "PAN PAN",
+            "correct": false
+          },
+          {
+            "text": "OVER",
+            "correct": true
+          },
+          {
+            "text": "STOP",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 96,
+        "text": "Prowadząc rozmowę radiotelefoniczną z inną stacją statkową, sygnałem zakończenia łączności jest sygnał:",
+        "answers": [
+          {
+            "text": "OVER AND OUT",
+            "correct": false
+          },
+          {
+            "text": "OVER",
+            "correct": false
+          },
+          {
+            "text": "STOP",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 97,
+        "text": "Po przejściu na kanał roboczy, radiotelefoniczne wywołanie publiczne powinno mieć formę:",
+        "answers": [
+          {
+            "text": "nazwa stacji wywoływanej /4x This is nazwa stacji wywołującej /4x",
+            "correct": false
+          },
+          {
+            "text": "nazwa stacji wywoływanej /1x This is nazwa stacji wywołującej /1x",
+            "correct": true
+          },
+          {
+            "text": "nazwa stacji wywoływanej /2x This is nazwa stacji wywołującej /2x",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 98,
+        "text": "Stacja nadbrzeżna pytając stację statkową o przedsiębiorstwo rozliczające jej rachunki radiokomunikacyjne, może użyć skrótu:",
+        "answers": [
+          {
+            "text": "QRJ",
+            "correct": true
+          },
+          {
+            "text": "AAIC",
+            "correct": false
+          },
+          {
+            "text": "QTH",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 99,
+        "text": "Stacja nadbrzeżna pytając stację statkową o jej położenie może użyć skrótu:",
+        "answers": [
+          {
+            "text": "QRJ",
+            "correct": false
+          },
+          {
+            "text": "AAIC",
+            "correct": false
+          },
+          {
+            "text": "QTH",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 100,
+        "text": "Publikacja ITU \"Spis stacji statkowych\" zawiera podstawowe dane o:",
+        "answers": [
+          {
+            "text": "stacjach statkowych otwartych dla korespondencji publicznej",
+            "correct": true
+          },
+          {
+            "text": "jedynie stacjach statkowych służby SAR",
+            "correct": false
+          },
+          {
+            "text": "statkowych stacjach hydrograficznych",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 101,
+        "text": "Publikacja ITU \"Spis stacji nadbrzeżnych\" zawiera podstawowe dane o:",
+        "answers": [
+          {
+            "text": "stacjach nadbrzeżnych otwartych dla korespondencji publicznej",
+            "correct": true
+          },
+          {
+            "text": "stacjach nadbrzeżnych nadających MSI",
+            "correct": false
+          },
+          {
+            "text": "stacjach nadbrzeżnych nadających prognozy pogody",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "text": "Publikacja ITU \"Spis stacji radiookreślania i służb specjalnych\" zawiera podstawowe dane o:",
+        "answers": [
+          {
+            "text": "stacjach nadbrzeżnych otwartych dla korespondencji publicznej",
+            "correct": false
+          },
+          {
+            "text": "stacjach nadbrzeżnych nadających MSI",
+            "correct": true
+          },
+          {
+            "text": "RSC",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 103,
+        "text": "Publikacja Biura Hydrograficznego Marynarki Wojennej \"Spis radiostacji nautycznych\" zawiera podstawowe dane o:",
+        "answers": [
+          {
+            "text": "stacjach nadbrzeżnych otwartych dla korespondencji publicznej",
+            "correct": true
+          },
+          {
+            "text": "portowej służbie ppoż",
+            "correct": false
+          },
+          {
+            "text": "stacjach statkowych",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 104,
+        "text": "W Polsce, dokument \"Pozwolenie radiowe na stację statkową\" przyznaje:",
+        "answers": [
+          {
+            "text": "PRS",
+            "correct": false
+          },
+          {
+            "text": "ITU",
+            "correct": false
+          },
+          {
+            "text": "Urząd Komunikacji Elektronicznej (UKE)",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 105,
+        "text": "Dokument \"Pozwolenie radiowe na stację statkową\" poświadcza o zgodności zainstalowanych na jednostce urządzeń radiowych z:",
+        "answers": [
+          {
+            "text": "przepisami PRS",
+            "correct": false
+          },
+          {
+            "text": "postanowieniami Regulaminu Radiokomunikacyjnego",
+            "correct": true
+          },
+          {
+            "text": "prawidłami Konwencji SOLAS",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 106,
+        "text": "W Polsce, dokument \"Karta bezpieczeństwa\" jest przyznawany przez:",
+        "answers": [
+          {
+            "text": "PRS",
+            "correct": false
+          },
+          {
+            "text": "ITU",
+            "correct": false
+          },
+          {
+            "text": "Urząd Morski (UM)",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 107,
+        "text": "\"Świadectwo operatora łączności bliskiego zasięgu (SRC)\" upoważnia do obsługi urządzeń radiowych zainstalowanych na jednostkach nie podlegających Konwencji SOLAS, pracujących w zakresie częstotliwości:",
+        "answers": [
+          {
+            "text": "VHF, MF i HF",
+            "correct": false
+          },
+          {
+            "text": "tylko VHF",
+            "correct": true
+          },
+          {
+            "text": "tylko MF",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 108,
+        "text": "W \"Dzienniku radiowym\" należy odnotowywać:",
+        "answers": [
+          {
+            "text": "przynajmniej raz dziennie pozycję jednostki",
+            "correct": true
+          },
+          {
+            "text": "liczbę członków załogi",
+            "correct": false
+          },
+          {
+            "text": "pozycję jednostki minimum trzy razy na dobę",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 109,
+        "text": "Stację statkową, która może prowadzić komercyjną łączność publiczną nazywa się:",
+        "answers": [
+          {
+            "text": "komercyjną stacją statkową",
+            "correct": false
+          },
+          {
+            "text": "usługową stacją statkową",
+            "correct": false
+          },
+          {
+            "text": "stacją statkową otwartą dla korespondencji publicznej",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 110,
+        "text": "Opłaty radiokomunikacyjne stacji statkowej za przeprowadzone łączności z telekomunikacyjną siecią lądową, regulowane są przez:",
+        "answers": [
+          {
+            "text": "bezpośrednio właściciela jednostki",
+            "correct": false
+          },
+          {
+            "text": "QRC",
+            "correct": true
+          },
+          {
+            "text": "operatora radiowego",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 111,
+        "text": "Opłata za przeprowadzoną łączności radiotelefoniczną obejmuje stawkę:",
+        "answers": [
+          {
+            "text": "pilotową (PC)",
+            "correct": false
+          },
+          {
+            "text": "nadbrzeżną (CC)",
+            "correct": true
+          },
+          {
+            "text": "portową (SP)",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 112,
+        "text": "Opłata za przeprowadzoną łączności radiotelefoniczną zależy od:",
+        "answers": [
+          {
+            "text": "czasu trwania rozmowy",
+            "correct": true
+          },
+          {
+            "text": "QRC",
+            "correct": false
+          },
+          {
+            "text": "rodzaju jednostki pływającej",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 113,
+        "text": "Potrzebuję asysty.",
+        "answers": [
+          {
+            "text": "I require assistance.",
+            "correct": true
+          },
+          {
+            "text": "I require escort.",
+            "correct": false
+          },
+          {
+            "text": "I need attention.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 114,
+        "text": "Pożar w nadbudówce.",
+        "answers": [
+          {
+            "text": "Superstructure is fireing.",
+            "correct": false
+          },
+          {
+            "text": "I am having fire in superstructure.",
+            "correct": false
+          },
+          {
+            "text": "Superstructure on fire.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 115,
+        "text": "Nabieram wody.",
+        "answers": [
+          {
+            "text": "I am making water.",
+            "correct": true
+          },
+          {
+            "text": "I am taking water",
+            "correct": false
+          },
+          {
+            "text": "I am on fire.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 116,
+        "text": "Czy możecie udzielić pomocy?",
+        "answers": [
+          {
+            "text": "Are you helping me?",
+            "correct": false
+          },
+          {
+            "text": "Can you render assistance?",
+            "correct": true
+          },
+          {
+            "text": "Do you help me?",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 117,
+        "text": "Czy możesz podjąć rozbitków?",
+        "answers": [
+          {
+            "text": "Can you receive survivors?",
+            "correct": false
+          },
+          {
+            "text": "Can you require survivors?",
+            "correct": false
+          },
+          {
+            "text": "Can you pick up survivors?",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 118,
+        "text": "Widzialność jest zmniejszona z powodu mgły.",
+        "answers": [
+          {
+            "text": "Visibility is getting foggy.",
+            "correct": false
+          },
+          {
+            "text": "Visibility is reduced by fog.",
+            "correct": true
+          },
+          {
+            "text": "Visibility is reduced by snow.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 119,
+        "text": "Podaj liczbę rannych.",
+        "answers": [
+          {
+            "text": "Say injured persons.",
+            "correct": false
+          },
+          {
+            "text": "Inform injured.",
+            "correct": false
+          },
+          {
+            "text": "Report injured casualties.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 120,
+        "text": "Stan rozbitków jest dobry.",
+        "answers": [
+          {
+            "text": "Survivors are well.",
+            "correct": true
+          },
+          {
+            "text": "Survivors are good.",
+            "correct": false
+          },
+          {
+            "text": "Survivors in bad condition.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 121,
+        "text": "Przechodzę na kanał ... UKF.",
+        "answers": [
+          {
+            "text": "I am coming to canal VHF.",
+            "correct": false
+          },
+          {
+            "text": "I am going to channel UKF.",
+            "correct": false
+          },
+          {
+            "text": "Changing to channel VHF.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 122,
+        "text": "Śruba jest uszkodzona.",
+        "answers": [
+          {
+            "text": "Propeller damaged.",
+            "correct": true
+          },
+          {
+            "text": "Bolt damaged.",
+            "correct": false
+          },
+          {
+            "text": "Propeller are damaged.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 123,
+        "text": "Zalecam ci przejść na kanał UKF",
+        "answers": [
+          {
+            "text": "I recommend to come to channel VHF.",
+            "correct": false
+          },
+          {
+            "text": "I recommend to switch on to VHF channel.",
+            "correct": false
+          },
+          {
+            "text": "Advise go to VHF channel.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 124,
+        "text": "Dryfuję z prędkością 2 węzłów.",
+        "answers": [
+          {
+            "text": "I am adrift.",
+            "correct": false
+          },
+          {
+            "text": "I am drifting at 2 knots.",
+            "correct": true
+          },
+          {
+            "text": "I am proceeding with drift.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 125,
+        "text": "Brak zasilania.",
+        "answers": [
+          {
+            "text": "No current.",
+            "correct": false
+          },
+          {
+            "text": "No feedback.",
+            "correct": false
+          },
+          {
+            "text": "No power supply.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 126,
+        "text": "Kiedy nadejdzie pomoc?",
+        "answers": [
+          {
+            "text": "When is assistance going?",
+            "correct": false
+          },
+          {
+            "text": "When help is to come?",
+            "correct": false
+          },
+          {
+            "text": "When will assistance arrive?",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 127,
+        "text": "Mam kłopoty z silnikiem głównym.",
+        "answers": [
+          {
+            "text": "I do not have main engine.",
+            "correct": false
+          },
+          {
+            "text": "I have difficulty with main engine",
+            "correct": false
+          },
+          {
+            "text": "I have problems with main engine.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 128,
+        "text": "Mam niebezpieczny przechył na lewą burtę.",
+        "answers": [
+          {
+            "text": "I have dangerous list to port.",
+            "correct": true
+          },
+          {
+            "text": "I am having a heel to port.",
+            "correct": false
+          },
+          {
+            "text": "I am heel dangerously to port.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 129,
+        "text": "Mam problemy z urządzeniem sterowym.",
+        "answers": [
+          {
+            "text": "I have problems with steering gear.",
+            "correct": true
+          },
+          {
+            "text": "I have problems with rudder.",
+            "correct": false
+          },
+          {
+            "text": "I have problems with steering.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 130,
+        "text": "I read you (dość dobrze).",
+        "answers": [
+          {
+            "text": "fairly well",
+            "correct": true
+          },
+          {
+            "text": "fairly good",
+            "correct": false
+          },
+          {
+            "text": "very well",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 131,
+        "text": "Nie odpowiadam za swoje ruchy.",
+        "answers": [
+          {
+            "text": "I am not responsible for my movements.",
+            "correct": false
+          },
+          {
+            "text": "I do not have responsibility for my moving.",
+            "correct": false
+          },
+          {
+            "text": "I am not under command.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 132,
+        "text": "How do you (odbierasz mnie)?",
+        "answers": [
+          {
+            "text": "listen to me",
+            "correct": false
+          },
+          {
+            "text": "read me",
+            "correct": true
+          },
+          {
+            "text": "receive me",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 133,
+        "text": "I am sinking (po zalaniu).",
+        "answers": [
+          {
+            "text": "after flowing.",
+            "correct": false
+          },
+          {
+            "text": "before flooding.",
+            "correct": false
+          },
+          {
+            "text": "after flooding.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 134,
+        "text": "Odebrałem twój sygnał Mayday.",
+        "answers": [
+          {
+            "text": "I can read your Mayday message.",
+            "correct": false
+          },
+          {
+            "text": "I have copied your Mayday signal.",
+            "correct": false
+          },
+          {
+            "text": "I have received your Mayday signal.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 135,
+        "text": "Muszę opuścić statek po zderzeniu.",
+        "answers": [
+          {
+            "text": "I have to leave vessel before collision.",
+            "correct": false
+          },
+          {
+            "text": "I have to abandon ship after crash.",
+            "correct": false
+          },
+          {
+            "text": "I must abandon vessel after collision.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 136,
+        "text": "Utrzymaj kontakt radiowy na kanale.",
+        "answers": [
+          {
+            "text": "Stay in touch on radio on channel.",
+            "correct": false
+          },
+          {
+            "text": "Remain contact on radio channel.",
+            "correct": false
+          },
+          {
+            "text": "Stand by on radio channel.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 137,
+        "text": "I must abandon vessel (po ataku piratów).",
+        "answers": [
+          {
+            "text": "after having attacked pirates.",
+            "correct": false
+          },
+          {
+            "text": "I am over attack of pirates.",
+            "correct": false
+          },
+          {
+            "text": "after attack of pirates.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 138,
+        "text": "Nie mogę płynąć bez pomocy.",
+        "answers": [
+          {
+            "text": "I do not have to sail without assistance.",
+            "correct": false
+          },
+          {
+            "text": "I cannot proceed without assistance.",
+            "correct": true
+          },
+          {
+            "text": "I can't proceeded without assistance.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 139,
+        "text": "Załoga opuściła statek.",
+        "answers": [
+          {
+            "text": "Crew left ship.",
+            "correct": false
+          },
+          {
+            "text": "Crew are abandoning vessel.",
+            "correct": false
+          },
+          {
+            "text": "Crew has abandoned vessel.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 140,
+        "text": "Mam poważne uszkodzenia przyrządów nawigacyjnych.",
+        "answers": [
+          {
+            "text": "I have major damage to navigational instruments.",
+            "correct": true
+          },
+          {
+            "text": "I have seriously damaged my navigational instruments.",
+            "correct": false
+          },
+          {
+            "text": "My navigational instruments have damaged seriously.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 141,
+        "text": "Utrzymuj nasłuch na kanale UKF.",
+        "answers": [
+          {
+            "text": "Stand by on channel VHF.",
+            "correct": false
+          },
+          {
+            "text": "Keep listening on channel UKF.",
+            "correct": false
+          },
+          {
+            "text": "Keep watch on channel UKF.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 142,
+        "text": "Proszę o holownik i karetkę dla ofiar wypadku",
+        "answers": [
+          {
+            "text": "Give me tug and ambulance.",
+            "correct": false
+          },
+          {
+            "text": "Send tug and ambulance for survivors.",
+            "correct": false
+          },
+          {
+            "text": "Send tug and ambulance for casualties.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 143,
+        "text": "Powiedz jeszcze raz proszę.",
+        "answers": [
+          {
+            "text": "Tell me once more please.",
+            "correct": false
+          },
+          {
+            "text": "Say again please.",
+            "correct": true
+          },
+          {
+            "text": "Repeat please.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 144,
+        "text": "Przewidywane jest pogorszenie widzialności.",
+        "answers": [
+          {
+            "text": "Visibility is getting bad.",
+            "correct": false
+          },
+          {
+            "text": "Visibility is deteriorating.",
+            "correct": false
+          },
+          {
+            "text": "Visibility is expected to decrease.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 145,
+        "text": "Stan rozbitków jest zły.",
+        "answers": [
+          {
+            "text": "Condition of castaways is not bad.",
+            "correct": false
+          },
+          {
+            "text": "Survivors in bad condition.",
+            "correct": true
+          },
+          {
+            "text": "Survivors are bad.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 146,
+        "text": "Mój radar jest uszkodzony.",
+        "answers": [
+          {
+            "text": "My radar is damaged.",
+            "correct": true
+          },
+          {
+            "text": "My radar has damaged.",
+            "correct": false
+          },
+          {
+            "text": "My radar brake down.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 147,
+        "text": "Zderzyłem się z nieznanym obiektem.",
+        "answers": [
+          {
+            "text": "I have collided with unknown vessel.",
+            "correct": false
+          },
+          {
+            "text": "I have collided with unknown object.",
+            "correct": true
+          },
+          {
+            "text": "I have collided with unknown derelict.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 148,
+        "text": "Jakie masz problemy?",
+        "answers": [
+          {
+            "text": "What problems do you have?",
+            "correct": true
+          },
+          {
+            "text": "What have you problems?",
+            "correct": false
+          },
+          {
+            "text": "What problems is been?",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 149,
+        "text": "Widzialność jest zmniejszona z powodu rzadkiej mgły.",
+        "answers": [
+          {
+            "text": "Visibility is smaller by hail.",
+            "correct": false
+          },
+          {
+            "text": "Visibility is reduced by mist.",
+            "correct": true
+          },
+          {
+            "text": "Visibility is limited by drizzle.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 150,
+        "text": "Muszę zejść z toru wodnego.",
+        "answers": [
+          {
+            "text": "I must get rid of fairway.",
+            "correct": false
+          },
+          {
+            "text": "I must leave fairway.",
+            "correct": true
+          },
+          {
+            "text": "I have to left fairway.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 151,
+        "text": "Koniec przekazu.",
+        "answers": [
+          {
+            "text": "Finished.",
+            "correct": false
+          },
+          {
+            "text": "Over and out.",
+            "correct": false
+          },
+          {
+            "text": "Out.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 152,
+        "text": "Mam przeciek poniżej linii wodnej.",
+        "answers": [
+          {
+            "text": "I am leaking above water line.",
+            "correct": false
+          },
+          {
+            "text": "I have a leak below water line.",
+            "correct": true
+          },
+          {
+            "text": "I have a leak under water line.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 153,
+        "text": "Pożar opanowany.",
+        "answers": [
+          {
+            "text": "Fire been extinguished.",
+            "correct": false
+          },
+          {
+            "text": "Fire is putted out.",
+            "correct": false
+          },
+          {
+            "text": "Fire is under control.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 154,
+        "text": "Kiedy przybędziesz na pozycję statku w niebezpieczeństwie?",
+        "answers": [
+          {
+            "text": "When will you run to position in danger?",
+            "correct": false
+          },
+          {
+            "text": "When will you go to ship in dangerous?",
+            "correct": false
+          },
+          {
+            "text": "When will you arrive at distress position?",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 155,
+        "text": "Odbieram ciebie słabo.",
+        "answers": [
+          {
+            "text": "I read you bad.",
+            "correct": false
+          },
+          {
+            "text": "I read you loud and clear.",
+            "correct": false
+          },
+          {
+            "text": "I read you poor.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 156,
+        "text": "Osłońcie mnie od wiatru.",
+        "answers": [
+          {
+            "text": "Make a lee for me.",
+            "correct": true
+          },
+          {
+            "text": "Shelter me.",
+            "correct": false
+          },
+          {
+            "text": "Keep wind away of me.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 157,
+        "text": "Musicie utrzymywać ciszę radiową na tym obszarze.",
+        "answers": [
+          {
+            "text": "Radio must be silent in this area.",
+            "correct": false
+          },
+          {
+            "text": "You must keep radio silence in this area.",
+            "correct": true
+          },
+          {
+            "text": "Be quiet in this area.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 158,
+        "text": "Z mego statku wypadł człowiek za burtę.",
+        "answers": [
+          {
+            "text": "I have lost person overboard.",
+            "correct": false
+          },
+          {
+            "text": "A person felt overboard.",
+            "correct": false
+          },
+          {
+            "text": "My vessel threw person overboard.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 159,
+        "text": "Manewruję z trudnością.",
+        "answers": [
+          {
+            "text": "I am steering with problem.",
+            "correct": false
+          },
+          {
+            "text": "I am manoeuvring with difficulty.",
+            "correct": true
+          },
+          {
+            "text": "I was maneuvering with difficulty.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 160,
+        "text": "Błąd, poprawka.",
+        "answers": [
+          {
+            "text": "Mistake, advice.",
+            "correct": false
+          },
+          {
+            "text": "Error, improvement.",
+            "correct": false
+          },
+          {
+            "text": "Mistake, correction.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 161,
+        "text": "Stanowicie przeszkodę dla ruchu.",
+        "answers": [
+          {
+            "text": "You are obstructing other traffic.",
+            "correct": true
+          },
+          {
+            "text": "You disturb other vessels.",
+            "correct": false
+          },
+          {
+            "text": "You hamper other ships.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 162,
+        "text": "Próbuję płynąć bez pomocy.",
+        "answers": [
+          {
+            "text": "I try proceed without help.",
+            "correct": false
+          },
+          {
+            "text": "I try to sail without attendance.",
+            "correct": false
+          },
+          {
+            "text": "I try to proceed without assistance.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 163,
+        "text": "Fala sejsmiczna jest przewidywana przed ... UTC.",
+        "answers": [
+          {
+            "text": "Tsunami waited for by ... UTC.",
+            "correct": false
+          },
+          {
+            "text": "Freak wave expected by ... UTC.",
+            "correct": false
+          },
+          {
+            "text": "Tsunami expected by .. UTC.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 164,
+        "text": "Czy możesz zejść z mielizny w czasie przypływu?",
+        "answers": [
+          {
+            "text": "Can you refloat in ebb tide?",
+            "correct": false
+          },
+          {
+            "text": "Can you aground during tide?",
+            "correct": false
+          },
+          {
+            "text": "Can you refloat when tide rises?",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 165,
+        "text": "Czy jesteś w drodze?",
+        "answers": [
+          {
+            "text": "Are you in a way?",
+            "correct": false
+          },
+          {
+            "text": "Are you under way?",
+            "correct": true
+          },
+          {
+            "text": "Have you on your way?",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 166,
+        "text": "Pława świetlna nie świeci.",
+        "answers": [
+          {
+            "text": "Lightbuoy not shining.",
+            "correct": false
+          },
+          {
+            "text": "Lightbeacon unlighted.",
+            "correct": false
+          },
+          {
+            "text": "Lightbuoy unlit.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 167,
+        "text": "Na torze wodnym znajdują się sieci rybackie.",
+        "answers": [
+          {
+            "text": "Fairway in fishing gear.",
+            "correct": false
+          },
+          {
+            "text": "Fishing nets fouled fairway.",
+            "correct": false
+          },
+          {
+            "text": "Fishing nets in fairway.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 168,
+        "text": "Ogień rozprzestrzenia się.",
+        "answers": [
+          {
+            "text": "Fire is decreasing.",
+            "correct": false
+          },
+          {
+            "text": "Fire is increasing.",
+            "correct": false
+          },
+          {
+            "text": "Fire is spreading.",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 169,
+        "text": "Wasz sygnał zrozumiany, odbiór.",
+        "answers": [
+          {
+            "text": "Your signal understand, over.",
+            "correct": false
+          },
+          {
+            "text": "Your signal understood, over.",
+            "correct": true
+          },
+          {
+            "text": "I get your message, over.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 170,
+        "text": "Jest odpływ.",
+        "answers": [
+          {
+            "text": "Tide falling.",
+            "correct": true
+          },
+          {
+            "text": "Tide dropping.",
+            "correct": false
+          },
+          {
+            "text": "Tide reducing.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 171,
+        "text": "Proszę o potwierdzenie odbioru wiadomości.",
+        "answers": [
+          {
+            "text": "Please acknowledge message.",
+            "correct": true
+          },
+          {
+            "text": "Message over.",
+            "correct": false
+          },
+          {
+            "text": "I got your message.",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 172,
+        "text": "Mam niebezpieczny przechył na prawą burtę.",
+        "answers": [
+          {
+            "text": "I am heeling to starboard.",
+            "correct": false
+          },
+          {
+            "text": "I have dangerous list to port.",
+            "correct": false
+          },
+          {
+            "text": "I have dangerous list to starboard.",
+            "correct": true
+          }
+        ]
+      }
+    ]
+  }
+]

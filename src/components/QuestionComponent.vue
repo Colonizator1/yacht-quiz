@@ -50,6 +50,44 @@ export default {
 </script>
 
 <style scoped>
+@media (prefers-color-scheme: dark) {
+  .question-card {
+    background-color: #2c2c2c;
+    color: #e0e0e0;
+  }
+  
+  .question-text {
+    color: #e0e0e0;
+  }
+  
+  .answer-button {
+    background-color: #3a3a3a;
+    color: #e0e0e0;
+    border-color: #555;
+  }
+  
+  .answer-button:hover {
+    background-color: #4a4a4a;
+  }
+}
+
+@media (max-width: 768px) {
+  .question-card {
+    padding: 15px;
+    margin: 10px;
+  }
+  
+  .question-text {
+    font-size: clamp(1em, 4vw, 1.2em);
+  }
+  
+  .answer-button {
+    padding: 12px;
+    font-size: clamp(0.9em, 3vw, 1em);
+  }
+}
+
+
 button {
   margin: 5px;
   padding: 10px;

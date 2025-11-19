@@ -165,7 +165,9 @@ export default {
 .quiz-container {
   text-align: center;
   margin-top: 20px;
-  padding: 20px;
+  padding: 10px;
+  max-width: 100vw;
+  overflow-x: hidden;
 }
 
 .header {
@@ -175,14 +177,15 @@ export default {
 
 .back-button {
   position: absolute;
-  left: 20px;
+  left: 10px;
   top: 10px;
-  padding: 10px 20px;
+  padding: 8px 15px;
   background-color: #42b983;
   color: white;
   text-decoration: none;
   border-radius: 5px;
   transition: background-color 0.3s;
+  font-size: 14px;
 }
 
 .back-button:hover {
@@ -190,10 +193,29 @@ export default {
 }
 
 h1 {
-  font-size: 1.8em;
+  font-size: clamp(1.2em, 4vw, 1.8em);
   color: #2c3e50;
   margin: 0;
-  padding: 10px 150px;
+  padding: 10px 80px;
+  word-wrap: break-word;
+}
+
+@media (prefers-color-scheme: dark) {
+  h1 {
+    color: #e0e0e0;
+  }
+  
+  .section-select {
+    background-color: #2c2c2c;
+    color: #e0e0e0;
+    border-color: #42b983;
+  }
+  
+  .controls input {
+    background-color: #2c2c2c;
+    color: #e0e0e0;
+    border-color: #42b983;
+  }
 }
 
 .random-mode-button.on {
@@ -205,25 +227,28 @@ h1 {
   position: fixed;
   top: 10px;
   right: 10px;
-  padding: 10px;
-  font-size: 16px;
+  padding: 8px;
+  font-size: 14px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s;
+  z-index: 100;
 }
 
 .controls {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
+  flex-wrap: wrap;
+  padding: 0 10px;
 }
 
 .section-select {
-  padding: 10px;
-  font-size: 16px;
+  padding: 8px;
+  font-size: 14px;
   border: 2px solid #42b983;
   border-radius: 5px;
   background-color: white;
@@ -231,13 +256,15 @@ h1 {
 }
 
 .controls input { 
-  max-width: 60px; 
+  max-width: 60px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
 }
 
 .controls button, .controls input {
-  margin: 5px;
-  padding: 10px;
-  font-size: 16px;
+  margin: 2px;
+  padding: 8px;
+  font-size: 14px;
 }
 
 .controls .fas {
@@ -246,8 +273,43 @@ h1 {
 
 .question-info {
   display: inline-block;
-  margin-left: 15px;
+  margin-left: 5px;
   font-weight: bold;
   color: #42b983;
+  font-size: clamp(12px, 3vw, 16px);
+}
+
+@media (max-width: 768px) {
+  .quiz-container {
+    padding: 5px;
+  }
+  
+  h1 {
+    padding: 10px 60px;
+  }
+  
+  .back-button {
+    padding: 6px 10px;
+    font-size: 12px;
+  }
+  
+  .random-mode-button {
+    padding: 6px;
+    font-size: 12px;
+  }
+  
+  .controls {
+    gap: 5px;
+  }
+  
+  .section-select {
+    font-size: 12px;
+    padding: 6px;
+  }
+  
+  .controls button, .controls input {
+    padding: 6px;
+    font-size: 12px;
+  }
 }
 </style>

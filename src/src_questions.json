@@ -4042,6 +4042,24 @@
         ]
       },
       {
+        "id": 79,
+        "text": "Stacja statkowa nadając wywołanie publiczne DSC do stacji nadbrzeżnej powinna użyć kanału:",
+        "answers": [
+          {
+            "text": "70",
+            "correct": true
+          },
+          {
+            "text": "15",
+            "correct": false
+          },
+          {
+            "text": "6",
+            "correct": false
+          }
+        ]
+      },
+      {
         "id": 80,
         "text": "Stacja statkowa VHF nadając wywołanie publiczne DSC do innej stacji statkowej powinna użyć kanału:",
         "answers": [

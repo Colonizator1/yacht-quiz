@@ -1,18 +1,19 @@
 <template>
-  <div>
-    <h2>{{ question.id }} - {{ question.text }}</h2>
+  <div class="question-container">
+    <h2 class="question-text">{{ question.id }} - {{ question.text }}</h2>
     <img
       v-if="question.image"
       :src="`/${question.image}`"
       alt="question image"
+      class="question-image"
     />
-    <div v-for="(answer, index) in question.answers" :key="index">
+    <div v-for="(answer, index) in question.answers" :key="index" class="answer-wrapper">
       <button
+        class="answer-button"
         @click="selectAnswer(answer)"
-        :style="{
-          backgroundColor:
-            selectedAnswer === answer ? (answer.correct ? 'green' : 'red') : '',
-          color: selectedAnswer === answer ? 'white' : 'black',
+        :class="{
+          'answer-correct': selectedAnswer === answer && answer.correct,
+          'answer-incorrect': selectedAnswer === answer && !answer.correct
         }"
       >
         {{ answer.text }}
@@ -50,52 +51,96 @@ export default {
 </script>
 
 <style scoped>
+.question-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.question-text {
+  color: #2c3e50;
+  margin-bottom: 20px;
+  font-size: clamp(1em, 4vw, 1.3em);
+}
+
+.question-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.answer-wrapper {
+  margin: 10px 0;
+}
+
+.answer-button {
+  width: 100%;
+  margin: 5px 0;
+  padding: 15px;
+  font-size: clamp(0.9em, 3vw, 1em);
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  background-color: #ffffff;
+  color: #2c3e50;
+  cursor: pointer;
+  transition: all 0.3s;
+  text-align: left;
+}
+
+.answer-button:hover {
+  background-color: #f0f0f0;
+  border-color: #42b983;
+}
+
+.answer-correct {
+  background-color: #4caf50 !important;
+  color: white !important;
+  border-color: #4caf50 !important;
+}
+
+.answer-incorrect {
+  background-color: #f44336 !important;
+  color: white !important;
+  border-color: #f44336 !important;
+}
+
+/* Dark mode */
 @media (prefers-color-scheme: dark) {
-  .question-card {
-    background-color: #2c2c2c;
-    color: #e0e0e0;
-  }
-  
   .question-text {
     color: #e0e0e0;
   }
   
   .answer-button {
-    background-color: #3a3a3a;
+    background-color: #2c2c2c;
     color: #e0e0e0;
     border-color: #555;
   }
   
   .answer-button:hover {
-    background-color: #4a4a4a;
+    background-color: #3a3a3a;
+    border-color: #42b983;
+  }
+  
+  .answer-correct {
+    background-color: #4caf50 !important;
+    color: white !important;
+  }
+  
+  .answer-incorrect {
+    background-color: #f44336 !important;
+    color: white !important;
   }
 }
 
+/* Mobile */
 @media (max-width: 768px) {
-  .question-card {
-    padding: 15px;
-    margin: 10px;
-  }
-  
-  .question-text {
-    font-size: clamp(1em, 4vw, 1.2em);
+  .question-container {
+    padding: 10px;
   }
   
   .answer-button {
     padding: 12px;
-    font-size: clamp(0.9em, 3vw, 1em);
   }
-}
-
-
-button {
-  margin: 5px;
-  padding: 10px;
-  font-size: 16px;
-}
-img {
-  max-width: 100%;
-  height: auto;
-  margin-bottom: 20px;
 }
 </style>

@@ -4,11 +4,11 @@
       <router-link to="/" class="back-button">
         <i class="fas fa-arrow-left"></i> Back
       </router-link>
+      <button :class="{ 'on': randomMode }" class="random-mode-button" @click="toggleRandomMode">
+        Random <i class="fas" :class="{ 'fa-toggle-on': randomMode, 'fa-toggle-off': !randomMode }"></i>
+      </button>
       <h1>{{ quizTitle }}</h1>
     </div>
-    <button :class="{ 'on': randomMode }" class="random-mode-button" @click="toggleRandomMode">
-      Random <i class="fas" :class="{ 'fa-toggle-on': randomMode, 'fa-toggle-off': !randomMode }"></i>
-    </button>
     <div class="controls">
       <select v-if="quizType === 'src-egzamin'" v-model="selectedSection" class="section-select">
         <option value="gmdss">GMDSS (1-{{ sectionSizes.gmdss }})</option>
@@ -172,37 +172,80 @@ export default {
 
 .header {
   position: relative;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  padding: 0 10px;
 }
 
 .back-button {
-  position: absolute;
-  left: 10px;
-  top: 10px;
-  padding: 8px 15px;
+  padding: 6px 12px;
   background-color: #42b983;
   color: white;
   text-decoration: none;
   border-radius: 5px;
   transition: background-color 0.3s;
-  font-size: 14px;
+  font-size: 12px;
+  white-space: nowrap;
 }
 
 .back-button:hover {
   background-color: #369970;
 }
 
+.random-mode-button {
+  padding: 6px 12px;
+  font-size: 12px;
+  border: 2px solid #42b983;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s;
+  background-color: #ffffff;
+  color: #2c3e50;
+  white-space: nowrap;
+}
+
+.random-mode-button:hover {
+  background-color: #f0f0f0;
+}
+
+.random-mode-button.on {
+  background-color: #42b983;
+  color: white;
+  border-color: #42b983;
+}
+
 h1 {
-  font-size: clamp(1.2em, 4vw, 1.8em);
+  font-size: clamp(0.9em, 3vw, 1.1em);
   color: #2c3e50;
   margin: 0;
-  padding: 10px 80px;
+  flex: 1;
+  min-width: 0;
   word-wrap: break-word;
+  font-weight: 500;
 }
 
 @media (prefers-color-scheme: dark) {
   h1 {
     color: #e0e0e0;
+  }
+  
+  .random-mode-button {
+    background-color: #2c2c2c;
+    color: #e0e0e0;
+    border-color: #42b983;
+  }
+  
+  .random-mode-button:hover {
+    background-color: #3a3a3a;
+  }
+  
+  .random-mode-button.on {
+    background-color: #42b983;
+    color: white;
   }
   
   .section-select {
@@ -216,24 +259,6 @@ h1 {
     color: #e0e0e0;
     border-color: #42b983;
   }
-}
-
-.random-mode-button.on {
-  background-color: green;
-  color: white;
-}
-
-.random-mode-button {
-  position: fixed;
-  top: 10px;
-  right: 10px;
-  padding: 8px;
-  font-size: 14px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: background-color 0.3s;
-  z-index: 100;
 }
 
 .controls {
@@ -284,18 +309,22 @@ h1 {
     padding: 5px;
   }
   
+  .header {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 6px;
+    margin-bottom: 15px;
+  }
+  
+  .back-button, .random-mode-button {
+    padding: 5px 8px;
+    font-size: 11px;
+  }
+  
   h1 {
-    padding: 10px 60px;
-  }
-  
-  .back-button {
-    padding: 6px 10px;
-    font-size: 12px;
-  }
-  
-  .random-mode-button {
-    padding: 6px;
-    font-size: 12px;
+    order: -1;
+    text-align: center;
+    font-size: 0.85em;
   }
   
   .controls {
